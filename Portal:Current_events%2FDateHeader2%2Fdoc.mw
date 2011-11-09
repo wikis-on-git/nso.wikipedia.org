@@ -1,0 +1,67 @@
+;This template is used by [[Portal:Current_events]] and sub-pages.
+
+<pre>
+{{Portal:Current events/DateHeader2|2007|3|1}}
+|}
+</pre>
+
+gives:
+
+{{Portal:Current events/DateHeader2|2007|3|1}}
+|}
+
+and
+
+<pre>
+{{Portal:Current events/DateHeader2|2007|3|14}}
+defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi 
+|}
+</pre>
+
+gives:
+
+{{Portal:Current events/DateHeader2|2007|3|14}}
+defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi defghi 
+|}
+
+Note that the template opens two nested tables and closes only the inner one. Therefore after the template call and optional extra table rows, a closing tag is required. Without  extra rows we have a header in a double box, while with text in the extra row(s) we get that text in the outer box below the boxed header.
+ 
+The first example has the anchors #2007_March_1 and #2007_March_01, the second the anchor #2007_March_14. Having the full date as anchor name allows transclusion of day pages from different years on one page, without collision of anchor names (otherwise there would be equal anchors of which only the first would be effective).
+
+Thus we can use the section links [[March 2007#2007 March 1]], [[March 2007#2007 March 01]], and [[March 2007#2007 March 14]].
+
+The first is not recommended, because when applying [[Special:Linksearch]] to find links in external style to the content on 1 March, one would get also those to content on 10 March, etc.
+ 
+The anchors have a fixed format, while the page contains with a "bold" specification the expanded wikitext such as <nowiki>"[[March 14]], [[2007]]"</nowiki> which due to the date formatting feature produces links of which one has a user-dependent link label, but with fixed targets "March 14" and "2007"; it also has various links related to the page  [[Portal:Current events/2007 March 14]].
+
+Unfortunately it does not seem possible to have a link with the same target as [[March 2007#2007 March 14]] but with a link label like the combined labels of the user-dependent [[March 14]],[[2007]]. The best seems something like "[[14 March]], [[2007]] [http://en.wikipedia.org/wiki/March_2007#2007_March_14]" (linking to the section of the month page); backlinks of this type are found by [http://en.wikipedia.org/wiki/Special:Linksearch?title=Special%3ALinksearch&target=en.wikipedia.org/wiki/March_2007%232007_March_14].
+
+The day number in the anchor has, when below 10, a leading zero, see also [http://meta.wikimedia.org/wiki/Help:Date_formatting_and_linking#Using_the_date_formatting_feature_and_also_adding_a_link_of_choice].
+
+==Range==
+To find the weekday this template uses #time, therefore the weekday is only supplied for dates in the period 1970 - 2037.
+
+Examples outside this range:
+{{Xpd|Portal:Current events/DateHeader2|1897|3|14}} 
+|}(would give an error message)
+
+----
+{{Xpd|Portal:Current events/DateHeader2|1967|3|13}} 
+|}(would compute the weekday of [[1 January]] [[1970]]!)
+
+----
+{{Xpd|Portal:Current events/DateHeader2|1967|3|14}}
+|}(ditto)
+
+----
+{{Xpd|Portal:Current events/DateHeader2|2047|3|14}} 
+|}(would give an error message)
+----
+
+"<nowiki>{{WEEKDAYNAME|{{JULIANDAY|{{{1}}}|{{{2}}}|{{{3}}}}}}}</nowiki>" can be used to compute the weekday for all dates. This has not been built in since the template is currently not used for dates outside the period 1970 - 2037. See e.g. {{Ml|1969|January}}, which does not have enough text for each day to merit a separate header.
+
+==Microformat==
+{{UF-hcal-auto}}
+
+==See also==
+*{{tiw|datelink}}

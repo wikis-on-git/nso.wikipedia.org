@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |native_name              =''República de Angola''
 |conventional_long_name   =Republic of Angola
 |common_name              =Angola
@@ -18,7 +18,7 @@
 |currency_code            =AOA
 |time_zone                =[[West Africa Time|WAT]]
 |utc_offset               =+1
-|time_zone_DST            =''not observed''
+|time_zone_DST            =''ga e elwe hloko''
 |utc_offset_DST           =+1
 |demonym                  =Angolan
 |cctld                    =[[.ao]]

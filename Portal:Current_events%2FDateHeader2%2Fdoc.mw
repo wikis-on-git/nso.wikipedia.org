@@ -1,4 +1,4 @@
-;This template is used by [[Portal:Current_events]] and sub-pages.
+;This template is used by [[Portal:Current events]] and sub-pages.
 
 <pre>
 {{Portal:Current events/DateHeader2|2007|3|1}}
@@ -38,7 +38,7 @@ Unfortunately it does not seem possible to have a link with the same target as [
 
 The day number in the anchor has, when below 10, a leading zero, see also [http://meta.wikimedia.org/wiki/Help:Date_formatting_and_linking#Using_the_date_formatting_feature_and_also_adding_a_link_of_choice].
 
-==Range==
+== Range ==
 To find the weekday this template uses #time, therefore the weekday is only supplied for dates in the period 1970 - 2037.
 
 Examples outside this range:
@@ -60,8 +60,8 @@ Examples outside this range:
 
 "<nowiki>{{WEEKDAYNAME|{{JULIANDAY|{{{1}}}|{{{2}}}|{{{3}}}}}}}</nowiki>" can be used to compute the weekday for all dates. This has not been built in since the template is currently not used for dates outside the period 1970 - 2037. See e.g. {{Ml|1969|January}}, which does not have enough text for each day to merit a separate header.
 
-==Microformat==
+== Microformat ==
 {{UF-hcal-auto}}
 
-==See also==
+== See also ==
 *{{tiw|datelink}}

@@ -3,7 +3,7 @@
 |- 
 |
 {| cellspacing=0 width=100% style="background-color:#cef2e0"
-| align="left" style="font-size:11pt; font-weight:bold; padding:5px; margin-left:0px; width:100%"| <span class="summary"><span style="display:none;">Current events of </span>{{Start date|{{{1}}}|{{{2}}}|{{{3}}}}} {{#ifexpr:({{{1}}}>1969)and({{{1}}}<2038)|({{#time:l|{{{1}}}-{{{2}}}-{{{3}}}}})}}</span>{{#ifeq:{{NAMESPACE}}|Portal|[[Category:{{{1}}} by day|{{MONTHNAME|{{{2}}}}}]]}} 
+| align="left" style="font-size:11pt; font-weight:bold; padding:5px; margin-left:0px; width:100%"| <span class="summary"><span style="display:none;">Current events of </span>{{Start date|{{{1}}}|{{{2}}}|{{{3}}}}} {{#ifexpr:({{{1}}}>1969)and({{{1}}}<2038)|({{#time:l|{{{1}}}-{{{2}}}-{{{3}}}}})}}</span>{{#ifeq:{{NAMESPACE}}|Portal|}} 
 | align="right" style="font-weight:bold; padding:5px; margin-left:0px"|<small class="editlink noprint plainlinks">[http://en.wikipedia.org/w/index.php?title=Portal:Current_events/{{{1|0}}}_{{MONTHNAME|{{{2}}}}}_{{#expr:{{{3|0}}}*1}}&action=edit&editintro=Portal:Current_events/Edit_instructions edit]</small>
 | align="right" style="font-weight:bold; padding:5px; margin-left:0px"|<small class="editlink noprint plainlinks">[{{SERVER}}{{localurl:Portal:Current events/{{{1|0}}}_{{MONTHNAME|{{{2}}}}}_{{#expr:{{{3|0}}}*1}}|action=history}} history]</small>
 | align="right" style="font-weight:bold; padding:5px; margin-left:0px"|<small class="editlink noprint plainlinks">[{{SERVER}}{{localurl:Portal:Current events/{{{1|0}}}_{{MONTHNAME|{{{2}}}}}_{{#expr:{{{3|0}}}*1}}|action=watch}} watch]</small>
@@ -11,4 +11,5 @@
 |-
 | class="description" |</includeonly><noinclude>
 {{:Portal:Current events/DateHeader2/doc}}
-[[Category:Wp/nso/Templates generating hCalendars]]</noinclude>
+[[Setensele:Wp/nso/Templates generating hCalendars]]
+</noinclude>

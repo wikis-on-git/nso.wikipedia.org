@@ -1,11 +1,11 @@
 {{Currency
-| currency_name = Euro
+| currency_name = Euro [[File:Euro symbol.svg|center|50px]]
 | image_1 = Euro_banknotes.png
-| image_2 = Euro coins version II.png
+| image_2 = Euro coins and banknotes.jpg
 | image_title_1 = 
 | image_title_2 = 
-| iso_code = ZAR
-| using_countries = '''[[Common Monetary Area]]''': [[Lesotho]], [[Namibia]], [[South Africa]], and [[Swaziland]]
+| iso_code = EUR
+| using_countries = '''[[Common Monetary Area]]''': 18
 | pegged_by = 
 | subunit_ratio_1 = 1/100
 | subunit_name_1 = [[Sente|cent]]
@@ -24,6 +24,7 @@
 |symbol_subunit_1=c
 }}
 
+[[File:European union emu map de.png|thumb|400px|left|Euro 2014]]
 '''Euro''' ('''€''') ke mašeleng a [[Lekgoko la Europa]].
 
 [[Setensele:Main category]]

@@ -1,31 +1,119 @@
-{{Infobox Country
-|conventional_long_name   = Repabliki ya Afrika Borwa  
-|common_name               = Afrika Borwa
-|image_flag               = Flag of South Africa.svg
-|image_coat               = Coat of arms of South Africa.svg
-|image_map                = South Africa (orthographic projection).svg
-|capital                  = [[Pretoria]] (executive)<br />[[Bloemfontein]] (judicial)<br />[[Cape Town]] 
-|government_type          = [[Temokrasi]]
-|leader_title1            = [[Presidente]]
-|leader_name1              = [[Jacob Zuma]]
-|leader_title2               = [[Motlatša Presidente]]
-|leader_name2                = [[Kgalema Motlanthe]]
-|area_km2                     = 1221037
-|population_estimate      = 50,586,757
-|currency                 = [[South African Rand|Ranta ya Afrika Borwa]]
-|official_languages       = {{Collapsible list|title=[[Maleme a Afrika Borwa|Maleme]]
-|[[Afrikaans]]
-|[[Seisimane]]
-|[[Sendebele]]
-|[[Sepedi]]
-|[[Sesotho]]
-[[Seswati]]
-|[[Setsonga]]
-|[[Setswana]] 
-|[[Sevenda]]
-|[[Sethosa]]
-|[[Sezulu]]}}
-|drives_on=lanngele
+{{Infobox country
+|native_name =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;padding-left:2.5em;font-size:85%;<!--size of [show]/[hide] link-->
+  |liststyle = text-align:center;white-space:nowrap;
+  |title = {{resize|125%|Republic of South Africa}}
+  | {{small|{{nobold|''10 other official names:''<ref>{{cite web |url=http://www.constitutionalcourt.org.za/site/theconstitution/thetext.htm |title=The Constitution |publisher=Constitutional Court of South Africa |accessdate=3 September 2009}}</ref>}}}}
+  | {{native name|af|{{small|Republiek van Suid-Afrika}}|fontsize=68%}}
+  | {{native name|nr|{{small|iRiphabliki yeSewula Afrika}}|fontsize=68%}}
+  | {{native name|xh|{{small|iRiphabliki yomZantsi Afrika}}|fontsize=68%}}
+  | {{native name|zu|{{small|iRiphabhuliki yaseNingizimu Afrika}}|fontsize=68%}}
+  | {{native name|ss|{{small|iRiphabhulikhi yeNingizimu Afrika}}|fontsize=68%}}
+  | {{native name|nso|{{small|Repabliki ya Afrika-Borwa}}|fontsize=68%}}
+  | {{native name|st|{{small|Rephaboliki ya Afrika Borwa}}|fontsize=68%}}
+  | {{native name|tn|{{small|Rephaboliki ya Aforika Borwa}}|fontsize=68%}}
+  | {{native name|ts|{{small|Riphabliki ra Afrika Dzonga}}|fontsize=68%}}
+  | {{native name|ve|{{small|Riphabuḽiki ya Afurika Tshipembe}}|fontsize=68%}}
+ }}
+|common_name = South Africa
+|image_flag = Flag of South Africa.svg
+|alt_flag =
+|image_coat = Coat of arms of South Africa.png
+|alt_coat =
+|symbol_type = Coat of arms
+|national_motto = "{{unicode|!ke e: ǀxarra ǁke}}"&nbsp;{{small|([[ǀXam language|ǀXam]])}}<br/>{{small|"[[Unity in Diversity]]"}}
+|national_anthem = [[National anthem of South Africa]]<br />[[File:South Africa National Anthem.ogg|center]]
+|image_map = Location South Africa AU Africa.svg
+|map_caption = {{map caption|countryprefix=|location_color=dark blue|region=Africa|region_color=dark grey|subregion=the [[African Union]]|subregion_color=light blue}}
+|alt_map =
+|capital = {{unbulleted list |[[Pretoria]] {{small|(executive)}} |[[Bloemfontein]] {{small|(judicial)}} |[[Cape Town]] {{small|(legislative)}}}}
+|latd= |latm= |latNS= |longd= |longm= |longEW=
+|largest_city = {{nowrap|[[Johannesburg]] {{small|(2006)}}<ref>{{cite web |url=http://www.citypopulation.de/World.html |title=Principal Agglomerations of the World |publisher=Citypopulation.de |accessdate=30 October 2011}}</ref><!--end nowrap:-->}}
+|official_languages = <ref group=Note>The [[Khoi languages|Khoi]], [[Nama language|Nama]] and [[San languages]] languages, [[South African Sign Language]], German, Greek, [[Gujarati language|Gujarati]], [[Hindi language|Hindi]], Portuguese, [[Tamil language|Tamil]], [[Telegu language|Telegu]], [[Urdu language|Urdu]], Arabic, [[Hebrew language|Hebrew]], [[Sanskrit language|Sanskrit]] and "other languages used for religious purposes in South Africa" have a special status ([http://www.constitutionalcourt.org.za/site/constitution/english-web/ch1.html Chapter 1, Article 6 of the South African Constitution]).</ref> 
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Languages of South Africa|11 languages]]
+  |liststyle = border-top:1px solid #aaa;
+  | [[Afrikaans]] | [[South African English|English]] |[[Southern Ndebele language|Southern Ndebele]] |[[Northern Sotho language|Northern Sotho]] |[[Sotho language|Southern Sotho]]   |[[Swati language|Swazi]] |[[Tsonga language|Tsonga]] |[[Tswana language|Tswana]] |[[Venda language|Venda]] |[[Xhosa language|Xhosa]] |[[Zulu language|Zulu]]
+ }}
+|ethnic_groups =
+ {{unbulleted list
+  | {{nowrap|79.2% [[Black people|Black African]]}}
+  |  8.9% [[Coloured]]
+  |  8.9% [[White South African|White]]
+  |  2.5% [[Asian South African|Indian or Asian]]
+  |  0.5% other
+ }}
+|ethnic_groups_year = {{lower|0.4em|<ref name=census2011-inbrief />}} <ref group=Note>The Census 2011 household [http://www.statssa.gov.za/census2011/documents/CensusQuestionnaires/Census%202011_q_A.pdf questionnaire] describes the groups shown here as population groups, asking in respect of each household member "How would ''(name)'' describe him/herself in terms of population group?".</ref> 
+|demonym = [[Demographics of South Africa|South African]]
+|government_type = [[Constitutional democracy|Constitutional]] [[parliamentary republic]]
+|leader_title1 = [[President of South Africa|President]]
+|leader_name1 = [[Jacob Zuma]]
+|leader_title2 = [[Deputy President of South Africa|Deputy President]]
+|leader_name2 = [[Kgalema Motlanthe]]
+|leader_title3 = [[Chairperson of the National Council of Provinces|NCOP chairman]]
+|leader_name3 = [[M. J. Mahlangu|Mninwa J. Mahlangu]]
+|leader_title4 = [[Speaker of the South African National Assembly|Speaker of the National Assembly]]
+|leader_name4 = [[Max Sisulu]]
+|leader_title5 = [[Chief Justice of South Africa|Chief Justice]]
+|leader_name5 = [[Mogoeng Mogoeng]]
+|legislature = [[Parliament of South Africa|Parliament]]
+|upper_house = [[National Council of Provinces]]
+|lower_house = [[National Assembly of South Africa|National Assembly]]
+|sovereignty_type = Independence
+|sovereignty_note = {{nowrap|from the [[United Kingdom of Great Britain and Ireland|United Kingdom]]}}
+|established_event1 = [[Union of South Africa|Union]]
+|established_date1 = 31 May 1910
+|established_event2 = [[Statute of Westminster 1931|Statute of Westminster]]
+|established_date2 = 11 December 1931
+|established_event3 = [[South African referendum, 1960|Republic]]
+|established_date3 = 31 May 1961
+|area_rank = 25th
+|area_magnitude = 1 E12
+|area_km2 = 1,221,037
+|area_sq_mi = 471,443
+|area_footnote =
+|percent_water = negligible
+|population_estimate = 52,981,991<ref name=newpopest>{{cite web|url=http://www.statssa.gov.za/publications/P0302/P03022013.pdf |title=Mid-year population estimates 2013 |publisher=Statistics South Africa |format=PDF |accessdate=21 July 2013}}</ref>
+|population_estimate_rank = 25th
+|population_estimate_year = 2013
+|population_census = 51,770,560<ref name=census2011-inbrief />{{rp|18}}
+|population_census_year = 2011
+|population_density_km2 = 42.4
+|population_density_sq_mi =
+|population_density_rank = 169th
+|GDP_PPP = {{nowrap|$623.201 billion<ref name=imf2>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2013/02/weodata/weorept.aspx?pr.x=48&pr.y=15&sy=2013&ey=2013&scsm=1&ssd=1&sort=country&ds=.&br=1&c=199&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a= |title=South Africa |publisher=International Monetary Fund |accessdate=2013-10-27}}</ref><!--end nowrap:-->}}
+|GDP_PPP_rank = 25th
+|GDP_PPP_year = 2014
+|GDP_PPP_per_capita = $11,914<ref name=imf2 />
+|GDP_PPP_per_capita_rank = 82nd
+|GDP_nominal = {{nowrap|$371.211 billion<ref name=imf2/>}}
+|GDP_nominal_rank = 33rd
+|GDP_nominal_year = 2014
+|GDP_nominal_per_capita = $7,096<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 83rd
+|Gini_year = 2009
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 63.1 <!--number only-->
+|Gini_ref =<ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 March 2011}}</ref>
+|Gini_rank = <!-- 2nd --><!-- hid rank as source not clear -->
+|HDI_year = 2013
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.629 <!--number only-->
+|HDI_ref =
+|HDI_rank = 121st
+|currency = [[South African rand]]
+|currency_code = ZAR
+|time_zone = [[South African Standard Time|SAST]]
+|utc_offset = +2
+|time_zone_DST = |DST_note = |utc_offset_DST =
+|antipodes =
+|date_format =
+|drives_on = left
+|calling_code = [[+27]]
+|iso3166code =
+|cctld = [[.za]]
 }}
 
 '''Afrika Borwa''' goba '''Repabliki le Afrika-Borwa''' (Republic of South Africa) ke naga lefasaneng la [[Afrika]]. ''Afrika Borwa'' e borwa ba [[Afrika]], e wela seleteng sa [[Borwa ba Afrika|Borwa Ba Afrika]].

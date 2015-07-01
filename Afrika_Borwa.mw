@@ -30,12 +30,12 @@
 |capital = {{unbulleted list |[[Pretoria]] {{small|(executive)}} |[[Bloemfontein]] {{small|(judicial)}} |[[Cape Town]] {{small|(legislative)}}}}
 |latd= |latm= |latNS= |longd= |longm= |longEW=
 |largest_city = {{nowrap|[[Johannesburg]] {{small|(2006)}}<ref>{{cite web |url=http://www.citypopulation.de/World.html |title=Principal Agglomerations of the World |publisher=Citypopulation.de |accessdate=30 October 2011}}</ref><!--end nowrap:-->}}
-|official_languages = <ref group=Note>The [[Khoi languages|Khoi]], [[Nama language|Nama]] and [[San languages]] languages, [[South African Sign Language]], German, Greek, [[Gujarati language|Gujarati]], [[Hindi language|Hindi]], Portuguese, [[Tamil language|Tamil]], [[Telegu language|Telegu]], [[Urdu language|Urdu]], Arabic, [[Hebrew language|Hebrew]], [[Sanskrit language|Sanskrit]] and "other languages used for religious purposes in South Africa" have a special status ([http://www.constitutionalcourt.org.za/site/constitution/english-web/ch1.html Chapter 1, Article 6 of the South African Constitution]).</ref> 
+|official_languages = <ref> ''Note:'' The Khoi, Nama and San languages, South African Sign Language, German, Greek, Gujarati, Hindi, Portuguese, Tamil, Telegu, Urdu, Arabic, Hebrew, Sanskrit and "other languages used for religious purposes in South Africa" have a special status ([http://www.constitutionalcourt.org.za/site/constitution/english-web/ch1.html Chapter 1, Article 6 of the South African Constitution]).</ref> 
  {{collapsible list
   |titlestyle = background:transparent;text-align:left;font-weight:normal;
   |title = [[Maleme a Afrika Borwa|11 Maleme]]
   |liststyle = border-top:1px solid #aaa;
-  | [[Afrikaans]] | [[Seisimane]] |[[Sendebele]] |[[Sepedi]] |[[Sesotho]]   |[[Seswati]] |[[Setsonga]] |[[Setswana]] |[[Sevenda]] |[[Sethosa]] |[[Sezulu]]
+  | [[Afrikaans]] | [[Seisimane]] |[[Sendebele]] |[[Sepedi]] |[[Sesotho]] |[[Seswati]] |[[Setsonga]] |[[Setswana]] |[[Sevenda]] |[[Sethosa]]<!-- ke isiXhosa--> |[[Sezulu]]
  }}
 |ethnic_groups =
  {{unbulleted list
@@ -45,7 +45,7 @@
   |  2.5% [[Asian South African|Indian or Asian]]
   |  0.5% other
  }}
-|ethnic_groups_year = {{lower|0.4em|<ref name=census2011-inbrief />}} <ref group=Note>The Census 2011 household [http://www.statssa.gov.za/census2011/documents/CensusQuestionnaires/Census%202011_q_A.pdf questionnaire] describes the groups shown here as population groups, asking in respect of each household member "How would ''(name)'' describe him/herself in terms of population group?".</ref> 
+|ethnic_groups_year = {{lower|0.4em}} <ref name="Note">The Census 2011 household [http://www.statssa.gov.za/census2011/documents/CensusQuestionnaires/Census%202011_q_A.pdf questionnaire] describes the groups shown here as population groups, asking in respect of each household member "How would ''(name)'' describe him/herself in terms of population group?".</ref> 
 |demonym = [[Demographics of South Africa|South African]]
 |government_type = [[Constitutional democracy|Constitutional]] [[parliamentary republic]]
 |leader_title1 = [[Peresidente ya Afrika Borwa|Peresidente]]
@@ -53,9 +53,9 @@
 |leader_title2 = [[Motlatša Peresidente ya Afrika Borwa|Motlatša Peresidente]]
 |leader_name2 = [[Cyril Ramaphosa]]
 |leader_title3 = [[Modulasetulo wa NCOP]]
-|leader_name3 = [[M. J. Mahlangu|Mninwa J. Mahlangu]]
+|leader_name3 = [[Thandi Modise]]
 |leader_title4 = [[Speaker of the South African National Assembly|Speaker of the National Assembly]]
-|leader_name4 = [[Max Sisulu]]
+|leader_name4 = [[Baleka Mbete]]
 |leader_title5 = [[Chief Justice of South Africa|Chief Justice]]
 |leader_name5 = [[Mogoeng Mogoeng]]
 |legislature = [[Parliament of South Africa|Parliament]]
@@ -70,7 +70,7 @@
 |established_event3 = [[South African referendum, 1960|Republic]]
 |established_date3 = 31 May 1961
 |area_rank = 25th
-|area_magnitude = 1 E12
+|area_magnitude = 
 |area_km2 = 1,221,037
 |area_sq_mi = 471,443
 |area_footnote =
@@ -78,7 +78,7 @@
 |population_estimate = 52,981,991<ref name=newpopest>{{cite web|url=http://www.statssa.gov.za/publications/P0302/P03022013.pdf |title=Mid-year population estimates 2013 |publisher=Statistics South Africa |format=PDF |accessdate=21 July 2013}}</ref>
 |population_estimate_rank = 25th
 |population_estimate_year = 2013
-|population_census = 51,770,560<ref name=census2011-inbrief />{{rp|18}}
+|population_census = 51,770,560{{rp|18}}
 |population_census_year = 2011
 |population_density_km2 = 42.4
 |population_density_sq_mi =
@@ -128,7 +128,7 @@
 
 Afrika Borwa ke leloko la [[Commonwealth of Nations]].
 
-Go tloga ka [[1999]], [[Thabo Mbeki]] ebile mopresidente wa lesome pedi was Afrika Borwa. Pele ga Thabo Mbheki, Ntate [[Nelson Mandela]] e be e le mopresidente.
+Go tloga ka [[2004]], [[Jacob Zuma]] ebile mopresidente wa lesome pedi was Afrika Borwa. Pele ga Jacob Zuma, Thabo Mbheki le Ntate [[Nelson Mandela]] e be e le bapresidente.
 
 == Dipolelo ==
 Afrika borwa e nale [[Maleme a Afrika Borwa|dipolelo tše lešome tee]] tša semmušo elego [[Sezulu]], [[Sethosa]], [[Afrikaans]], [[Sepedi]], [[Setswana]], [[Seisimane|Seisemane]], [[Sesotho]], [[Setsonga]], [[Seswati]], [[Sevenda]] le [[Sendebele]]. Afrika Borwa e nale dipolelo tša goswana le Fanagalo, Selobedu, Setebele sa Leboa le SeSan tšeo dibolelwago efela ese dipolelo tša semmušo.
@@ -169,9 +169,7 @@ Difahlego tša bana ba rena di bolela ka ga bokamoso bjo re bo hlamilego.
 http://www.npconline.co.za/MediaLib/Downloads/Home/Tabs/NDP%202030%20Overview%20-%20Sepedi.pdf
 http://www.npconline.co.za/MediaLib/Downloads/Home/Publications/Sepedi.pdf
 
-<!--Categories-->
 {{DEFAULTSORT:Afrika Borwa}}
-<!--Interwikis-->
 
 [[Setensele:Afrika Borwa|*]]
 [[Setensele:Dinaga Afrika]]

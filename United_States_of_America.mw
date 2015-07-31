@@ -1,28 +1,35 @@
 {{Country
 |conventional_long_name   = United States of America  
-|common_name               = United States ya America
+|common_name              = United States ya America
 |image_flag               = Flag of the United States.svg
-|image_coat               =US-GreatSeal-Obverse.svg
+|image_coat               = US-GreatSeal-Obverse.svg
 |image_map                = United States (orthographic projection).svg
 |capital                  = [[Washington, D.C.]] 
 |government_type          = [[Federal]]
-|leader_name1              = [[Barack Obama]] 
+|leader_name1             = [[Barack Obama]] 
 |sovereignty_type         = [[Independence]]
-|area_km2                     = 9826630
-|population_estimate      = 308.745.538(2010)
-|currency                 = [[United States dollar]] ($)
 |official_languages       = [[Seisimane]] 
+|area_km2                 = 9826630
+|area_rank                = 3rd
+|population_estimate      = 308.745.538(2010)
+|demonym                  = American
+|currency                 = [[United States dollar]] ($)
+|currency_code            = USD
+|time_zone                = UTC-5 to UTC-10
+|utc_offset               = 
+|time_zone_DST            = ''not observed''
+|utc_offset_DST           = 
+|cctld                    = [[.us]]
+|drives_on                = la go ja
 }}
-
 '''United States of America (USA)''' e bogare leboa ga [[Amerika]].
 
-
 <gallery perrow="5">
-Seswantšho:Apollo 15 flag, rover, LM, Irwin cropped.jpg
 Seswantšho:United States Capitol, Washington DC.jpg
 Seswantšho:0326New York City Statue of Liberty.JPG
 Seswantšho:Golden Gate Bridge Clear.JPG
 Seswantšho:Times Square 1-2.JPG
+Seswantšho:Apollo 15 flag, rover, LM, Irwin cropped.jpg
 </gallery>
 
 [[Setensele:Amerika]]

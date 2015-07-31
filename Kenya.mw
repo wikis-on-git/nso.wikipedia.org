@@ -1,22 +1,29 @@
 {{Country
-|native_name = ''Jamhuri ya Kenya''
+|native_name            = ''Jamhuri ya Kenya''
 |conventional_long_name = Repabliki ya Kenya
-|common_name = Kenya
-|image_flag = Flag of Kenya.svg
-|image_coat = Coat_of_arms_of_Kenya.svg
-|image_map = Kenya in its region (de-facto).svg
-|capital = [[Nairobi]]
-|government_type = [[Republic|Repabliki]]
-|leader_name1 = [[Mwai Kibaki]]
-|largest_city = Nairobi
-|area_km2 = 580,367
-|population_estimate = 34,707,817<sup><small>1</small></sup>
-|currency = [[Kenyan shilling]]
-|official_languages = [[Seswahili]]  <br /> [[Seisimane]]
-|other languages = gKĩkũyũ, Luhya, Luo, Maasai, Meru, Embu, Arabic, So
-|drives_on=lanngele
+|common_name            = Kenya
+|image_flag             = Flag of Kenya.svg
+|image_coat             = Coat_of_arms_of_Kenya.svg
+|image_map              = Kenya in its region (de-facto).svg
+|capital                = [[Nairobi]]
+|government_type        = [[Republic|Repabliki]]
+|leader_name1           = [[Mwai Kibaki]]
+|area_km2               = 580,367
+|area_rank              = 49th
+|population_estimate    = 44 037 656
+|demonym                = Kenyan
+|currency               = [[Kenyan shilling]]
+|currency_code          = KES
+|time_zone              = [[East Africa Time|EAT]]
+|utc_offset             = +3
+|time_zone_DST          = ''not observed''
+|utc_offset_DST         = 
+|cctld                  = [[.ke]]
+|official_languages     = [[Seswahili]]<br />[[Seisimane]]
+|other languages        = gKĩkũyũ, Luhya, Luo, Maasai, Meru, Embu, Arabic, So
+|calling_code           = +258
+|drives_on              = la nngêlê
 }}
-
 
 '''Kenya''' ke naga yeo elego bohlabela bja [[Afrika]]. Kenya e bapane le [[Ethiopia]] goya lebowa, [[Somalia]] go ya lebowa bohlaba, [[Tanzania]] goya borwa, [[Uganda]] goya bodikela, le [[Sudan]] goya lebowa bodikela. [[Indian Ocean]] e bapile borwa bohlabela.
 

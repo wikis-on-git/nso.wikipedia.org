@@ -1,4 +1,4 @@
-{{Infobox Country
+{{Country
 |conventional_long_name = Repabliki ya Botswana
 |common_name            = Botswana
 |image_flag             = Flag of Botswana.svg
@@ -7,14 +7,22 @@
 |capital                = [[Gaborone]]
 |government_type        = Parliamentary republic
 |leader_name1           = [[Ian Khama|Seretse Khama Ian Khama]]
-| area_km2              = 581,730
-| area_sq_mi            = 224,610
+|area_km2               = 581,730
+|area_sq_mi             = 224,610
+|area_rank              = 48th
 |population_estimate    = 1,639,833
-|currency               =  Pula
+|demonym                = Motswana/Batswana
+|currency               = Pula
+|currency_code          = BWP
+|time_zone              = [[Central Africa Time|CAT]]
+|utc_offset             = +2
+|time_zone_DST          = ''not observed''
+|utc_offset_DST         = 
+|cctld                  = [[.bw]]
 |official_languages     = [[Seisimane]] <br /> [[Setswana]]&nbsp;<small>(setšhaba)
-|drives_on              =lanngele
+|calling_code           = +267
+|drives_on              = la nngêlê
 }}
-
 '''Botswana''' ke naga lefasaneng la [[Afrika]]. ''Botswana'' e borwa ba [[Afrika]], e wela seleteng sa [[Borwa ba Afrika|Borwa Ba Afrika]].
 
 ''Botswana'' e agišane le : 

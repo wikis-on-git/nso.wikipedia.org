@@ -1,7 +1,7 @@
 {{Infobox South African town
 | name                    = Merry Pebble Stream
 | native_name             = 
-| other_name              = <!--{{Coord|25.449|S|30.833|E|display=title|type:landmark_region:ZA}}-->
+| other_name              = {{Coord|24.729|S|31.235|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = 
 | image_caption           = 
 | province                = Mpumalanga
@@ -12,19 +12,36 @@
 | leader_party            = 
 | leader_title            = Councillor
 | leader_name             = 
-| area_footnotes          = 
-| area_total_km2          = 
-| elevation_m             = 
-| population_footnotes    = 
-| population_total        = 
-| population_as_of        = 
+| area_footnotes          = <ref name=census2011>[http://census2011.adrianfrith.com/place/877072 Main Place Merry Pebble Stream] ''Census 2011''</ref>
+| area_total_km2          = 12.92
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 6905
+| population_as_of        = 2011
+<!-- race -->
+| percent_black           = 99.9%
+| percent_coloured        = 
+| percent_asian           = 
+| percent_white           = 
+| percent_other           = 0.1%
+<!-- language -->
+| demographics2_footnotes = <ref name=census2011 />
+| demographics2_title1    = [[Setsonga]]
+| demographics2_info1     = 96.7%
+| demographics2_title2    = [[Seswati]]
+| demographics2_info2     = 0.8%
+| demographics2_title3    = [[Seisimane]]
+| demographics2_info3     = 0.7%
+| demographics2_title5    = Šela
+| demographics2_info5     = 1.8%
 | postal_code             = 
 | postal2_code            = 
-| area_code               = 
+| area_code               = 013
 | censuscode              = 
 | website                 = 
 }}
 '''Merry Pebble Stream''' ke toropo go feta [[Bushbuckridge Mmusogae]], [[Mmasepala Setereke tša Ehlanzeni]] wa diporofense [[Mpumalanga]] kamoka [[Afrika Borwa]].
 
-<br />
+==Ditšhupetšo==
+{{reflist}}
+
 {{Ehlanzeni District Municipality}}

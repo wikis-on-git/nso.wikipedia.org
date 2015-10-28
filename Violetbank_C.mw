@@ -18,6 +18,25 @@
 | population_footnotes    = <ref name="census2011"/>
 | population_total        = 2583
 | population_as_of        = 2011
+<!-- race -->
+| demographics1_footnotes = <ref name="census2011" />
+| percent_black           = 99.6%
+| percent_coloured        = 
+| percent_asian           = 
+| percent_white           = 
+| percent_other           = 0.4%
+<!-- languages -->
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Sepedi]]
+| demographics2_info1     = 59.8%
+| demographics2_title2    = [[Setsonga]]
+| demographics2_info2     = 20.2%
+| demographics2_title3    = [[Sesotho]]
+| demographics2_info3     = 14.6%
+| demographics2_title4    = [[Seswati]]
+| demographics2_info4     = 2.7%
+| demographics2_title5    = Šele
+| demographics2_info5     = 2.7%
 | postal_code             = 
 | postal2_code            = 
 | area_code               = 

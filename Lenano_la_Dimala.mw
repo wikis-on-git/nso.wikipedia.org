@@ -1,0 +1,59 @@
+== Standard colour names ==
+
+The HTML 4.01 specification defines sixteen named colours, as follows:
+
+{| border="0" background="none"
+!Mmala
+!Hexadecimal
+|-
+|[[Ntsho]] (black)
+|style="background:#000000; color:#ffffff; font-family:monospace;"|#000000
+|-
+|[[Silifêra (mmala)|Silifêra]] (silver)
+|style="background:#c0c0c0; color:#000000; font-family:monospace;"|#c0c0c0
+|-
+|[[Pududu]] (Grey)
+|style="background:#808080; color:#ffffff; font-family:monospace;"|#808080
+|-
+|[[Tšhweu]] (white)
+|style="background:#ffffff; color:#000000; font-family:monospace;"|#ffffff
+|-
+|maroon
+|style="background:#800000; color:#ffffff; font-family:monospace;"|#800000
+|-
+|[[Hwibidu]] (red)
+|style="background:#ff0000; color:#000000; font-family:monospace;"|#ff0000
+|-
+|[[Purepura]] (purple)
+|style="background:#800080; color:#ffffff; font-family:monospace;"|#800080
+|-
+|fuchsia
+|style="background:#ff00ff; color:#000000; font-family:monospace;"|#ff00ff
+|-
+|[[Tala]] (green)
+|style="background:#008000; color:#ffffff; font-family:monospace;"|#008000
+|-
+|lime
+|style="background:#00ff00; color:#000000; font-family:monospace;"|#00ff00
+|-
+|olive
+|style="background:#808000; color:#ffffff; font-family:monospace;"|#808000
+|-
+|[[Serolane]] (yellow)
+|style="background:#ffff00; color:#000000; font-family:monospace;"|#ffff00
+|-
+|navy
+|style="background:#000080; color:#ffffff; font-family:monospace;"|#000080
+|-
+|[[Putswa]] (blue)
+|style="background:#0000ff; color:#000000; font-family:monospace;"|#0000ff
+|-
+|teal
+|style="background:#008080; color:#ffffff; font-family:monospace;"|#008080
+|-
+|aqua
+|style="background:#00ffff; color:#000000; font-family:monospace;"|#00ffff
+|-
+|[[Namune (mmala)|Namune]] (orange)
+|style="background:orange;  color:#000000; font-family:monospace;"|orange
+|}

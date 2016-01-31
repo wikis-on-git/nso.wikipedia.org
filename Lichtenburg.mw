@@ -1,12 +1,10 @@
 {{Infobox South African town
 | name                    = Lichtenburg
 | native_name             = 
-| other_name              = 
+| other_name              = {{Coord|26|09|S|26|10|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = Lichtenburg Hoofstraat.jpg
 | image_caption           = Strata se kgolo wa Lichtenburg
-| latd  = 26 |latm  = 09 |lats  = 
-| longd = 26 |longm = 10 |longs = 
-| province                = North West
+| province                = Leboa Bodikela
 | district                = Ngaka Modiri Molema
 | municipality            = Ditsobotla
 | established_date        = 
@@ -15,9 +13,33 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
+| area_footnotes          = <ref name="census2011">[http://census2011.adrianfrith.com/place/668011 Main Place Lichtenburg] ''Census 2011''</ref>
+| area_total_km2          = 108.90
+| population_footnotes    = <ref name="census2011" />
+| population_total        = 26338
+| population_as_of        = 2011
+<!-- race -->
+| demographics1_footnotes = <ref name="census2011" />
+| percent_black           = 59.5%
+| percent_coloured        = 7.9%
+| percent_asian           = 1.9%
+| percent_white           = 30.3%
+| percent_other           = 0.3%
+<!-- languages --
+| demographics2_footnotes = <ref name="census2011" />
+| demographics2_title1    = [[Setswana]]
+| demographics2_info1     = 52.5%
+| demographics2_title2    = [[Afrikaans]]
+| demographics2_info2     = 38.1%
+| demographics2_title3    = [[Seisimane]]
+| demographics2_info3     = 4.1%
+| demographics2_title4    = [[Sesotho]]
+| demographics2_info4     = 1.1%
+| demographics2_title5    = Šele
+| demographics2_info5     = 4.2% 
 | postal_code             = 2740
 | area_code               = 018
-| censuscode              = 668011
+| censuscode              = 
 | website                 = 
 | footnotes               = 
 }}

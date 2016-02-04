@@ -7,15 +7,40 @@
 | province                = Gauteng
 | district                = Sedibeng
 | municipality            = Emfuleni
-| established_date        = 
+| established_date        = 1949
 | government_type         = <!-- Ward 00 -->
 | leader_party            = 
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| postal_code             = 
+| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/760008 Vanderbijlpark] ''Census 2011''.</ref>
+| area_total_km2          = 177.84
+| population_footnotes    = <ref name=census2011 />
+| population_total        = 95,840
+| population_as_of        = 2011
+<!-- demographics (section 1) -->
+| demographics1_footnotes = <ref name=census2011 />
+| percent_black           = 42.5%
+| percent_coloured        = 1.3%
+| percent_asian           = 0.9%
+| percent_white           = 54.4%
+| percent_other           = 0.9%
+<!-- demographics (section 2) -->
+| demographics2_footnotes = <ref name=census2011 />
+| demographics2_title1    = [[Afrikaans]]
+| demographics2_info1     = 51.0%
+| demographics2_title2    = [[Sesotho]]
+| demographics2_info2     = 19.0%
+| demographics2_title3    = [[Seisimane]]
+| demographics2_info3     = 10.0%
+| demographics2_title4    = [[Sezulu]]
+| demographics2_info4     = 4.9%
+| demographics2_title5    = Šele
+| demographics2_info5     = 14.2%
+| postal_code             = 1911
+| postal2_code            = 1900
 | area_code               = 016
-| censuscode              = 760008
+| censuscode              = 
 | website                 = 
 | footnotes               = 
 }}

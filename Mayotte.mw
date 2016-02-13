@@ -2,15 +2,17 @@
 |conventional_long_name   = Collectivité départementale de Mayotte
 |common_name              = Mayotte 
 |image_flag               = Flag_of_Mayotte (local).svg
-|image_coat              = Flag_of_Mayotte (local).svg
+|image_coat               = 
 |image_map                = LocationMayotte.png 
 |national_motto           = 
 |capital                  = [[Mamoudzou]]
 |government_type          = <small>naga ya Fora</small> 
 |leader_name1             = [[Nicolas Sarkozy]]
-|area_km2                     = 374
-|population_estimate        = 
-|population_census        = 186,452
+|area_km2                 = 374
+|area_rank                = 185th
+|population_estimate      = 
+|population_census        = 186,452 	
+|demonym                  = Mayotti
 |official_languages = Bantu <br /> Arab <br /> Malagasy <br /> [[Seswahili]]   <br /> [[Seisimane]]
 |currency                 = [[Euro]] 
 |currency_code            = EUR
@@ -19,7 +21,7 @@
 |utc_offset               = +3 
 |time_zone_DST            = 
 |utc_offset_DST           = 
-|cctld                    = [[.yt]]
+|cctld                    = .yt
 |calling_code             = 262
 |drives_on=
 }}

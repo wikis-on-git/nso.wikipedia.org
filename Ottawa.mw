@@ -1,7 +1,7 @@
 {{Infobox settlement
 | name = Ottawa
 | official_name = City of Ottawa<br>''Ville d'Ottawa''
-| other_name = {{coord|45|25|N|75|41|S}}
+| other_name = {{coord|45|25|N|75|41|W}}
 | native_name =
 | nickname = "Bytown"<ref name="Inc2014">{{cite book|author=Encyclopaedia Britannica, Inc|title=Britannica Student Encyclopedia|url=https://books.google.com/books?id=6IOKAwAAQBAJ&pg=RA8-PA155|year=2014|publisher=Encyclopedia Britannica, Inc.|isbn=978-1-62513-172-0|page=8}}</ref>
 |settlement_type = City
@@ -10,7 +10,7 @@
 | imagesize =
 | image_caption = Centre Block on Parliament Hill, the National War Memorial in downtown Ottawa, the National Gallery of Canada, and the Rideau Canal and Château Laurier.
 | image_flag = Flag of Ottawa, Ontario.svg
-| image_shield = Ottawa coat of arms.png
+| image_shield = <!--Ottawa coat of arms.png...........werk nie-->
 | image_map = Map of Ontario OTTAWA.svg
 | pushpin_map = Canada
 | pushpin_map_caption = Location of Ottawa in Canada
@@ -24,8 +24,8 @@
 | subdivision_type2 = Region
 | subdivision_name2 = National Capital Region
 | leader_title = Mayor
-| leader_title1 = [[City Council]]
-| leader_name1 = [[Ottawa City Council]]
+| leader_title1 = City Council
+| leader_name1 = Ottawa City Council
 | leader_title2 = 
 | leader_name2 = 
 | established_title = Established
@@ -59,17 +59,17 @@
 | population_metro = 1,236,324 (4th)
 | population_density_metro_km2 = 196.6
 | population_density_metro_sq_mi =
-| population_blank1_title= Demonym<
+| population_blank1_title= Demonym
 | population_blank1 = Ottawan
-| blank_name_sec2         = GDP
-| blank_info_sec2         = US$ 58.2&nbsp;billion <ref name="brookingsgdp">{{cite web|url=http://www.brookings.edu/research/interactives/global-metro-monitor-3|title=Global city GDP 2014|publisher=Brookings Institution|accessdate=18 November 2014}}</ref>
-| blank1_name_sec2        = GDP per capita
-| blank1_info_sec2        = US$ 44,149<ref name="brookingsgdp" />
+| blank_name_sec2   = GDP
+| blank_info_sec2   = US$ 58.2&nbsp;billion <ref name="brookingsgdp">{{cite web|url=http://www.brookings.edu/research/interactives/global-metro-monitor-3|title=Global city GDP 2014|publisher=Brookings Institution|accessdate=18 November 2014}}</ref>
+| blank1_name_sec2  = GDP per capita
+| blank1_info_sec2  = US$ 44,149<ref name="brookingsgdp" />
 | timezone = Eastern (EST)
-| utc_offset = −5
-| timezone_DST = [[Eastern Time Zone (North America)|EDT]]
-| utc_offset_DST =-4
-| elevation_m = 70
+| utc_offset   = −5
+| timezone_DST = EDT
+| utc_offset_DST = -4
+| elevation_m  = 70
 | elevation_ft = 230
 | website = [http://www.ottawa.ca/ www.ottawa.ca]
 | postal_code_type = Postal code span

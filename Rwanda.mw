@@ -1,5 +1,5 @@
 {{Country
-|conventional_long_name   = Repabliki YA Rwanda
+|conventional_long_name   = Repabliki ya Rwanda
 |common_name              = Rwanda
 |image_flag               = Flag_of_Rwanda.svg
 |image_coat               = Coat_of_arms_of_Rwanda.svg
@@ -10,9 +10,15 @@
 |leader_name1             = Paul Kagame
 |largest_city             = Kigali
 |area_km2                 = 26,798
+|area_rank                =
 |population_estimate      = 7.6 million
 |currency                 = Rwandan franc
+|currency_code            = RWF
 |official_languages       = Sekinyarwanda<br /> [[Sefora]] <br /> [[Seisimane]]
+|demonym                  = Rwandan / Rwandese
+|time_zone                = CAT 
+|utc_offset               = UTC+2
+|cctld                    = .rw
 |drives_on                = la go ja
 }} 
 '''Rwanda''' ke naga yeo elego lefasaneng la [[Afrika]].

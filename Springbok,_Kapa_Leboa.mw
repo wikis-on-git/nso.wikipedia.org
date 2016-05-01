@@ -1,0 +1,129 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Springbok
+| official_name           = 
+| other_name              = 
+| native_name             = 
+| native_name_lang        = 
+| image_skyline           = Springbok_Northern_Cape.jpg
+| image_alt               = 
+| image_caption           = A view of Springbok from "Klipkoppie"
+| imagesize               = 
+| image_flag              = 
+| flag_alt                =
+| image_seal              = 
+| seal_alt                =
+| image_shield            = 
+| shield_alt              =
+| nickname                = 
+| motto                   = 
+| image_map               = 
+| map_alt                 =
+| map_caption             = 
+| pushpin_map             = {{#if: 29 | Northern Cape  }}
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = {{#if: 29 | [[File:Red pog.svg|6px|link=|alt=]]&nbsp;{{#if: Springbok | Springbok | {{PAGENAME}} }} shown within Northern Cape }}
+<!-- Wedge secondary map in box after pushpin map -->
+{{#if: 29 | {{#switch: Nama Khoi | City of Cape Town | eThekwini | City of Johannesburg = </small></td></tr><tr class="mergedrow">
+<td colspan=2 style="text-align:center;">
+{{hidden begin |titlestyle=height:auto; padding-right:2em; |border=line |title= Location within {{#switch: Nama Khoi | City of Cape Town = Cape Town | eThekwini = Durban | City of Johannesburg = Greater Johannesburg }} }}<!--begins locationmap -->{{Location map| {{#switch: Nama Khoi | City of Cape Town = Cape Town | eThekwini = Durban | City of Johannesburg = Greater Johannesburg }} |lat_deg = 29 |lat_min = 40 |lat_sec =  |lat_dir = S |lon_deg = 17 |lon_min = 53 |lon_sec =  |lon_dir = E |label = Springbok |marksize=6 |float=center |width=250 |border=none |caption= }}<!--end locationmap -->{{hidden end}} }} }}
+| latd  = 29 |latm  = 40 |lats  =  |latNS  = S
+| longd = 17 |longm = 53 |longs =  |longEW = E
+| coordinates_type        = type:city_region:ZA
+| coordinates_display     = {{#if:  inline,title}}
+| subdivision_type        = Naga
+| subdivision_name        = [[Afrika Borwa]]
+| subdivision_type1       = Porofense
+| subdivision_name1       = {{#if: Northern Cape | [[{{#switch: Northern Cape | Eastern Cape = Kapa Bohlabela{{!}}Kapa Bohlabela | Western Cape = Kapa Bodikela{{!}}Kapa Bodikela | KwaZulu-Natal = KwaZulu Natala{{!}}KwaZulu Natala | North West = Leboa Bodikela{{!}}Leboa Bodikela |#default = Northern Cape }}]] | <strong class="error">Province missing</tt></strong>{{ns0|[[Category:Template:Data population/Error]]}} }}
+| subdivision_type2       = Mmasepala Setereke
+| subdivision_name2       = {{#if: Namakwa | Namakwa }}
+| subdivision_type3       = Mmušôgae
+| subdivision_name3       = {{#if: Nama Khoi | {{#switch: Nama Khoi | Buffalo City | City of Cape Town | Ekurhuleni | eThekwini | City of Johannesburg | Mangaung | Nelson Mandela Bay | City of Tshwane = Nama Khoi Metropolitan Municipality{{!}}Nama Khoi | Emalahleni = Emalahleni Local Municipality, Northern Cape{{!}}Emalahleni | Naledi = Naledi Local Municipality, Northern Cape{{!}}Naledi | #default = Nama Khoi }} | <strong class="error">Municipality missing</tt></strong>{{ns0|[[Category:Template:Data population/Error]]}} }}
+| subdivision_type4       = Main Place
+| subdivision_name4       = {{#if:  | [[{{{mainplace}}}]] }}
+| established_title       = {{#if:  |  | Hlômile }}
+| established_date        = {{#if:  |  | {{#property:P571}} }}
+| founder                 =
+| named_for               = 
+| government_footnotes    = 
+| government_type         = 
+| leader_party            = 
+| leader_title            = Councillor
+| leader_name             = 
+| leader_title1           = 
+| leader_name1            = 
+| leader_title2           = 
+| leader_name2            = 
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = {{#if: 364012 | {{#tag:ref |{{cite web |url=http://census2011.adrianfrith.com/place/364012 |title = {{#ifeq: {{str len|364012 }} | 9 | Sub | Main }} Place {{#if: Springbok | Springbok | {{PAGENAME}} }} |work=Census 2011}} |name=census2011}} |  }}
+| area_total_km2          = {{#if: 364012 | {{Metadata South Africa/{{#ifeq: {{str len|364012 }} | 9 | s | m }}p2011/area{{Str left|364012 }}|364012 }} |  }}
+| area_metro_km2          = 
+| elevation_m             = 950
+| elevation_max_m         = 
+| elevation_min_m         = 
+| population_footnotes    = {{#if: 364012 | <ref name="census2011" /> |  }}
+| population_est          = 
+| pop_est_as_of           = 
+| population_total        = {{#if: 364012 | {{Metadata South Africa/{{#ifeq: {{str len|364012 }} | 9 | s | m }}p2011/pop{{Str left|364012 }}|364012 }} |  }}
+| population_as_of        = {{#if: 364012 | 2011 |  }}
+| population_density_km2  = auto
+| population_metro        = 
+| population_density_metro_km2 = {{#if:  | auto }}
+| population_metro_footnotes = 
+| population_demonym      = 
+| population_note         = 
+<!-- demographics (section 1) -->
+| demographics_type1      = {{#ifeq: {{str len|364012 }} | 6 | Diphesente ya merafe <span style="font-weight:normal;">(2011)</span> | {{#if:     | Diphesente ya merafe <span style="font-weight:normal;">({{#if: 364012 | 2011 |  }})</span> }} }}
+| demographics1_footnotes = {{#if: 364012 | <ref name="census2011" /> |  }}
+| demographics1_title1    = <span style="font-weight:normal;">[[Bathobaso]]</span>
+| demographics1_info1     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 1 }} | {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 1 }}% }} |  }}
+| demographics1_title2    = <span style="font-weight:normal;">[[Bammala]]</span>
+| demographics1_info2     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 2 }} | {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 2 }}% }} |  }}
+| demographics1_title3    = <span style="font-weight:normal;">[[MaIndia]]</span>
+| demographics1_info3     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 3 }} | {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 3 }}% }} |  }}
+| demographics1_title4    = <span style="font-weight:normal;">[[Makgowa]]</span>
+| demographics1_info4     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 4 }} | {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 4 }}% }} |  }}
+| demographics1_title5    = <span style="font-weight:normal;">Šele</span>
+| demographics1_info5     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 5 }} | {{#titleparts: {{Metadata South Africa/mp2011/race{{Str left|364012 }}|364012 }} | 1 | 5 }}% }} |  }}
+<!-- demographics (section 2) -->
+| demographics_type2      = {{#ifeq: {{str len|364012 }} | 6 | Dipolelo ya ntlha <span style="font-weight:normal;">(2011)</span> | {{#if:  | Dipolelo ya ntlha <span style="font-weight:normal;">({{#if: 364012 | 2011 |  }})</span> }} }}
+| demographics2_footnotes = {{#if: 364012 | <ref name="census2011" /> |  }}
+| demographics2_title1    = {{#ifeq: {{str len|364012 }} | 6 | <span style="font-weight:normal;">{{Infobox South African town/langname| 364012 | 1 }}</span> | <span style="font-weight:normal;"></span> }}
+| demographics2_info1     = {{#ifeq: {{str len|364012 }} | 6 | {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 2 }}% |  }}
+| demographics2_title2    = {{#ifeq: {{str len|364012 }} | 6 | <span style="font-weight:normal;">{{Infobox South African town/langname| 364012 | 3 }}</span> | <span style="font-weight:normal;"></span> }}
+| demographics2_info2     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 4 }} | {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 4 }}% }} |  }}
+| demographics2_title3    = {{#ifeq: {{str len|364012 }} | 6 | <span style="font-weight:normal;">{{Infobox South African town/langname| 364012 | 5 }}</span> | <span style="font-weight:normal;"></span> }}
+| demographics2_info3     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 6 }} | {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 6 }}% }} |  }}
+| demographics2_title4    = {{#ifeq: {{str len|364012 }} | 6 | <span style="font-weight:normal;">{{Infobox South African town/langname| 364012 | 7 }}</span> | <span style="font-weight:normal;"></span> }}
+| demographics2_info4     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 8 }} | {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 8 }}% }} |  }}
+| demographics2_title5    = {{#ifeq: {{str len|364012 }} | 6 | <span style="font-weight:normal;">Šele</span> | <span style="font-weight:normal;"></span> }}
+| demographics2_info5     = {{#ifeq: {{str len|364012 }} | 6 | {{#if: {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 9 }} | {{#titleparts: {{Metadata South Africa/mp2011/lang{{Str left|364012 }}|364012 }} | 1 | 9 }}% }} |  }}
+<!-- twin cities -------this section was deleted, maybe for future use?-------->
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = 
+| blank_info_sec1         = 
+| blank1_name_sec1        = 
+| blank1_info_sec1        = 
+| blank2_name_sec1        = 
+| blank2_info_sec1        = 
+<!-- blank fields (section 2) -->
+| blank_name_sec2         = 
+| blank_info_sec2         = 
+| blank1_name_sec2        = 
+| blank1_info_sec2        = 
+| blank2_name_sec2        = 
+| blank2_info_sec2        = 
+<!-- Other information -->
+| timezone1               = 
+| utc_offset1             = 
+| postal_code_type        = Nomoro ya poso <span style="font-weight:normal;">(street)</span>
+| postal_code             = {{#if: 8240 | 8240 | {{#if: {{#titleparts: {{Metadata ZA post|Springbok }} | 1 | 2 }} | {{#titleparts: {{Metadata ZA post|Springbok }} | 1 | 2 }} }} }}
+| postal2_code_type       = Nomoro ya poso (Lepokisi)
+| postal2_code            = {{#if:  | {{{postal2_code}}} | {{#if: {{#titleparts: {{Metadata ZA post|Springbok }} | 1 | 1 }} | {{#titleparts: {{Metadata ZA post|Springbok }} | 1 | 1 }} }} }}
+| area_code_type          = Area code
+| area_code               = 027
+| censuscode              = 364012
+| website                 = 
+| footnotes               = 
+}}

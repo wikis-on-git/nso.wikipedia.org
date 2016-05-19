@@ -5,7 +5,7 @@
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu Natala
-| district                = uThukela
+| district                = [[Mmasepala Setereke tša uThukela|uThukela]]
 | municipality            = Okhahlamba
 | established_date        = 
 | government_type         = <!-- Ward 00 -->
@@ -13,6 +13,25 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
+<!-- demographics (section 1) -->
+| demographics1_footnotes = <ref name=census2011 />
+| percent_black           = 60.4%
+| percent_coloured        = 1.3%
+| percent_asian           = 14.6%
+| percent_white           = 20.0%
+| percent_other           = 3.8%
+<!-- demographics (section 2) -->
+| demographics2_footnotes = <ref name=census2011 />
+| demographics2_title1    = [[Sezulu]]
+| demographics2_info1     = 39.4%
+| demographics2_title2    = [[Seisimane]]
+| demographics2_info2     = 26.1%
+| demographics2_title3    = [[Afrikaans]]
+| demographics2_info3     = 16.0%
+| demographics2_title4    = Sign language
+| demographics2_info4     = 3.7%
+| demographics2_title5    = Šele
+| demographics2_info5     = 14.8%
 | postal_code             = 3350
 | area_code               = 036
 | censuscode              = 571064001

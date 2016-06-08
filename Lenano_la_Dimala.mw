@@ -2,9 +2,12 @@
 
 The HTML 4.01 specification defines sixteen named colours, as follows:
 
-{| border="0" background="none"
-!Mmala
-!Hexadecimal
+{| class="wikitable sortable"
+!width=100|Mmala
+!width=100|Hexadecimal
+|-
+|[[Namune (mmala)|Namune]] (orange)
+|style="background:orange;  color:#000000; font-family:monospace;"|#FFA500
 |-
 |[[Ntsho]] (black)
 |style="background:#000000; color:#ffffff; font-family:monospace;"|#000000
@@ -18,42 +21,40 @@ The HTML 4.01 specification defines sixteen named colours, as follows:
 |[[Tšhweu]] (white)
 |style="background:#ffffff; color:#000000; font-family:monospace;"|#ffffff
 |-
-|maroon
-|style="background:#800000; color:#ffffff; font-family:monospace;"|#800000
-|-
 |[[Hwibidu]] (red)
 |style="background:#ff0000; color:#000000; font-family:monospace;"|#ff0000
 |-
 |[[Purepura]] (purple)
 |style="background:#800080; color:#ffffff; font-family:monospace;"|#800080
 |-
-|fuchsia
-|style="background:#ff00ff; color:#000000; font-family:monospace;"|#ff00ff
+|[[Putswa]] (blue)
+|style="background:#0000ff; color:#ffffff; font-family:monospace;"|#0000ff
 |-
 |[[Tala]] (green)
 |style="background:#008000; color:#ffffff; font-family:monospace;"|#008000
 |-
-|lime
+|Aqua
+|style="background:#00ffff; color:#000000; font-family:monospace;"|#00ffff
+|-
+|Fuchsia
+|style="background:#ff00ff; color:#000000; font-family:monospace;"|#ff00ff
+|-
+|Lime
 |style="background:#00ff00; color:#000000; font-family:monospace;"|#00ff00
 |-
-|olive
+|Maroon
+|style="background:#800000; color:#ffffff; font-family:monospace;"|#800000
+|-
+|Navy
+|style="background:#000080; color:#ffffff; font-family:monospace;"|#000080
+|-
+|Olive
 |style="background:#808000; color:#ffffff; font-family:monospace;"|#808000
 |-
 |[[Serolane]] (yellow)
 |style="background:#ffff00; color:#000000; font-family:monospace;"|#ffff00
 |-
-|navy
-|style="background:#000080; color:#ffffff; font-family:monospace;"|#000080
-|-
-|[[Putswa]] (blue)
-|style="background:#0000ff; color:#000000; font-family:monospace;"|#0000ff
-|-
-|teal
+|Teal
 |style="background:#008080; color:#ffffff; font-family:monospace;"|#008080
 |-
-|aqua
-|style="background:#00ffff; color:#000000; font-family:monospace;"|#00ffff
-|-
-|[[Namune (mmala)|Namune]] (orange)
-|style="background:orange;  color:#000000; font-family:monospace;"|orange
 |}

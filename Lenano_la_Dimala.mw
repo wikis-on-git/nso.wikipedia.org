@@ -6,23 +6,20 @@ The HTML 4.01 specification defines sixteen named colours, as follows:
 !width=100|Mmala
 !width=100|Hexadecimal
 |-
+|[[Hwibidu]] (red)
+|style="background:#ff0000; color:#000000; font-family:monospace;"|#ff0000
+|-
 |[[Namune (mmala)|Namune]] (orange)
 |style="background:orange;  color:#000000; font-family:monospace;"|#FFA500
 |-
 |[[Ntsho]] (black)
 |style="background:#000000; color:#ffffff; font-family:monospace;"|#000000
 |-
-|[[Silifêra (mmala)|Silifêra]] (silver)
-|style="background:#c0c0c0; color:#000000; font-family:monospace;"|#c0c0c0
+|[[Phifadu]] (brown)
+|style="background:#964B00; color:#ffffff; font-family:monospace;"|#964B00
 |-
-|[[Pududu]] (Grey)
+|[[Pududu]] (grey)
 |style="background:#808080; color:#ffffff; font-family:monospace;"|#808080
-|-
-|[[Tšhweu]] (white)
-|style="background:#ffffff; color:#000000; font-family:monospace;"|#ffffff
-|-
-|[[Hwibidu]] (red)
-|style="background:#ff0000; color:#000000; font-family:monospace;"|#ff0000
 |-
 |[[Purepura]] (purple)
 |style="background:#800080; color:#ffffff; font-family:monospace;"|#800080
@@ -30,8 +27,17 @@ The HTML 4.01 specification defines sixteen named colours, as follows:
 |[[Putswa]] (blue)
 |style="background:#0000ff; color:#ffffff; font-family:monospace;"|#0000ff
 |-
+|[[Serolane]] (yellow)
+|style="background:#ffff00; color:#000000; font-family:monospace;"|#ffff00
+|-
+|[[Silifêra (mmala)|Silifêra]] (silver)
+|style="background:#c0c0c0; color:#000000; font-family:monospace;"|#c0c0c0
+|-
 |[[Tala]] (green)
 |style="background:#008000; color:#ffffff; font-family:monospace;"|#008000
+|-
+|[[Tšhweu]] (white)
+|style="background:#ffffff; color:#000000; font-family:monospace;"|#ffffff
 |-
 |Aqua
 |style="background:#00ffff; color:#000000; font-family:monospace;"|#00ffff
@@ -51,8 +57,8 @@ The HTML 4.01 specification defines sixteen named colours, as follows:
 |Olive
 |style="background:#808000; color:#ffffff; font-family:monospace;"|#808000
 |-
-|[[Serolane]] (yellow)
-|style="background:#ffff00; color:#000000; font-family:monospace;"|#ffff00
+|[[Mmala wa gauta|Gauta]] (gold)
+|style="background:#FFD700; color:#000000; font-family:monospace;"|#FFD700
 |-
 |Teal
 |style="background:#008080; color:#ffffff; font-family:monospace;"|#008080

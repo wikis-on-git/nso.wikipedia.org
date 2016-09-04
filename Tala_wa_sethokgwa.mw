@@ -1,12 +1,10 @@
 {{Infobox color
-|title=Tala wa sethokgwa
-| hex=#228B22
-| textcolor=Black
-| image=File:Color icon green.svg
-| wavelength=495–570
-| frequency=~575–525
-| r= 34 |g= 139 |b= 34 |rgbspace=sRGB   	
-| source=sRGB approximation to NCS S 2060-G
+| title=Tala wa sethokgwa
+| hex=228B22
+| r= 34 |g= 139 |b= 34 |rgbspace=sRGB 
+| c= 83|m= 21|y=100|k= 8
+| h= 120|s=76|v=55
+| source=X11	
 }}
 '''Tala wa sethokgwa''' ke mmala.
 

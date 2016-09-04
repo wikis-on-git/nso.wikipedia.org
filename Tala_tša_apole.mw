@@ -1,13 +1,10 @@
 {{Infobox color
 |title=Tala tša apole
-| hex=#8DB600
-| textcolor=Black
-| image=File:Color icon green.svg
-| wavelength=495–570
-| frequency=~575–525
-| r= 141 |g= 182 |b= 0 |rgbspace=sRGB
-| source=sRGB approximation to NCS S 2060-G
-}}
+|hex=#8DB600
+|r=141|g=182|b= 0
+|c= 23|m= 0|y=100|k= 29
+|h= 74|s=100|v=71
+|source=X11}}
 '''Tala tša apole''' ke mmala.
 
 {{Shades of green}}

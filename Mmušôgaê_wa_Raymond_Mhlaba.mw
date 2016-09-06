@@ -19,8 +19,6 @@
 | district                = Amathole
 <!-- seat, smaller parts -->
 | seat                    = [[Fort Beaufort]]
-| parts_type              = <!-- [[Ward (South Africa)|Wards]] or [[Local municipality (South Africa)|Local municipalities]] for districts -->
-| parts                   = <!-- for local municipalities, the number of wards -->
 <!-- government type, leaders -->
 | government_footnotes    = 
 | mayor_party             = 
@@ -30,20 +28,20 @@
 | leader_title2           = 
 | leader_name2            = 
 <!-- area -->
-| area_footnotes          = <ref name="census">Sum of the statistics from Census 2011 for [http://census2011.adrianfrith.com/place/276 Nkonkobe], [http://census2011.adrianfrith.com/place/277 Nxuba].</ref>
+| area_footnotes          = <ref name="census2011">Sum of the statistics from Census 2011 for [http://census2011.adrianfrith.com/place/276 Nkonkobe], [http://census2011.adrianfrith.com/place/277 Nxuba].</ref>
 | area_total_km2          = 6358
 <!-- population -->
-| population_footnotes    = <ref name="census"/>
+| population_footnotes    = <ref name="census2011"/>
 | population_total        = 151379
 <!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name="census"/>
+| demographics1_footnotes = <ref name="census2011"/>
 | percent_black           = <!-- demographic statistics for the population groups -->
 | percent_coloured        = 
 | percent_asian           = 
 | percent_white           = 
 | percent_other           = 
 <!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name="census"/>
+| demographics2_footnotes = <ref name="census2011"/>
 | demographics2_title1    = <!-- a list of the most common languages, where it's not added automatically through a census code -->
 | demographics2_info1     = 
 | demographics2_title2    = 
@@ -61,9 +59,6 @@
 
 Formed after the merger of [[Nkonkobe Mmusogae]] and [[Nxuba Mmusogae]]. [[Toropokgolo]] wa Raymond Mhlaba ke [[Fort Beaufort]].
 
-==Ditšhupetšo==
-{{reflist}}
-
 == Ditoropo ==
 Toropo wa mmasepala:
 * [[Fort Beaufort]] (seat)
@@ -76,3 +71,6 @@ Toropo wa mmasepala:
 * [[Katberg]]
 * [[Middledrift, Kapa Bohlabela|Middledrift]]
 * [[Seymour, Kapa Bohlabela|Seymour]]
+
+==Ditšhupetšo==
+{{reflist}}

@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Sabie
 | native_name             = 
-| other_name              = {{Coord|25|05|52|S|30|46|45|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Main Street, Sabie.JPG
 | image_caption           = Main Street, Sabie
+| latd  = 25 |latm  = 05 |lats  = 52
+| longd = 30 |longm = 46 |longs = 45
 | province                = Mpumalanga
 | district                = [[Mmasepala Setereke tša Ehlanzeni|Ehlanzeni]]
 | municipality            = [[Thaba Chweu Mmusogae|Thaba Chweu]]
@@ -13,36 +15,18 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = <ref name=census2011> [http://census2011.adrianfrith.com/place/873009 Main Place Sabie] ''Census 2011''</ref>
-| area_total_km2          = 55.03
-| population_footnotes    = <ref name=census2011 />
-| population_total        = 9148
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = 
+| population_total        = 
 | population_as_of        = 2011
-<!-- race -->
-| percent_black           = 60.8%
-| percent_coloured        = 8.0%
-| percent_asian           = 0.5%
-| percent_white           = 30.1%
-| percent_other           = 0.6%
-<!-- language -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Afrikaans]]
-| demographics2_info1     = 33.4%
-| demographics2_title2    = [[Seswati]]
-| demographics2_info2     = 23.9%
-| demographics2_title3    = [[Sesotho]]
-| demographics2_info3     = 14.5%
-| demographics2_title4    = [[Seisimane]]
-| demographics2_info4     = 10.4%
-| demographics2_title5    = Other
-| demographics2_info5     = 17.8%
 | postal_code             = 1260
 | area_code               = 013
-| censuscode              = <!--873009-->
+| censuscode              = 873009
 | website                 = 
 | footnotes               = 
 }}
-'''Sabie''' ke toropo go feta [[Thaba Chweu Mmusogae]], [[Mmasepala Setereke tša Ehlanzeni]] wa diporofense [[Mpumalanga]] kamoka [[Afrika Borwa]].
+'''Sabie''' ke toropo go feta [[Thaba Chweu Mmusogae]], [[Mmasepala Setereke tša Ehlanzeni]] wa porofense [[Mpumalanga]] ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

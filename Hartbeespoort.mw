@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Hartbeespoort
 | native_name             = 
-| other_name              = {{Coord|25|44|39|S|27|53|58|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 44 |lats  = 39
+| longd = 27 |longm = 53 |longs = 58
 | province                = Leboa Bodikela
 | district                = [[Mmasepala Setereke tša Bojanala Platinum|Bojanala Platinum]]
 | municipality            = [[Mmušoselegae wa Madibeng|Madibeng]]

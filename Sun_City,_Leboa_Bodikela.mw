@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Sun City
 | native_name             = 
-| other_name              = {{Coord|25|20|25|S|27|5|27|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = A - sun city - the lost palace pool.JPG
 | image_caption           = 
+| latd  = 25 |latm  = 20 |lats  = 25
+| longd = 27 |longm = 5 |longs = 27
 | province                = Leboa Bodikela
 | district                = [[Mmasepala Setereke tša Bojanala Platinum|Bojanala Platinum]]
 | municipality            = [[Mmušoselegae wa Moses Kotane|Moses Kotane]]

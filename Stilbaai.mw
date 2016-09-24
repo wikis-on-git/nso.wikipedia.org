@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Stilbaai
 | native_name             = 
-| other_name              = {{coord|34|22|06|S|21|24|40|E|display=title}}
+| other_name              = 
+| latd  = 34 |latm  = 22 |lats  = 06
+| longd = 21 |longm = 24 |longs = 40
 | image_skyline           = Stilbaai (Western Cape), looking east.JPG
 | image_caption           = Stilbaai, with the Dutch Reformed Church in Stilbaai West
 | province                = Kapa Bodikela

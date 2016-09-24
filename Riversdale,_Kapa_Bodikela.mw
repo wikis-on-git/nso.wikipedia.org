@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Riversdale
 | native_name             = 
-| other_name              = {{coord|34|05|49|S|21|15|44|E|display=title}}
+| other_name              = 
+| latd  = 34 |latm = 05 |lats  = 49
+| longd = 21 |longm = 15 |longs = 44
 | image_skyline           = Riversdale, Western Cape.jpg
 | image_caption           = Approaching Riversdale on the N2 highway
 | province                = Kapa Bodikela

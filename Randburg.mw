@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Randburg
 | native_name             = 
-| other_name              = {{Coord|26|5|37|S|28|0|23|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26 |latm = 5 |lats = 37
+| longd = 28 |longm = 0 |longs = 23
 | image_skyline           = MotoPops - Beverley Gardens, Randburg, South Africa.jpg
 | image_caption           = Beverley Gardens, Randburg
 | image_map               = Greater Johannesburg OpenStreetMap small.svg
@@ -22,7 +24,7 @@
 | website                 = 
 | footnotes               = 
 }}
-'''Randburg''' ke toropo kgolo go feta [[City of Johannesburg Metropolitan Municipality]] wa [[Gauteng]].
+'''Randburg''' ke [[toropokgolo]] go feta "City of Johannesburg Metropolitan Municipality" wa [[Gauteng]].
 
 ==Ditšhupetšo==
 {{reflist}}

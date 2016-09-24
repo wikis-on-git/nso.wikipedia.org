@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Uniondale
 | native_name             = 
-| other_name              = {{Coord|33|39|33|S|23|7|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 39 |lats  = 33
+| longd = 23 |longm = 7 |longs = 26
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Eden|Eden]]
 | municipality            = [[George Mmusogae|George]]

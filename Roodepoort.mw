@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Roodepoort
 | native_name             = 
-| other_name              = {{Coord|26|9|45|S|27|52|21|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26 |latm = 9 |lats = 45
+| longd = 27 |longm = 52 |longs = 21
 | image_skyline           = Main Reef Roodepoort.jpg
 | image_caption           = Main Reef Road, Roodepoort
 | image_map               = Greater Johannesburg OpenStreetMap small.svg
@@ -22,7 +24,7 @@
 | website                 = 
 | footnotes               = 
 }}
-'''Roodepoort''' ke toropo kgolo go feta [[City of Johannesburg Metropolitan Municipality]] wa [[Gauteng]].
+'''Roodepoort''' ke [[toropokgolo]] go feta "City of Johannesburg Metropolitan Municipality" wa [[Gauteng]].
 
 ==Ditšhupetšo==
 {{reflist}}

@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Wittedrif
 | native_name             = 
-| other_name              = {{Coord|34|00|26|S|23|20|18|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 34 |latm  = 0 |lats  = 26
+| longd = 23 |longm = 20 |longs = 18
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Eden|Eden]]
 | municipality            = [[Bitou Mmusogae|Bitou]]

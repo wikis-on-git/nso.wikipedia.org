@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Port Beaufort
 | native_name             = 
-| other_name              = {{coord|34|23|45|S|20|49|25|E|display=title}}
+| other_name              = 
+| latd  = 34 |latm = 23 |lats = 45
+| longd = 20 |longm = 49 |longs = 25
 | image_skyline           = Barry church.jpg
 | image_caption           = Barry Church, Port Beaufort
 | province                = Kapa Bodikela

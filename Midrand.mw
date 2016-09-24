@@ -1,9 +1,11 @@
  {{Infobox South African town
 | name                    = Midrand
 | native_name             = 
-| other_name              = {{Coord|25|59|57|S|28|7|35|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm = 59 |lats = 57
+| longd = 28 |longm = 7 |longs = 35
 | image_map               = Greater Johannesburg OpenStreetMap small.svg
 | map_alt                 =
 | map_caption             = 
@@ -24,7 +26,7 @@
 }}
 [[Image:Johhanesburg Water-Midrand Tower-002.jpg|thumb|260px|The Johannesburg Water tower, which for many years dominated the Midrand skyline.]]
 
-'''Midrand''' ke toropo kgolo go feta [[City of Johannesburg Metropolitan Municipality]] wa [[Gauteng]].
+'''Midrand''' [[ke toropokgolo]] go feta "City of Johannesburg Metropolitan Municipality" wa [[Gauteng]].
 
 ==Ditšhupetšo==
 {{reflist}}

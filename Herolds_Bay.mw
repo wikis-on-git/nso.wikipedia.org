@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Herolds Bay
 | native_name             = Heroldsbaai
-| other_name              = {{Coord|33|03|02|S|22|23|51|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 03 |lats  = 02
+| longd = 22 |longm = 23 |longs = 51
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Eden|Eden]]
 | municipality            = [[George Mmusogae|George]]

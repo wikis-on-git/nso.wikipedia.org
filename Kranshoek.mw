@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Kranshoek
 | native_name             = 
-| other_name              = {{Coord|34|05|28|S|23|18|23|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 34 |latm  = 05 |lats  = 28
+| longd = 23 |longm = 18 |longs = 23
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Eden|Eden]]
 | municipality            = [[Bitou Mmusogae|Bitou]]

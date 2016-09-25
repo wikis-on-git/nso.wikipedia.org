@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Burgersdorp
 | native_name             = 
-| other_name              = {{Coord|30|59|50|S|26|19|29|E|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 30 |latm = 59 |lats = 50
+| longd = 26 |longm = 19 |longs = 29
 | image_skyline           = Burgersdorp-001.JPG
 | image_caption           = Burgersdorp viewed from ''The Sentinel'' blockhouse
 | province                = Kapa Bohlabela

@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Zakhele
 | native_name             = 
-| other_name              = {{Coord|30|47|44|S|27|57|51|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 30 |latm = 47 |lats = 44 
+| longd = 27 |longm = 57 |longs = 51
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Joe Gqabi|Joe Gqabi]]
 | municipality            = [[Mmušôselegae wa Senqu|Senqu]]

@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Cresslawn
 | native_name             = 
-| other_name              = {{Coord|26|6|42|S|28|12|16|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 26 |latm = 6 |lats  = 42
+| longd = 28 |longm = 12 |longs = 16
 | province                = Gauteng
 | district                = 
 | municipality            = Ekurhuleni

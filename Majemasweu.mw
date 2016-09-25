@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Majemasweu
 | native_name             = 
-| other_name              = {{Coord|28|41|18|S|26|27|30|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 28 |latm = 41 |lats  = 18
+| longd = 26 |longm = 27 |longs = 30
 | province                = Free State
 | district                = Lejweleputswa
 | municipality            = [[Mmušôselegae wa Masilonyana|Masilonyana]]

@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Brandfort
 | native_name             = 
-| other_name              = {{Coord|28|42|5|S|26|27|32|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 28 |latm = 42 |lats  = 5
+| longd = 26 |longm = 27 |longs = 32
 | province                = Free State
 | district                = Lejweleputswa
 | municipality            = [[Mmušôselegae wa Masilonyana|Masilonyana]]

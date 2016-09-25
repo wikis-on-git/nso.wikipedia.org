@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Rhodes
 | native_name             = 
-| other_name              = {{Coord|30|47|44|S|27|57|51|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 30 |latm = 47 |lats = 44 
+| longd = 27 |longm = 57 |longs = 51 
 | image_skyline           = Village of Rhodes, South Africa.jpg
 | image_caption           = Digae wa Rhodes
 | province                = Kapa Bohlabela

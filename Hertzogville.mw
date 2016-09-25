@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Hertzogville
 | native_name             = 
-| other_name              = {{Coord|28|07|28|S|25|30|2|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 28 |latm = 7 |lats  = 28
+| longd = 25 |longm = 30 |longs = 2
 | image_skyline           = 
 | image_caption           = 
 | province                = Free State

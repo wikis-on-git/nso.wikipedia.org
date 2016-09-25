@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Hoopstad
 | native_name             = 
-| other_name              = {{Coord|27|49|53|S|25|54|27|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 27 |latm = 49 |lats  = 53
+| longd = 25 |longm = 54 |longs = 27
 | image_skyline           = Hoopstad Church, Church Street, Hoopstad.jpg
 | image_caption           = Kereke ya Hoopstad
 | province                = Free State

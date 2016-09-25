@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Makeleketle
 | native_name             =
-| other_name              = {{Coord|28|31|58|S|27|0|6|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 28 |latm = 31 |lats  = 58
+| longd = 27 |longm = 0 |longs = 6
 | image_skyline           = 
 | image_caption           = 
 | province                = Free State

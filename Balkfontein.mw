@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Balkfontein
-| other_name              = {{Coord|27|24|4|S|26|30|15|E|display=title|type:landmark_region:ZA}}
+| other_name              =
+| latd  = 27 |latm = 24 |lats  = 4
+| longd = 26 |longm = 30 |longs = 15
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Nala|Nala]]

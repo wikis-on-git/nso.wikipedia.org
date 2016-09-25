@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Tshepong
 | native_name             = 
-| other_name              = {{Coord|28|50|28|S|26|45|42|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 28 |latm = 50 |lats  = 28
+| longd = 26 |longm = 45 |longs = 42
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Masilonyana|Masilonyana]]

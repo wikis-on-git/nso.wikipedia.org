@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Boshof
 | native_name             = 
-| other_name              = {{Coord|28|32|25|S|25|14|21|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 28 |latm = 32 |lats  = 25
+| longd = 25 |longm = 14 |longs = 21
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Tokologo|Tokologo]]

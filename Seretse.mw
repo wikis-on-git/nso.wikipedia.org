@@ -1,6 +1,8 @@
 {{Infobox South African town 2011
 | name                    = Seretse
-| other_name              = {{Coord|28|33|20|S|25|15|17|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 28 |latm = 33 |lats  = 20
+| longd = 25 |longm = 15 |longs = 17
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Tokologo|Tokologo]]

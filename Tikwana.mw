@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Tikwana
-| other_name              = {{Coord|27|50|17|S|25|54|55|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 27 |latm = 50 |lats  = 17
+| longd = 25 |longm = 54 |longs = 55
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Tswelopele|Tswelopele]]

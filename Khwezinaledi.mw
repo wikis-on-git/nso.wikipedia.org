@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Khwezinaledi
 | native_name             = 
-| other_name              = {{Coord|30|43|05|S|27|12|04|E|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           =
 | image_caption           = 
+| latd  = 30 |latm = 43 |lats = 5
+| longd = 27 |longm = 12 |longs = 4
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Joe Gqabi|Joe Gqabi]]
 | municipality            = [[Mmušôselegae wa Senqu|Senqu]]

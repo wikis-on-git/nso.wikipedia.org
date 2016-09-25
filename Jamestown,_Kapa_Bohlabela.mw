@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Jamestown
 | native_name             = 
-| other_name              = {{Coord|31|07|17|S|26|48|24|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 31 |latm = 7 |lats = 17
+| longd = 26 |longm = 48 |longs = 24
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bohlabela

@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Smithfield
 | native_name             = 
-| other_name              = {{coord|30|12|45|S|26|31|53|E}}
+| other_name              = 
+| latd  = 30 |latm = 12 |lats  = 45
+| longd = 26 |longm = 31 |longs = 53
 | image_skyline           = Smithfield_stadsaal.jpg
 | image_caption           = Smithfield Town Hall
 | province                = Free State

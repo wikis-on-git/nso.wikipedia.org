@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Bultfontein
 | native_name             = 
-| other_name              = {{Coord|28|17|13|S|26|09|02|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 28 |latm = 17 |lats = 13
+| longd = 26 |longm = 09 |longs = 02
 | image_skyline           = 
 | image_caption           = 
 | province                = Free State

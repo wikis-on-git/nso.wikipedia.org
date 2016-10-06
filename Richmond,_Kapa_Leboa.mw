@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Richmond
 | native_name             = 
-| other_name              = {{coord|31|24|48|S|23|56|48|E}}
+| other_name              = 
 | image_skyline           = Loopstraat Richmond Noord-Kaap.jpg
 | image_caption           = Loopstraat, Richmond
+| latd  = 31 |latm = 24 |lats = 48
+| longd = 23 |longm = 56 |longs = 48
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Ubuntu|Ubuntu]]
@@ -13,7 +15,7 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = 369004 Sabelo
+| area_footnotes          = 
 | postal_code             = 
 | area_code               = 
 | censuscode              = 369003

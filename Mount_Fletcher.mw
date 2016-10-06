@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Mount Fletcher
 | native_name             = 
-| other_name              = {{Coord|30.692|S|28.503|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           =
+| latd  = 30.692 |latm = |lats = 
+| longd = 28.503 |longm = |longs = 
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Joe Gqabi|Joe Gqabi]]
 | municipality            = [[Elundini Mmusogae|Elundini]]
@@ -13,33 +15,14 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/286074 Mount Fletcher] ''Census 2011''</ref>
-| area_total_km2          = 9.23
-| population_footnotes    = <ref name=census2011 />
-| population_total        = 11488
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    =
+| population_total        = 
 | population_as_of        = 2011
-<!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name=census2011 />
-| percent_black           = 99.0%
-| percent_coloured        = 0.1%
-| percent_asian           = 0.3%
-| percent_white           = 
-| percent_other           = 0.5%
-<!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Sethosa]]
-| demographics2_info1     = 62.4%
-| demographics2_title2    = [[Sesotho]]
-| demographics2_info2     = 32.2%
-| demographics2_title3    = [[Seisimane]]
-| demographics2_info3     = 1.8%
-| demographics2_title4    = 
-| demographics2_info4     = 
-| demographics2_title5    = Šele
-| demographics2_info5     = 3.6%
 | postal_code             = 4770
 | area_code               = +27 (0)39
-| censuscode              = <!--286074-->
+| censuscode              = 286074
 | website                 = 
 | footnotes               = 
 }}

@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Middelburg
 | native_name             = 
-| other_name              = {{Coord|31|29|38|S|25|1|2|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Station Middelburg EC.JPG
 | image_caption           = Middelburg railway station
+| latd  = 31 |latm  = 29 |lats  = 38
+| longd = 25 |longm = 1 |longs = 2
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Chris Hani|Chris Hani]]
 | municipality            = [[Mmušôselegae wa Inxuba Yethemba|Inxuba Yethemba]]

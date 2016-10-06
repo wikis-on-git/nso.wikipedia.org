@@ -1,8 +1,10 @@
 {{Infobox South African town 2011
 | name                    = Masizakhe
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|30.6305|S|25.4551|E|display=title|type:landmark_region:ZA}}
+| latd  = 30.6305 |latm = |lats = 
+| longd = 25.4551 |longm = |longs = 
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Umsobomvu|Umsobomvu]]

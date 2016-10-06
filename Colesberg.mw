@@ -2,7 +2,9 @@
 | name                    = Colesberg
 | image_skyline           = Colesberg Main Street.jpg
 | image_caption           = Colesberg Main Street
-| other_name              = {{coord|30|43|0|S|25|06|00|E}}
+| other_name              = 
+| latd  = 30 |latm = 43 |lats = 0
+| longd = 25 |longm = 06 |longs = 0
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Umsobomvu|Umsobomvu]]

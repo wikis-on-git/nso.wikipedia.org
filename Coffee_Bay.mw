@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Coffee Bay
 | native_name             = Koffiebaai
-| other_name              = {{Coord|31|59|10|S|29|8|50|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Coffee Bay.jpg
 | image_caption           = Coffee Bay
+| latd  = 31 |latm = 59 |lats = 10
+| longd = 29 |longm = 8 |longs = 50
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša O.R. Tambo|O.R. Tambo]]
 | municipality            = [[King Sabata Dalindyebo Mmusogae|King Sabata Dalindyebo]]
@@ -13,37 +15,13 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/294453 Coffee Bay] ''Census 2011''</ref>
-| area_total_km2          = 0.64
-| population_footnotes    = <ref name=census2011 />
-| population_total        = 258
-| population_as_of        = 2011
-<!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name=census2011 />
-| percent_black           = 73.0%
-| percent_coloured        = 3.5%
-| percent_asian           = 
-| percent_white           = 20.8%
-| percent_other           = 2.7%
-<!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Sethosa]]
-| demographics2_info1     = 65.5%
-| demographics2_title2    = [[Seisimane]]
-| demographics2_info2     = 22.9%
-| demographics2_title3    = [[Afrikaans]]
-| demographics2_info3     = 7.4%
-| demographics2_title4    = 
-| demographics2_info4     = 
-| demographics2_title5    = Šele
-| demographics2_info5     = 4.1%
 | postal_code             = 5082
 | area_code               = 047
 | censuscode              = 294453
 | website                 = 
 | footnotes               = 
 }}
-'''Coffee Bay''' ke toropo nyane go feta [[King Sabata Dalindyebo Mmusogae]], [[Mmasepala Setereke tša O.R. Tambo]] wa diporofense [[Kapa Bohlabela]] (Eastern Cape) ka moka [[Afrika Borwa]].
+'''Coffee Bay''' ke toropo nyane go feta [[King Sabata Dalindyebo Mmusogae]], [[Mmasepala Setereke tša O.R. Tambo]] wa porofense [[Kapa Bohlabela]] (Eastern Cape) ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

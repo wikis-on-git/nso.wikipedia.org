@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Cedarville
 | native_name             = 
-| other_name              = {{Coord|30|23|17|S|29|2|28|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 30 |latm = 23 |lats = 17
+| longd = 29 |longm = 2 |longs = 28
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Alfred Nzo|Alfred Nzo]]
 | municipality            = [[Matatiele Mmusogae|Matatiele]]

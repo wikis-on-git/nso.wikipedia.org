@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Port St Johns
 | native_name             = 
-| other_name              = {{Coord|31.6288|S|29.5369|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Port St. Johns, town centre.jpg
 | image_caption           = Town centre
+| latd  = 31.6288 |latm = |lats = 
+| longd = 29.5369 |longm = |longs = 
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša O.R. Tambo|O.R. Tambo]]
 | municipality            = [[Port St Johns Mmusogae|Port St Johns]]
@@ -13,33 +15,9 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/291168 Port St Johns] ''Census 2011''</ref>
-| area_total_km2          = 8.03
-| population_footnotes    = <ref name=census2011 />
-| population_total        = 6441
-| population_as_of        = 2011
-<!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name=census2011 />
-| percent_black           = 94.7%
-| percent_coloured        = 3.5%
-| percent_asian           = 0.6%
-| percent_white           = 1.1%
-| percent_other           = 0.1%
-<!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Sethosa]]
-| demographics2_info1     = 89.7%
-| demographics2_title2    = [[Seisimane]]
-| demographics2_info2     = 6.2%
-| demographics2_title3    = 
-| demographics2_info3     = 
-| demographics2_title4    = 
-| demographics2_info4     = 
-| demographics2_title5    = Šele
-| demographics2_info5     = 4.1%
 | postal_code             = 5120
 | area_code               = 
-| censuscode              = <!--291168-->
+| censuscode              = 291168
 | website                 = 
 | footnotes               = 
 }}

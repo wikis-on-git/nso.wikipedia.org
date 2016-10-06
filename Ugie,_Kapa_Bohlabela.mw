@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Ugie
 | native_name             = 
-| other_name              = {{Coord|30.2|S|28.25|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           =
+| latd  = 30.20 |latm = |lats = 
+| longd = 28.25 |longm = |longs = 
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Joe Gqabi|Joe Gqabi]]
 | municipality            = [[Elundini Mmusogae|Elundini]]
@@ -13,33 +15,14 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
-| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/286214 Ugie] ''Census 2011''</ref>
-| area_total_km2          = 19.11
-| population_footnotes    = <ref name=census2011 />
-| population_total        = 13467
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = 
+| population_total        = 
 | population_as_of        = 2011
-<!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name=census2011 />
-| percent_black           = 94.3%
-| percent_coloured        = 2.7%
-| percent_asian           = 0.3%
-| percent_white           = 2.6%
-| percent_other           = 0.2%
-<!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Sethosa]]
-| demographics2_info1     = 89.3%
-| demographics2_title2    = [[Afrikaans]]
-| demographics2_info2     = 4.6%
-| demographics2_title3    = [[Seisimane]]
-| demographics2_info3     = 2.3%
-| demographics2_title4    = [[Sesotho]]
-| demographics2_info4     = 1.7%
-| demographics2_title5    = Other
-| demographics2_info5     = 2.1%
 | postal_code             = 5470
 | area_code               = +27 (0)45
-| censuscode              = <!--286214-->
+| censuscode              = 286214
 | website                 = 
 | footnotes               = 
 }}

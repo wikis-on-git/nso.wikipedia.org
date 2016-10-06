@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Niekerkshoop
 | native_name             = 
+| other_name              = 
 | image_skyline           = Niekerkshoop front.jpg
 | image_caption           = Niekerkshoop
-| other_name              = {{coord|29|19|36|S|22|50|13|E}}
+| latd  = 29 |latm = 19 |lats = 36
+| longd = 22 |longm = 50 |longs = 13
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Siyathemba|Siyathemba]]

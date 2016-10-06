@@ -1,8 +1,10 @@
 {{Infobox South African town
 | name                    = Kwazamuxolo
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|31|11|38|S|24|57|20|E}}
+| latd  = 31 |latm = 11 |lats = 38
+| longd = 24 |longm = 57 |longs = 20
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Umsobomvu|Umsobomvu]]

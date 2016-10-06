@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Nonzwakazi
 | native_name             = 
-| other_name              = {{coord|30|40|18|S|24|01|35|E}}
+| other_name              = 
+| latd  = 30 |latm = 40 |lats = 18 
+| longd = 24 |longm = 01 |longs = 35
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Pixley ka Seme|Pixley ka Seme]]
 | municipality            = [[Mmušôgaê wa Emthanjeni|Emthanjeni]]
@@ -14,7 +16,7 @@
 | leader_name             = 
 | elevation_m             = 1286
 | area_total_km2          = 
-| population_footnotes    = <ref name=census2011 />
+| population_footnotes    = 
 | population_total        = 
 | population_as_of        = 2011
 | postal_code             = 

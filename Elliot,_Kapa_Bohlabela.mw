@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Elliot
 | native_name             = 
-| other_name              = {{Coord|31|20|S|27|51|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Elliot stadsaal 1.jpg
 | image_caption           = Town Hall in Elliot
+| latd  = 31 |latm  = 20 |lats  = 
+| longd = 27 |longm = 51 |longs = 
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Chris Hani|Chris Hani]]
 | municipality            = [[Mmušôselegae wa Sakhisizwe|Sakhisizwe]]
@@ -12,7 +14,8 @@
 | leader_party            = 
 | leader_title            = Councillor
 | leader_name             = 
-| elevation_m             = | area_total_km2          = 
+| elevation_m             = 
+| area_total_km2          = 
 | population_footnotes    = 
 | population_total        = 
 | population_as_of        = 2011

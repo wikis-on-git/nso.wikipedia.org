@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = uMzantsi
 | native_name             = 
-| other_name              = {{Coord|32|50|08|S|27|14|40|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 32 |latm  = 50 |lats = 08 
+| longd = 27 |longm = 14 |longs = 40
 | province                = Kapa Bohlabela
 | municipality            = Buffalo City
 | mainplace               = 
@@ -14,7 +16,7 @@
 | area_code               = 043
 | censuscode              = 260050
 }}
-'''uMzantsi''' ke village wa [[Buffalo City Metropolitan Municipality]] go feta [[Kapa Bohlabela]] porofense ka moka [[Afrika Borwa]].
+'''uMzantsi''' ke village wa [[Buffalo City Metropolitan Municipality]] go feta porofense [[Kapa Bohlabela]] ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

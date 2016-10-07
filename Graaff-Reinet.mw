@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Graaff-Reinet
 | native_name             = 
-| other_name              = {{Coord|32|15|08|S|24|32|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 32 |latm = 15 |lats = 08 
+| longd = 24 |longm = 32 |longs = 26
 | image_skyline           = Graaff-Reinet GR1.jpg
 | image_caption           = View from Valley of Desolation to Graaff-Reinet
 | province                = Kapa Bohlabela

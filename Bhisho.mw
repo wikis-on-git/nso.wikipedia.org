@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Bhisho
 | native_name             = 
-| other_name              = {{Coord|32|50|58|S|27|26|17|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 32 |latm  = 50 |lats  = 58
+| longd = 27 |longm = 26 |longs = 17
 | province                = Kapa Bohlabela
 | district                = 
 | municipality            = Buffalo City
@@ -13,34 +15,19 @@
 | leader_title            = 
 | leader_name             = 
 | elevation_m             = 435
-| area_footnotes          = <ref name=census2011>Main Place [http://census2011.adrianfrith.com/place/260032 Bhisho] ''Census 2011''.</ref>
+| area_footnotes          = 
 | area_total_km2          = 8.08
-| population_footnotes    = <ref name=census2011 />
+| population_footnotes    = 
 | population_total        = 11192
 | population_as_of        = 2011
-<!-- demographics (section 1) -->
-| demographics1_footnotes = <ref name=census2011 />
-| percent_black           = 98.3%
-| percent_coloured        = 1.0%
-| percent_asian           = 0.2%
-| percent_white           = 0.2%
-| percent_other           = 0.2%
-<!-- demographics (section 2) -->
-| demographics2_footnotes = <ref name=census2011 />
-| demographics2_title1    = [[Sethosa]]
-| demographics2_info1     = 92.0%
-| demographics2_title2    = [[Seisimane]]
-| demographics2_info2     = 4.0%
-| demographics2_title5    = Šele
-| demographics2_info5     = 4.1%
 | postal_code             = 5605
 | postal2_code            = 5605
 | area_code               = 040
-| censuscode              = 
+| censuscode              = 260032
 | website                 = 
 | footnotes               = 
 }}
-'''Bhisho''' ke [[toropo kgolo]] gofeta diporofense [[Kapa Bohlabela]] kamoka [[Afrika Borwa]].
+'''Bhisho''' ke [[toropokgolo]] gofeta porofense [[Kapa Bohlabela]] ka moka [[Afrika Borwa]].
 
 Bhisho ke motse mošate wa Kapa Bohlabela.
 

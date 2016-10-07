@@ -1,8 +1,10 @@
 {{Infobox South African town
 | name                    = Ententeni
-| other_name              = {{Coord|33.0354|S|27.8044|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 33.0354 |latm  = |lats  = 
+| longd = 27.8044 |longm = |longs = 
 | province                = Kapa Bohlabela
 | municipality            = Buffalo City
 | established_date        = 

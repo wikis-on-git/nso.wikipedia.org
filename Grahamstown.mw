@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Grahamstown
 | native_name             = Rhini
-| other_name              = {{Coord|33|18|36|S|26|31|36|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Grahamstown from the Fort.JPG
 | image_caption           = Grahamstown from Fort Selwyn
+| latd  = 33 |latm = 18 |lats = 36 
+| longd = 26 |longm = 31 |longs = 36
 | image_flag              = Grahamstown flag.svg
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Sarah Baartman|Sarah Baartman]]

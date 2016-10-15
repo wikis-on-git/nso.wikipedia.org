@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Sandton
 | native_name             = 
-| other_name              = {{Coord|26|6.42|S|28|3.1|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Michelangelo Towers Sandton.jpg
 | image_caption           = Michelangelo Towers in Sandton
+| latd  = 26 |latm = 6.42 |lats =
+| longd = 28 |longm = 3.1 |longs = 
 | image_map               = Greater Johannesburg OpenStreetMap small.svg
 | map_alt                 =
 | map_caption             = 
@@ -22,7 +24,8 @@
 | website                 = 
 | footnotes               = 
 }}
-'''Sandton''' ke toropo kgolo go feta [[City of Johannesburg Metropolitan Municipality]] wa [[Gauteng]].
+'''Sandton''' ke [[toropokgolo]] go feta [[City of Johannesburg Metropolitan Municipality]] wa [[Gauteng]].
 
 ==Ditšhupetšo==
 {{reflist}}
+{{City of Johannesburg Metropolitan Municipality}}

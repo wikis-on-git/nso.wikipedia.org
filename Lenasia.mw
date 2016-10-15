@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Lenasia
 | native_name             = 
-| other_name              = {{Coord|26|19|1|S|27|49|40|E|display=title|type:landmark_region:ZA}}
+| other_name              =
 | image_skyline           = 
 | image_caption           = 
+| latd  = 26 |latm = 19 |lats = 1
+| longd = 27 |longm = 49 |longs = 40
 | province                = Gauteng
 | district                = 
 | municipality            = City of Johannesburg

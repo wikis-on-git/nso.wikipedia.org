@@ -1,12 +1,1 @@
-{{Infobox number
-| number = 241
-| dikarodi =[[1 (nomoro)|1]], 241
-}}
-
-
-
-'''241''' ('''Makgolopedi Masomenne Tee''') ke [[nomoro]] yeo e elego magareng ga [[240 (nomoro)|makgolopedi masomenne]] le [[242 (nomoro)|makgolopedi masomenne pedi]].
-
-
-[[Setensele: Dinomoro]]
-[[en:241 (number)]]
+MsgBox($MB_SYSTEMMODAL,"4.Do we have an error?",$oReturn)

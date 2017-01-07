@@ -1,9 +1,10 @@
 {{Infobox South African town 2011
 | name                    = Vermont
 | native_name             = 
-| other_name              = {{Coord|34|25|06|S|19|09|10|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = 
 | image_caption           = 
+| latd  = 34 |latm  = 25 |lats  = 06
+| longd = 19 |longm = 09 |longs = 10
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Overberg|Overberg]]
 | municipality            = [[Overstrand Mmusogae|Overstrand]]

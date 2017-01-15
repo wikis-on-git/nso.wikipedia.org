@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Oppermansgronde
 | native_name             = 
-| other_name              = {{coord|29|24|50|S|24|44|40|E}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 29 |latm = 24 |lats = 50
+| longd = 24 |longm = 44 |longs = 40
 | province                = Free State
 | district                = Xhariep
 | municipality            = Letsemeng

@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Jamestown
 | native_name             = 
-| other_name              = {{Coord|33|58|44|S|18|50|53|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 58 |lats  = 44
+| longd = 18 |longm = 50 |longs = 53
 | image_skyline           = Jamestown view.jpg
 | image_caption           = View over Jamestown towards Stellenbosch
 | province                = Kapa Bodikela

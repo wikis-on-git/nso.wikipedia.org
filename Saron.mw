@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Saron
 | native_name             = 
-| other_name              = {{Coord|33|10|52|S|19|0|36|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 10 |lats  = 52
+| longd = 19 |longm = 0 |longs = 36
 | image_skyline           = Church, Saron Mission, Saron 2.jpg
 | image_caption           = Mission Church in Saron
 | province                = Kapa Bodikela

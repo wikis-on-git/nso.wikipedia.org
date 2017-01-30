@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Klapmuts
 | native_name             = 
-| other_name              = {{Coord|33|48|20|S|18|52|11|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 48 |lats  = 20
+| longd = 18 |longm = 52 |longs = 11
 | image_skyline           = Shale Renosterveld on Klapmuts hill after a veld fire - Western Cape SA.jpg
 | image_caption           = Klapmuts hill ("Klapmutskop") from which the town gets its name.
 | province                = Kapa Bodikela

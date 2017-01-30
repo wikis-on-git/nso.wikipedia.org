@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Bella Vista
 | native_name             = 
-| other_name              = {{Coord|33|19|46|S|19|19|4|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 33 |latm  = 19 |lats  = 46
+| longd = 19 |longm = 19 |longs = 4
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Cape Winelands|Cape Winelands]]
 | municipality            = [[Witzenberg Mmusogae|Witzenberg]]

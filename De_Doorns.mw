@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = De Doorns
 | native_name             = 
-| other_name              = {{Coord|33|29|0|S|19|41|0|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 29 |lats  = 0
+| longd = 19 |longm = 41 |longs = 0
 | image_skyline           = De Doorns, Western Cape.jpg
 | image_caption           = De Doorns
 | province                = Kapa Bodikela

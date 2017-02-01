@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Touws River
 | native_name             = Touwsrivier
-| other_name              = {{Coord|33|20|16|S|20|02|01|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 20 |lats  = 16
+| longd = 20 |longm = 02 |longs = 01
 | image_skyline           = Touwsrivier street.jpg
 | image_caption           = Strata mô Touws River
 | province                = Kapa Bodikela

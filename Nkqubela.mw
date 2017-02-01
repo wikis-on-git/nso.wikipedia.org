@@ -1,8 +1,10 @@
 {{Infobox South African town
 | name                    = Nkqubela
-| other_name              = {{coord|33|49|0|S|19|53|40|E|display=title}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 33 |latm  = 49 |lats  = 0
+| longd = 19 |longm = 53 |longs = 40
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Cape Winelands|Cape Winelands]]
 | municipality            = [[Langeberg Mmusogae|Langeberg]]

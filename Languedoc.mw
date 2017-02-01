@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Languedoc
 | native_name             = 
-| other_name              = {{Coord|33|53|56|S|18|57|57|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 33 |latm  = 53 |lats  = 56
+| longd = 18 |longm = 57 |longs = 57 
 | province                = Kapa Bodikela
 | district                = [[Mmasepala Setereke tša Cape Winelands|Cape Winelands]]
 | municipality            = [[Stellenbosch Mmusogae|Stellenbosch]]
@@ -18,7 +20,6 @@
 | website                 = 
 | footnotes               = 
 }}
-
 '''Languedoc''' ke toropo nyane wa [[Stellenbosch Mmusogae]], [[Mmasepala Setereke tša Cape Winelands]] go feta [[Kapa Bodikela]] ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==

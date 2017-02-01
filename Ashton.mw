@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Ashton
 | native_name             = 
-| other_name              = {{coord|33|50|5|S|20|3|17|E|display=title}}
+| other_name              = 
+| latd  = 33 |latm  = 50 |lats  = 5
+| longd = 20 |longm = 3 |longs = 17
 | image_skyline           = Ashton-rsa sunset.jpg
 | image_caption           = Sunset over Ashton
 | province                = Kapa Bodikela

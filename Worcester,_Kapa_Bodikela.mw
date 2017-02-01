@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Worcester
 | native_name             =
-| other_name              = {{Coord|33|38|42|S|19|26|37|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 33 |latm  = 38 |lats  = 42
+| longd = 19 |longm = 26 |longs = 37
 | image_skyline           = WorcesterWC-HighStreet.jpg
 | image_caption           = High Street in Worcester
 | province                = Kapa Bodikela

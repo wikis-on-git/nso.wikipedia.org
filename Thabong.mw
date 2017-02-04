@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Thabong
 | native_name             = 
-| other_name              = {{Coord|27|57|47|S|26|48|36|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 27 |latm = 57 |lats  = 47
+| longd = 26 |longm = 48 |longs = 36
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Lejweleputswa|Lejweleputswa]]
 | municipality            = [[Mmušôselegae wa Matjhabeng|Matjhabeng]]

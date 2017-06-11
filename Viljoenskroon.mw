@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Viljoenskroon
 | native_name             = 
-| other_name              = {{Coord|27|12|40|S|26|56|58|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 27 |latm  = 12 |lats  = 40
+| longd = 26 |longm = 56 |longs = 58
 | province                = Free State
 | district                = Fezile Dabi
 | municipality            = [[Moqhaka Mmusogae|Moqhaka]]

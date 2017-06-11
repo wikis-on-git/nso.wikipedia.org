@@ -1,9 +1,10 @@
 {{Infobox South African town
 | name                    = Ga-Rankuwa
 | native_name             = 
-| other_name              = {{Coord|25|37|12|S|27|58|48|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 37 |lats  = 12
+| longd = 27 |longm = 58 |longs = 48
 | province                = Gauteng
 | district                = 
 | municipality            = City of Tshwane

@@ -1,9 +1,10 @@
 {{Infobox South African town
 | name                    = Cullinan
 | native_name             = 
-| other_name              = {{Coord|25|40|22|S|28|31|15|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = Cullinan.jpg
 | image_caption           = The main street in Cullinan
+| latd  = 25 |latm  = 40 |lats  = 22
+| longd = 28 |longm = 31 |longs = 15
 | province                = Gauteng
 | district                = 
 | municipality            = City of Tshwane

@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Temba
 | native_name             = 
-| other_name              = {{Coord|25|24|0|S|28|15|36|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 24 |lats  = 0
+| longd = 28 |longm = 15 |longs = 36 
 | province                = Gauteng
 | district                = 
 | municipality            = City of Tshwane

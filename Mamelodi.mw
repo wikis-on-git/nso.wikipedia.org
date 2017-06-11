@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Mamelodi
 | native_name             = 
-| other_name              = {{coord|25|42|08|S|28|19|39|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 25 |latm  = 42 |lats  = 08
+| longd = 28 |longm = 19 |longs = 39
 | image_skyline           = Mamelodi.JPG
 | image_caption           = View of Mamelodi
 | province                = Gauteng

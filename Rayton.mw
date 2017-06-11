@@ -1,9 +1,10 @@
 {{Infobox South African town
 | name                    = Rayton
 | native_name             = 
-| other_name              = {{Coord|25|30|0|S|28|04|48|E|display=title|type:landmark_region:ZA}}
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 30 |lats  = 0
+| longd = 28 |longm = 04 |longs = 48
 | province                = Gauteng
 | district                = 
 | municipality            = City of Tshwane

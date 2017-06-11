@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Soshanguve
 | native_name             = 
-| other_name              = {{Coord|25|31|37|S|28|06|32|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 31 |lats  = 37
+| longd = 28 |longm = 06 |longs = 32
 | province                = Gauteng
 | district                = 
 | municipality            = City of Tshwane

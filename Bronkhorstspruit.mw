@@ -1,7 +1,8 @@
 {{Infobox South African town
 | name                    = Bronkhorstspruit
 | native_name             = 
-| other_name              = {{Coord|25|48|18|S|28|44|47|E|display=title|type:landmark_region:ZA}}
+| latd  = 25 |latm  = 48 |lats  = 18
+| longd = 28 |longm = 44 |longs = 47
 | image_skyline           = ZA-bronkhspr-nanhua.jpg
 | image_caption           = The Nan Hua Temple Complex in Bronkhorstspruit
 | province                = Gauteng

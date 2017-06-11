@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Atteridgeville
-| native_name             = Phelindaba
-| other_name              = {{coord|25|46|24|S|28|04|17|E}}
+| native_name             = 
+| other_name              = Phelindaba
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 46 |lats  = 24
+| longd = 28 |longm = 04 |longs = 17
 | province                = Gauteng
 | district                = Tshwane
 | municipality            = City of Tshwane

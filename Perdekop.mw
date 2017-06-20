@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Perdekop
 | native_name             = 
-| other_name              = {{Coord|27|10|0|S|29|38|0|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 27 |latm  = 10 |lats  = 0
+| longd = 29 |longm = 38 |longs = 0
 | province                = Mpumalanga
 | district                = [[Mmasepala Setereke tša Gert Sibande|Gert Sibande]]
 | municipality            = [[Pixley ka Seme Mmusogae|Pixley Ka Seme]]
@@ -13,20 +15,20 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 1889
-| area_footnotes          = <ref name="census2011">[http://census2011.adrianfrith.com/place/863006 Main Place Perdekop] ''Census 2011''</ref>
-| area_total_km2          = 7.73
-| population_footnotes    = <ref name="census2011" />
-| population_total        = 5081
+| area_footnotes          = 
+| area_total_km2          = 
+| population_footnotes    = 
+| population_total        = 
 | population_as_of        = 2011
 <!-- race -->
-| demographics1_footnotes = <ref name="census2011" />
+| demographics1_footnotes =
 | percent_black           = 97.4%
 | percent_coloured        = 0.3%
 | percent_asian           = 1.7%
 | percent_white           = 0.4%
 | percent_other           = 0.2%
 <!-- languages -->
-| demographics2_footnotes = <ref name="census2011" />
+| demographics2_footnotes = 
 | demographics2_title1    = [[Sezulu]]
 | demographics2_info1     = 82.3%
 | demographics2_title2    = [[Sesotho]]
@@ -39,11 +41,11 @@
 | demographics2_info5     = 4.6%
 | postal_code             = 2465
 | area_code               = 017
-| censuscode              = <!--863006-->
+| censuscode              = 863006
 | website                 = 
 | footnotes               = 
 }}
-'''Perdekop''' ke toropo nyane go feta [[Pixley ka Seme Mmusogae]], [[Mmasepala Setereke tša Gert Sibande]] wa diporofense [[Mpumalanga]] kamoka [[Afrika Borwa]].
+'''Perdekop''' ke toropo nyane go feta [[Pixley ka Seme Mmusogae]], [[Mmasepala Setereke tša Gert Sibande]] wa porofense [[Mpumalanga]] kamoka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

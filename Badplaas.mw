@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Badplaas
 | native_name             = 
-| other_name              = {{Coord|25|57|14|S|30|34|00|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Badplaas main pool.jpg
 | image_caption           = Badplaas main swimming pool
+| latd  = 25 |latm  = 57 |lats  = 14
+| longd = 30 |longm = 34 |longs = 0
 | province                = Mpumalanga
 | district                = [[Mmasepala Setereke tša Gert Sibande|Gert Sibande]]
 | municipality            = [[Albert Luthuli Mmusogae|Albert Luthuli]]
@@ -13,9 +15,9 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 1111
-| area_footnotes          = <ref name=census2011>[http://census2011.adrianfrith.com/place/866005 Main Place Badplaas] ''Census 2011''</ref>
+| area_footnotes          = 
 | area_total_km2          = 37.97
-| population_footnotes    = <ref name=census2011 />
+| population_footnotes    = 
 | population_total        = 582
 | population_as_of        = 2011
 <!-- race -->
@@ -25,7 +27,7 @@
 | percent_white           = 31.1%
 | percent_other           = 1.0%
 <!-- language -->
-| demographics2_footnotes = <ref name=census2011 />
+| demographics2_footnotes = 
 | demographics2_title1    = [[Seswati]]
 | demographics2_info1     = 40.0%
 | demographics2_title2    = [[Afrikaans]]

@@ -1,10 +1,12 @@
 {{Infobox South African town 2011
 | name                    = Hogsback
 | native_name             = 
+| other_name              = 
 | nickname                = "Where the fairies live"
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{Coord|32|35|53|S|26|56|17|E|display=title|type:landmark_region:ZA}}
+| latd  = 32 |latm  = 35 |lats  = 53
+| longd = 26 |longm = 56 |longs = 17
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Amathole|Amathole]]
 | municipality            = [[Mmušôgaê wa Raymond Mhlaba|Raymond Mhlaba]]

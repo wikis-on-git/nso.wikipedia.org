@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Calderwood
 | native_name             = 
-| other_name              = {{Coord|32|51|29|S|26|43|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 32 |latm  = 51 |lats  = 29
+| longd = 26 |longm = 43 |longs = 26
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bohlabela

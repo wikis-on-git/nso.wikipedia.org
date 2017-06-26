@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Bedford
 | native_name             = 
-| other_name              = {{Coord|32|41|S|26|5|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 32 |latm  = 41 |lats  = 
+| longd = 26 |longm = 5 |longs = 
 | image_skyline           = Bedford_Presbiteriaanse_kerk.jpg
 | image_caption           = Presbyterian Church in Bedford
 | province                = Kapa Bohlabela

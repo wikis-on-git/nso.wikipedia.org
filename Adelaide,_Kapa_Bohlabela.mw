@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Adelaide
 | native_name             = 
-| other_name              = {{Coord|32|42|S|26|18|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 32 |latm  = 42 |lats  = 
+| longd = 26 |longm = 18 |longs = 
 | image_skyline           = NG kerktoring Adelaide.jpg
 | image_caption           = Dutch Reformed Church in Adelaide 
 | province                = Kapa Bohlabela

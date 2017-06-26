@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Mhlangeni
 | native_name             = Hertzog
-| other_name              = {{Coord|32|34|41|S|26|42|50|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 32 |latm  = 34 |lats  = 41
+| longd = 26 |longm = 42 |longs = 50
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Amathole|Amathole]]
 | municipality            = [[Mmušôgaê wa Raymond Mhlaba|Raymond Mhlaba]]

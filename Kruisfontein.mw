@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Kruisfontein
 | native_name             = 
-| other_name              = {{Coord|34|11|49|S|24|50|17|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 34 |latm  = 11 |lats  =49 
+| longd = 24 |longm = 50 |longs = 17
 | province                = Kapa Bohlabela
 | district                = [[Mmasepala Setereke tša Sarah Baartman|Sarah Baartman]]
 | municipality            = [[Mmušôselegae wa Kouga|Kouga]]

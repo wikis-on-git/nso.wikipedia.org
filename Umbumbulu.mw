@@ -1,10 +1,12 @@
 {{Infobox South African town
 | name                    = Umbumbulu
 | native_name             = 
-| other_name              = {{coord|29.984|S|30.702|E}}
+| other_name              =
 | image_skyline           = Village center (Umbumbulu) (1269144837).jpg
 | image_caption           = Village center
-| province                = KwaZulu-Natal
+| latd  = 29.984 |latm  = |lats  = 
+| longd = 30.702 |longm = |longs = 
+| province                = KwaZulu Natala
 | district                = 
 | municipality            = eThekwini
 | established_date        = 
@@ -35,10 +37,11 @@
 | demographics2_title4    = 
 | demographics2_info4     = 
 | demographics2_title5    = Šele
-| demographics2_info5     = 
+| demographics2_info5     = 3.0%
 | elevation_m             = 
 | postal_code             = 
 | area_code               = 031
+| censuscode              = 
 | website                 = 
 }}
 '''Umbumbulu''' ke coastal toropo wa [[eThekwini|eThekwini Metropolitan Municipality]] ka moka [[Afrika Borwa]].

@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Umhlanga
 | native_name             =
-| other_name              ={{coord|29|43|31|S|31|05|09|E}}
+| other_name              =
 | image_skyline           = UmhlangaKZN-pier.jpg
 | image_caption           = View of the skyline and beach of Umhlanga Rocks in 2011 
+| latd  = 29 |latm  = 43 |lats  = 31
+| longd = 31 |longm = 05 |longs = 09
 | province                = KwaZulu-Natal
 | district                =
 | municipality            = eThekwini

@@ -1,18 +1,29 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=250 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Seychelles'''</big>
-| align="center" colspan="2"|
-{| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:center;"
-| width="130px"| [[Seswantšho:Flag_of_the_Seychelles.svg|125px|Flaga ya Seychelles]] || [[Seswantšho:Coat of Arms of the Republic of Seychelles.svg|125px]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[Seswantšho:LocationSeychelles.png|200px|Taetšo ya Seychelles]]
-|-
-|'''Toropokgolo''' || Victoria
-|-
-|'''Mopresidente''' || Danny Faure
-|-
-| colspan=2 align=right style="padding: 0 5px 0 5px" | 
-|}
+{{Country
+|native_name            = Repiblik Sesel
+|conventional_long_name = Republic of Seychelles
+|common_name = Seychelles
+|image_flag = Flag_of_the_Seychelles.svg
+|image_coat = Coat of Arms of the Republic of Seychelles.svg
+|image_map = Location Seychelles AU Africa.svg
+|official_languages = 
+|demonym = 
+|capital = Victoria
+|government_type = 
+|leader_name1 = 
+|largest_city =
+|area_km2 = 
+|area_rank = 
+|population_estimate = 
+|currency = 
+|currency_code = 
+|time_zone = 
+|utc_offset = +4
+|time_zone_DST = 
+|utc_offset_DST = 
+|cctld = 
+|calling_code = 248
+|drives_on = 
+}}
 
 [[Seswantšho:Se-kaart.png|thumb|left|Mappe ka Seychelle]]
 [[Seswantšho:BigBenVictoriaSeychelles.JPG|thumb|left|Victoria, toropokgolo ya Seychelle]]

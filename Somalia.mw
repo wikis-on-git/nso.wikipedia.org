@@ -1,18 +1,3 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=250 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Somalia'''</big>
-| align="center" colspan="2"|
-{| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:center;"
-| width="130px"| [[Seswantšho:Flag_of_Somalia.svg|125px|Flaga ya Somalia]] || [[File:Coat of arms of Somalia.svg|right|150px]] 
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[Seswantšho:Somalia in its region (claimed).svg   |200px|Taetso ya Somalia]]
-|-
-|'''Toropo Kgolo''' || Magadishu
-|-
-|'''Mopresidente''' || Abdullahi Yusuf Ahmed
-|-
-| colspan=2 align=right style="padding: 0 5px 0 5px" | 
-|}
 {{Country
 |native_name            = Jamhuuriyadda Federaalka Soomaaliya 
 |conventional_long_name = Federal Republic of Somalia
@@ -26,17 +11,17 @@
 |government_type = 
 |leader_name1 = 
 |largest_city = Mogadishu
-|area_km2 = 
-|area_rank = 
-|population_estimate = 
-|currency = 
-|currency_code = 
+|area_km2 = 637,657
+|area_rank = 42
+|population_estimate = 12,316,895 <small>(2014)</small>
+|currency = Somali shilling 
+|currency_code = (SOS) 
 |time_zone = 
 |utc_offset = +3
 |time_zone_DST = 
 |utc_offset_DST = 
 |cctld = 
-|calling_code =
+|calling_code = 252
 |drives_on = 
 }}
 

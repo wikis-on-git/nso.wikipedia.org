@@ -1,8 +1,10 @@
 {{Infobox South African town
 | name                    = Newscom
-| other_name              = {{Coord|25.3824|S|31.1504|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25.3824 |latm  = |lats  = 
+| longd = 31.1504 |longm = |longs = 
 | province                = Mpumalanga
 | district                = [[Mmasepala Setereke tša Ehlanzeni|Ehlanzeni]]
 | municipality            = [[Mbombela Mmusogae|Mbombela]]

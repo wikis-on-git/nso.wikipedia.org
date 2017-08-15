@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Ficksburg
 | native_name             = 
-| other_name              = {{Coord|28|52|25|S|27|52|41|E|display=title|type:landmark_region:ZA}}
+| other_name              = {
 | image_skyline           = Ficksburg_vanaf_Imperani.jpg
 | image_caption           = Ficksburg from Imperani Mountain
+| latd  = 28 |latm  = 52 |lats  = 25
+| longd = 27 |longm = 52 |longs = 41
 | province                = Free State
 | district                = [[Mmasepala Setereke tša Thabo Mofutsanyana|Thabo Mofutsanyane]]
 | municipality            = [[Setsoto Mmusogae|Setsoto]]
@@ -19,7 +21,7 @@
 | website                 = 
 | footnotes               = 
 }}
-'''Ficksburg''' ke toropo go feta [[Setsoto Mmusogae]], [[Mmasepala Setereke tša Thabo Mofutsanyana]] wa diporofense [[Free State]] ka moka [[Afrika Borwa]].
+'''Ficksburg''' ke toropo go feta [[Setsoto Mmusogae]], [[Mmasepala Setereke tša Thabo Mofutsanyana]] wa porofense [[Free State]] ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

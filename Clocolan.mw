@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Clocolan
 | native_name             = 
-| other_name              = {{Coord|28|54|50|S|27|34|01|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = Clocolan 2004.JPG
 | image_caption           = 
+| latd  = 28 |latm  = 54 |lats  = 50
+| longd = 27 |longm = 34 |longs = 01
 | province                = Free State
 | district                = Thabo Mofutsanyane
 | municipality            = Setsoto

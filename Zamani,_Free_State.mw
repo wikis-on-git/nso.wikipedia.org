@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Zamani
 | native_name             = 
-| other_name              = {{Coord|27|40|6|S|29|33|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 27 |latm  = 40 |lats  = 06
+| longd = 29 |longm = 33 |longs = 26
 | image_skyline           = 
 | image_caption           = 
 | province                = Free State

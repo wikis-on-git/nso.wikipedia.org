@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Ramsgate
 | native_name             = 
-| other_name              = {{coord|30|52|56|S|31|21|20|E}}
+| other_name              = 
+| latd  = 30 |latm = 52 |lats = 56
+| longd = 31 |longm = 21 |longs = 20
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu Natala
@@ -27,7 +29,7 @@
 | demographics2_info3     = 16.8%
 | demographics2_title4    = [[Sethosa]]
 | demographics2_info4     = 13.3%
-| demographics2_title5    = Other
+| demographics2_title5    = Šele
 | demographics2_info5     = 3.3%
 | elevation_m             = 
 | postal_code             = 

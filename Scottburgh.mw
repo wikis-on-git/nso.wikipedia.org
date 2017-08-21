@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Scottburgh
 | native_name             = 
-| other_name              = {{coord|30|17|S|30|45|E}}
+| other_name              = 
+| latd  = 30 |latm  = 17 |lats  = 
+| longd = 30 |longm = 45 |longs = 
 | image_skyline           = Scottburgh Beach, South Africa.JPG
 | image_caption           = Scottburgh Beach
 | province                = KwaZulu Natala
@@ -12,7 +14,7 @@
 | leader_party            = 
 | leader_title            = 
 | leader_name             = 
-| elevation_m             = 19
+| elevation_m             = 12
 | postal_code             = 
 | area_code               = 039
 | censuscode              = 561011

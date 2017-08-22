@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Hluhluwe
 | native_name             = 
-| other_name              = {{coord|28|01|8|S|32|16|3|E}}
+| other_name              = 
+| latd  = 28 |latm  = 01 |lats  = 8
+| longd = 32 |longm = 16 |longs = 3
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu Natala

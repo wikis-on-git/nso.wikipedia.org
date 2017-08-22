@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Ladysmith
 | native_name             = Emnambithi
-| other_name              = {{coord|28|33|35|S|29|46|50|E}}
+| other_name              = 
+| latd  = 28 |latm  = 33|lats  = 35
+| longd = 29 |longm = 46|longs = 50
 | image_skyline           = View of Ladysmith KwaZulu-Natal South Africa.jpg
 | image_caption           = Ladysmith central business district
 | province                = KwaZulu Natala

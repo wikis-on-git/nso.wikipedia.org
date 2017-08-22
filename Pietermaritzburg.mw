@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Pietermaritzburg
 | native_name             = {{lang| zu| umGungundlovu}}
-| other_name              = {{Coord|29|37|S|30|23|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 29 |latm  = 37 |lats  = 
+| longd = 30 |longm = 23 |longs = 
 | nickname                = PMB, Maritzburg
 | image_skyline           = Pietermaritzburg.jpg
 | image_caption           = Downtown Pietermaritzburg as seen from Chase Valley
@@ -14,13 +16,13 @@
 | leader_title            = Mayor
 | leader_name             = Chris J. Ndlela<ref>{{cite web|url=http://www.msunduzi.gov.za/site/mayors-column|title=Msunduzi - Mayors Column|work=msunduzi.gov.za}}</ref> (2011)
 | elevation_m             = 596
-| area_footnotes          = <ref name=census2011> [http://census2011.adrianfrith.com/place/566003 Main Place Pietermaritzburg] ''Census 2011''</ref>
+| area_footnotes          = 
 | area_total_km2          = 126.15
-| population_footnotes    = <ref name=census2011 />
+| population_footnotes    = 
 | population_total        = 223448
 | population_as_of        = 2011
 <!-- race -->
-| demographics1_footnotes = <ref name=census2011 />
+| demographics1_footnotes = 
 | percent_black           = 70.0%
 | percent_coloured        = 6.9%
 | percent_asian           = 8.4%
@@ -40,12 +42,12 @@
 | demographics2_info5     = 6.3%
 | postal_code             = 3201
 | area_code               = 033
-| censuscode              = <!--566003-->
+| censuscode              = 566003
 | website                 = 
 | footnotes               =
 }}
 [[File:KwaZulu-Natal Parliament building, Pietermaritzburg, South Africa.jpg|thumb|right|220px|KwaZulu-Natal Legislature building, Pietermaritzburg]]
-'''Pietermaritzburg''' ke toropo kgolo kgolo go feta [[Mmasepala Setereke tša uMgungundlovu]] wa diporofense [[KwaZulu Natala]] kamoka [[Afrika Borwa]].
+'''Pietermaritzburg''' ke [[toropokgolo]] go feta [[Mmasepala Setereke tša uMgungundlovu]] wa porofense [[KwaZulu Natala]] ka moka [[Afrika Borwa]].
 
 ==Ditšhupetšo==
 {{reflist}}

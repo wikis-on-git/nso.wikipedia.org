@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Colenso
 | native_name             = eSikebheni
-| other_name              = {{coord|28|44|12|S|29|49|35|E}}
+| other_name              = 
+| latd  = 28 |latm  = 44|lats  = 12
+| longd = 29 |longm = 49|longs = 35
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu Natala

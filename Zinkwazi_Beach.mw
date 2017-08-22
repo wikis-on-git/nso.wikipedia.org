@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Zinkwazi Beach
 | native_name             = 
-| other_name              = {{coord|29|17|06|S|31|26|13|E}}
+| other_name              = 
+| latd  = 29 |latm  = 17 |lats  = 06
+| longd = 31 |longm = 26 |longs = 13 
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu Natala

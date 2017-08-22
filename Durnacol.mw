@@ -1,10 +1,12 @@
 {{Infobox South African town 2011
 | name                    = Durnacol
 | native_name             = 
-| other_name              = {{coord|28|03|S|30|01|E}}
+| other_name              = 
+| latd  = 28 |latm  = 03|lats  = 
+| longd = 30 |longm = 01|longs = 
 | image_skyline           = 
 | image_caption           = 
-| province                = KwaZulu-Natal
+| province                = KwaZulu Natala
 | district                = Amajuba
 | municipality            = Dannhauser
 | established_date        = 
@@ -27,7 +29,7 @@
 | demographics2_info3     = 3.1%
 | demographics2_title4    = 
 | demographics2_info4     = 
-| demographics2_title5    = Other
+| demographics2_title5    = Šele
 | demographics2_info5     = 2.3%
 | elevation_m             = 
 | postal_code             = 

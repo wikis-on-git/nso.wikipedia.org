@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Bruntville
-| other_name              = {{coord|29|13|17|S|30|0|46|E}}
+| other_name              = 
+| latd  = 29 |latm  = 13 |lats  = 17
+| longd = 30 |longm = 0 |longs = 46
 | province                = KwaZulu Natala
 | district                = [[Mmasepala Setereke tša uMgungundlovu|uMgungundlovu]]
 | municipality            = Mpofana

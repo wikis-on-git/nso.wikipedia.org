@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Motlamogatsane
 | native_name             = 
-| other_name              = {{Coord|24.642|S|31.025|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 24.642 |latm  = |lats  = 
+| longd = 31.025 |longm = |longs = 
 | image_skyline           = 
 | image_caption           = 
 | province                = Mpumalanga
@@ -11,7 +13,7 @@
 | area_footnotes          = 
 | area_total_km2          = 
 | population_footnotes    = 
-| population_total        = 2169
+| population_total        = 
 | population_as_of        = 2011
 <!-- race -->
 | demographics1_footnotes = 

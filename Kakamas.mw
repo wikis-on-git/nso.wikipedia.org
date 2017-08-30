@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Kakamas
 | native_name             = 
-| other_name              = {{coord|28|48|S|20|39|E}}
+| other_name              = 
+| latd  = 28 |latm = 48 |lats = 
+| longd = 20 |longm = 39 |longs = 
 | image_skyline           = Kakamas-Water wheel-001.jpg
 | image_caption           = A water wheel in Kakamas
 | province                = Kapa Leboa
@@ -9,9 +11,6 @@
 | municipality            = [[Mmušôgaê wa Kai !Garib|Kai !Garib]]
 | established_date        = 1898
 | government_type         = 
-| leader_party            = 
-| leader_title            = 
-| leader_name             = 
 | elevation_m             = 
 | postal_code             = 
 | area_code               = 054

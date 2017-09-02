@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Villiersdorp
 | native_name             = 
-| other_name              = {{Coord|34|59|S|19|17|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 34 |latm  = 59 |lats  = 
+| longd = 19 |longm = 17 |longs = 
 | image_skyline           = Villiersdorp oos.jpg
 | image_caption           = View of Villersdorp from the surrounding mountains
 | province                = Kapa Bodikela
@@ -16,8 +18,6 @@
 | postal_code             = 6848
 | area_code               = 028
 | censuscode              = 171001
-| website                 = 
-| footnotes               = 
 }}
 '''Villiersdorp''' ke toropo wa [[Mmasepala Setereke tša Overberg]] go feta porofense ya [[Kapa Bodikela]] ka moka [[Afrika Borwa]]. 
 

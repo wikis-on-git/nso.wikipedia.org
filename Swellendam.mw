@@ -1,7 +1,8 @@
 {{Infobox South African town 2011
 | name                    = Swellendam
-| native_name             = 
-| other_name              = {{Coord|34|2|S|20|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 34 |latm  = 2 |lats  = 
+| longd = 20 |longm = 26 |longs = 
 | image_skyline           = Swellendam view.jpg
 | image_caption           = Swellendam with the Langeberg in the background
 | province                = Kapa Bodikela
@@ -16,8 +17,6 @@
 | postal_code             = 
 | area_code               = 028
 | censuscode              = 170005
-| website                 = 
-| footnotes               = 
 }}
 [[File:Kapkolonie 1795.jpg|thumb|left|Boer Republic of Swellendam (red) and other Dutch territories around 1795]]
 

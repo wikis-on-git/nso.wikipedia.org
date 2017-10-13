@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Askham
 | native_name             = 
-| other_name              = {{coord|26|58|54|S|20|46|51|E}}
+| other_name              = 
+| latd  = 26 |latm = 58 |lats = 54
+| longd = 20 |longm = 46 |longs = 51
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Leboa

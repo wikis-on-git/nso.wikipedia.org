@@ -1,0 +1,20 @@
+<noinclude>{{nobots}}
+{{pp-vandalism|small=yes}}</noinclude>
+<span id="coordinates" class="noprint">[[Portal:Current events/Edit instructions|Edit instructions]]</span>
+{{Portal:Current events/News Browser}}
+{{Portal:Current events/Headlines}}
+<div style="display: flex; flex-flow: row wrap; margin: 0 -5px;">
+<div style="flex: 100 1 200px; margin: 0 5px;">
+{{Portal:Current events/Inclusion|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}
+</div>
+<div style="flex: 1 100 250px; margin: 0 5px;">
+{{Portal:Current events/Calendar}}
+{{Portal:Current events/Sidebar}}
+</div>
+</div>
+{{Portal:Current events/Events by month}}
+{{Contents pages (footer box)}}
+<noinclude>
+[[Category:{{CURRENTYEAR}}|*]]
+[[Category:Current events| ]]
+</noinclude>

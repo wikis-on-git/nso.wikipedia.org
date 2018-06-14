@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Kuruman
 | native_name             = 
-| other_name              = {{coord|27|27|35|S|23|24|45|E}}
+| other_name              = 
+| latd  = 27 |latm  = 27 |lats  = 35
+| longd = 23 |longm = 24 |longs = 45
 | image_skyline           = South-Africa - Kuruman - Eye.jpg
 | image_caption           = ''The Eye''
 | province                = Kapa Leboa

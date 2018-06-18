@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Alice
 | native_name             = 
-| other_name              = {{Coord|32|47|S|26|50|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 32 |latm  = 47 |lats  = 00
+| longd = 26 |longm = 50 |longs = 00
 | image_skyline           = Alice, Oos-Kaap.jpg
 | image_caption           = Yunibêsithi tša Fort Hare wa Alice, Kapa Bohlabela.
 | province                = Kapa Bohlabela

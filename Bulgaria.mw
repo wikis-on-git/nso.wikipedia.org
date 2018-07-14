@@ -1,6 +1,6 @@
 {{Infobox country
 |conventional_long_name = Republic of Bulgaria
-|native_name = {{native name|bg|Република България}}<br/>{{small|''Republika Bǎlgariya''}}
+|native_name = {{native name|Република България}}<br/>{{small|''Republika Bǎlgariya''}}
 |common_name = Bulgaria
 |image_flag = Flag of Bulgaria.svg
 |image_coat = Coat of arms of Bulgaria.svg
@@ -9,9 +9,9 @@
 |national_motto = "Sǎedinenieto pravi silata" ("Unity makes strength")
 |national_anthem = Мила Родино<br/>''Dear Motherland''
 |official_languages = Bulgarian
-|languages_type = [[Official script]]
+|languages_type = Official script
 |languages_sub = no
-|languages = [[Cyrillic script|Cyrillic]]
+|languages = Cyrillic
 |capital = [[Sofia]]
 |coordinates = {{Coord|42|41|N|23|19|E|type:city}}
 |largest_city = capital
@@ -24,32 +24,32 @@
 |ethnic_groups =
  {{unbulleted list
  |titlestyle = background:transparent;text-align:left;font-weight:normal;
- | 76.9% [[Bulgarians]]
- | 9-11% [[Roma in Bulgaria|Romani]]
- | 8% [[Turks in Bulgaria|Turks]]
- | 0.7% others}}
-|religion = [[Bulgarian Orthodox Church]]
+ | 76.9% Bulgarians
+ | 9-11% Romani
+ | 8% Turks
+ | 0.7% Šele}}
+|religion = Bulgarian Orthodox Church
 |demonym = Bulgarian
-|ethnic_groups_year = <ref>{{CIA World Factbook link|bu|Bulgaria}}</ref>
-|sovereignty_type = [[History of Bulgaria|Formation]]
-|established_event1 = [[First Bulgarian Empire]]
+|ethnic_groups_year = 
+|sovereignty_type = Formation
+|established_event1 = First Bulgarian Empire
 |established_date1 = 681–1018
-|established_event2 = [[Second Bulgarian Empire]]
+|established_event2 = Second Bulgarian Empire
 |established_date2 = 1185–1396
 |established_event3 = Modern state:
-|established_event4 = [[Principality of Bulgaria]]
+|established_event4 = Principality of Bulgaria
 |established_date4 = 3 March 1878
 |established_event5 = Declaration of Independence from the Ottoman Empire
-|established_date5 = 5 October 1908{{refn|group=note|name=two|22 September in the [[Julian calendar]] used at the time.}}
+|established_date5 = 5 October 1908
 |area_rank = 103rd 
 |area_km2 = 110,993.6<ref>{{cite book |title= География на България. Физическа и икономическа география |year= 1997|publisher= АИ „Марин Дринов“}}</ref><ref>{{cite book |title= География на България |year=2002 |publisher=„ФорКом“ |isbn=9544641238 }}</ref><ref>{{cite book |title= Природна география на България |last= Пенин|first= Румен|year=2007 |publisher=Булвест 2000 |isbn=9789541805466 |pages=18 }}</ref>
 |area_sq_mi = 42,811 
 |percent_water = 0.3
-|population_estimate = 7,101,859{{sfn|NSI Census data|2015}}
+|population_estimate = 7,101,859
 |population_estimate_year = 31 December 2016
 |population_estimate_rank = 102nd
 |population_density_km2 = 64.9
-|population_density_sq_mi = 168 <!-- Do not remove per [[WP:MOSNUM]]. -->
+|population_density_sq_mi = 168 
 |population_density_rank = 95th
 |GDP_PPP_year = 2017
 |GDP_PPP = $152.374&nbsp;billion<ref name=imfgdp>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=86&pr.y=5&sy=2017&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=918%2C968&s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&grp=0&a=|title=Bulgaria|publisher=International Monetary Fund|accessdate=15 October 2017}}</ref>

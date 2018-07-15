@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Republic of Ireland
 |common_name              = Ireland
 |image_flag               = Flag of Ireland.svg
@@ -7,18 +7,18 @@
 |capital                  = Dublin
 |government_type          = Constitutional republic
 |leader_name1             = Michael D. Higgins
-|area_km2                 = 70,273
+|area_km2                 = 70273
 |area_rank                = 30th
 |population_estimate      = 4,761,865 <small>(2016)</small>
 |demonym                  = Irish
 |currency                 = [[Euro]]
 |official_languages       = [[Seisimane]]
 |currency_code            = EUR
-|time_zone                = [[GMT-1]]
+|time_zone                = GMT-1
 |utc_offset               = 
 |time_zone_DST            = ''not observed''
 |utc_offset_DST           = 
-|cctld                    = [[.ie]]
+|cctld                    = .ie
 |calling_code             = -
 |drives_on                = Go la go ja
 }}
@@ -28,4 +28,4 @@
 {{Dinaga Europa}}
 {{stub}}
 
-[[Setensele:Europa]]
+[[Setensele:Yuropa]]

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Swiss Confederation
 |common_name              = Switzerland
 |image_flag               = Flag of Switzerland (Pantone).svg
@@ -8,9 +8,9 @@
 |government_type          = Federal parliamentary directorial republic
 |leader_name1             = 
 |leader_name2             = 
-|area_km2                 = 41,285
+|area_km2                 = 41285
 |area_rank                = 135
-|population_estimate      = 8,401,120 <small>(2016)</small>
+|population_estimate      = 8,401,120
 |currency                 = Swiss Franc
 |currency_code            = CHF
 |official_languages       = 
@@ -22,7 +22,7 @@
 |drives_on                = right
 }}
 
-'''Switzerland''' ke naga lefasaneng la  [[Europa]]. E na le badudi 8,401,120 ka palo. Toropokgolo ya Switzerland ke [[Zürich]] le Bern.
+'''Switzerland''' ke naga lefasaneng la  [[Europa]]. E na le badudi 8,401,120 ka palo. [[Toropokgolo]] ya Switzerland ke [[Zürich]] le Bern.
 
 {{Dinaga Europa}}
 {{stub}}

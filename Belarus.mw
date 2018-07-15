@@ -22,47 +22,35 @@
    | 3.2% Šele
  }}
 | demonym = Belarusian
-| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]]
-| leader_title1 = [[President of Belarus|President]]
-| leader_name1 = [[Alexander Lukashenko]]
-| leader_title2 = [[List of Belarusian Prime Ministers|Prime Minister]]
-| leader_name2 = [[Andrei Kobyakov]]
-| legislature = [[National Assembly of Belarus|National Assembly]]
-| upper_house = [[Council of the Republic of Belarus|Council of the Republic]]
-| lower_house = {{nowrap|[[House of Representatives of Belarus|House of Representatives]]}}
-| sovereignty_type = [[History of Belarus|Formation]]
+| government_type = Unitary presidential republic
+| leader_title1 = President
+| leader_name1 = Alexander Lukashenko
+| leader_title2 = Prime Minister
+| leader_name2 = Andrei Kobyakov
+| legislature = National Assembly
+| upper_house = Council of the Republic
+| lower_house = House of Representatives
+| sovereignty_type = Formation
 | sovereignty_note = 
-| established_event1 = [[Principality of Polotsk]]
+| established_event1 = Principality of Polotsk
 | established_date1 = 987
-| established_event2 = [[Grand Duchy of Lithuania]]
+| established_event2 = Grand Duchy of Lithuania
 | established_date2 = c. 1236
-| established_event3 = [[Polish–Lithuanian Commonwealth]]
+| established_event3 = Polish–Lithuanian Commonwealth
 | established_date3 = 1 July 1569
-| established_event4 = [[Russian Empire]]
+| established_event4 = Russian Empire
 | established_date4 = 1795
-| established_event5 = Independence from the [[Russian SFSR]]; [[Belarusian People's Republic]]
+| established_event5 = Independence from the Russian SFSR; Belarusian People's Republic
 | established_date5 = 25 March 1918
-| established_event6 = [[Lithuanian–Byelorussian Soviet Socialist Republic|Lithuanian-Byelorussian SSR]]
-| established_date6 = 17 February 1919
-| established_event7 = [[Byelorussian Soviet Socialist Republic|Byelorussian SSR]]
-| established_date7 = 31 July 1920
-| established_event8 = [[Territories of Poland annexed by the Soviet Union|Annexation of West Belarus]]
-| established_date8 = 15 November 1939
-| established_event9 = [[Declaration of State Sovereignty of the Belarusian Soviet Socialist Republic|State Sovereignty Declaration]]
-| established_date9 = 27 July 1990
-| established_event10 = Independence from the [[Soviet Union]]
-| established_date10 = 25 August 1991
-| established_event11 = CIS Declaration
-| established_date11 = 8 December 1991
-| established_event12 = Independence recognized
-| established_date12 = 26 December 1991
-| established_event13 = Current constitution
-| established_date13 = 15 March 1994
+| established_event6 = Independence from the [[Soviet Union]]
+| established_date6 = 25 August 1991
+| established_event7 = CIS Declaration
+| established_date7 = 8 December 1991
 | area_km2 = 207,595
 | area_rank = 84th 
 | area_sq_mi = 80,155 
 | percent_water = 1.4%
-| population_estimate = 9,491,800 {{decrease}}<ref name="ReferenceA">http://www.belstat.gov.by/ofitsialnaya-statistika/ssrd-mvf_2/natsionalnaya-stranitsa-svodnyh-dannyh/naselenie_6/chislennost-naseleniya1_yan_poobl//</ref>
+| population_estimate = 9,491,800 <ref name="ReferenceA">http://www.belstat.gov.by/ofitsialnaya-statistika/ssrd-mvf_2/natsionalnaya-stranitsa-svodnyh-dannyh/naselenie_6/chislennost-naseleniya1_yan_poobl//</ref>
 | population_estimate_rank = 93rd
 | population_estimate_year = 2018
 | population_census_rank = 87th
@@ -87,7 +75,7 @@
 | GDP_nominal_per_capita_rank = 
 | Gini = 26.7 
 | Gini_year = 2015
-| Gini_change = decrease <!--increase/decrease/steady-->
+| Gini_change = 
 | Gini_ref = <ref name="WBgini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=BY |title= GINI index (World Bank estimate) |publisher= World Bank |accessdate= 13 December 2017}}</ref>
 | Gini_rank = 
 | HDI = 0.796 
@@ -106,7 +94,7 @@
 | utc_offset = +3
 | date_format = dd.mm.yyyy
 | drives_on = right
-| calling_code = [[+375]]
+| calling_code = +375
 | cctld = .by 
 | official_website = [http://belarus.by/ belarus.by]
 }}

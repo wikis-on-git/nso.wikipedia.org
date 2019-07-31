@@ -1,12 +1,14 @@
 {{Infobox South African town 2011
 | name                    = Springs
 | native_name             = 
-| other_name              = {{Coord|26|15|17|S|28|26|34|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26 |latm = 15 |lats = 17 
+| longd = 28 |longm = 26 |longs = 34
 | image_skyline           = Springs.jpg
 | image_caption           = Downtown Springs Skyline
 | province                = Gauteng
 | district                = 
-| municipality            = Ekurhuleni
+| municipality            = {{!}}Ekurhuleni
 | established_date        = 1904
 | government_type         = <!-- Ward 00 -->
 | leader_party            = 

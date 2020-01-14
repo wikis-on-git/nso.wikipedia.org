@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Bo-Kaap
-| other_name              = {{coord|33|55|15|S|18|24|55|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 15|latNS  = S
+| longd = 18|longm = 24|longs = 55|longEW = E
 | image_skyline           = Boe-Kaap.jpg
 | image_caption           = Bo-Kaap area of Cape Town with its distinctive pastel coloured houses
 | province                = Kapa Bodikela

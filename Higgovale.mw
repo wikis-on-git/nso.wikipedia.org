@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Higgovale
-| other_name              = {{coord|33|56|22|S|18|24|09|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 56|lats  = 22|latNS  = S
+| longd = 18|longm = 24|longs = 09|longEW = E
 | image_skyline           = Higgovale from Table Mountain.jpg
 | image_caption           = Higgovale as seen from the summit of Table Mountain.
 | province                = Kapa Bodikela

@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Gardens
-| other_name              = {{coord|33|56|0|S|18|24|30|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 58|lats  = 0|latNS  = S
+| longd = 18|longm = 24|longs = 30|longEW = E
 | image_skyline           = The Gardens.jpg
 | image_caption           = View of The Gardens area
 | province                = Kapa Bodikela

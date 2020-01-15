@@ -1,6 +1,8 @@
 {{Infobox South African town 2011
 | name                    = Foreshore
-| other_names             = {{coord|33.92|S|18.43|E|region:ZA|display=inline}}
+| other_names             = 
+| latd  = 33.92|latm  = |lats  = |latNS  = S
+| longd = 18.43|longm = |longs = |longEW = E
 | image_skyline           = Dias statue, Cape Town.jpg
 | image_caption           = Statue of Bartolomeu Dias on the Heerengracht in the Foreshore
 | province                = Kapa Bodikela

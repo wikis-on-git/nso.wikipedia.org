@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Devil's Peak Estate
 | native_name             = 
-| other_name              = {{coord|33.9368|S|18.4302|E|display=inline}}
+| other_name              = 
+| latd  = 33.9368|latm  = |lats  = |latNS  = S
+| longd = 18.4302|longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

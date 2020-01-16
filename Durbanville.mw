@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Durbanville
 | native_name             = 
-| other_name              = {{coord|33|49|57|S|18|38|51|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 49|lats  = 57|latNS  = S
+| longd = 18|longm = 38|longs = 51|longEW = E
 | image_skyline           = Dutch Reformed Church, Durbanville (3).jpg
 | image_caption           = Dutch Reformed Church
 | province                = Kapa Bodikela

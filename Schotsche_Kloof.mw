@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Schotsche Kloof
-| other_name              = {{coord|33|55|13|S|18|24|39|E|display=inline}}
+| other_name              =
+| latd  = 33|latm  = 55|lats  = 13|latNS  = S
+| longd = 18|longm = 24|longs = 39|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

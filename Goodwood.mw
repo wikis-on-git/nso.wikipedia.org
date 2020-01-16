@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Goodwood
 | native_name             = 
-| other_name              = {{coord|33|54|41|S|18|33|02|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 54|lats  = 41|latNS  = S
+| longd = 18|longm = 33|longs = 02|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

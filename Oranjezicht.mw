@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Oranjezicht
 | native_name             = 
-| other_name              = {{coord|33|56|30|S|18|24|50|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 56|lats  = 30|latNS  = S
+| longd = 18|longm = 24|longs = 50|longEW = E
 | image_skyline           = 
 | province                = Kapa Bodikela
 | district                = 

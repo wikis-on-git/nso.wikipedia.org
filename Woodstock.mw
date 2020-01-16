@@ -2,7 +2,9 @@
 | name                    = Woodstock
 | image_skyline           = WoodstockSouthCapeTown.jpg
 | image_caption           = The southern part of Woodstock, with Devil's Peak in the background. The pink building in the foreground is the town hall.
-| other_name              = {{coord|33|55|50|S|18|26|50|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 50|latNS  = S
+| longd = 18|longm = 26|longs = 50|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

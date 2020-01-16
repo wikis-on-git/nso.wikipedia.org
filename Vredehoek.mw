@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Vredehoek 
-| other_name              = {{coord|33|56|15|S|18|25|30|E|display=inline}}
+| other_name              =
+| latd  = 33|latm  = 56|lats  = 15|latNS  = S
+| longd = 18|longm = 25|longs = 30|longEW = E
 | image_skyline           = Vredehoek1.jpg
 | image_caption           = Vredehoek seen from Signal Hill
 | province                = Kapa Bodikela

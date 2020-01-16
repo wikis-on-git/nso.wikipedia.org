@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Brackenfell
 | native_name             = 
-| other_name              = {{coord|33|52|00|S|18|41|00|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 52|lats  = 00|latNS  = S
+| longd = 18|longm = 41|longs = 00|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

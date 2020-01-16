@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Tamboerskloof
-| other_name              = {{coord|33|55|45|S|18|24|15|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 45|latNS  = S
+| longd = 18|longm = 24|longs = 15|longEW = E
 | image_skyline           = Tamboerskloof From Tafelberg Road.jpg
 | image_caption           = Tamboerskloof seen from Tafelberg Road on Table Mountain
 | province                = Kapa Bodikela

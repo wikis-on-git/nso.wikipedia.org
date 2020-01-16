@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Bloubergstrand
 | native_name             = 
-| other_name              = {{coord|33.7972|S|18.4620|E|display=title}}
+| other_name              = 
+| latd  = 33.7972|latm  = |lats  = |latNS  = S
+| longd = 18.4620|longm = |longs = |longEW = E
 | image_skyline           = Bloubergdtand.jpg
 | image_caption           = An aerial view of Bloubergstand with Table Mountain on the far side of Table Bay.
 | province                = Kapa Bodikela

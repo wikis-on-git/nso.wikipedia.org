@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Melkbosstrand
 | native_name             = 
-| other_name              = {{coord|33|44|00|S|18|26|00|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 44|lats  = 0|latNS  = S
+| longd = 18|longm = 26|longs = 0|longEW = E
 | image_skyline           = Beach at Melkbosstrand.JPG
 | image_caption           = Beach at Melkbosstrand
 | province                = Kapa Bodikela

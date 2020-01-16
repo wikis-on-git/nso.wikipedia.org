@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = University Estate
-| other_name              = {{coord|33|56|20|S|18|27|5|E|display=inline}}
+| other_name              =
+| latd  = 33|latm  = 56|lats = 20|latNS  = S
+| longd = 18|longm = 27|longs = 5|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

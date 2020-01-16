@@ -1,7 +1,8 @@
 {{Infobox South African town 2011
 | name                    = Epping
 | native_name             = 
-| other_name              = {{coord|33|56|03|S|18|32|37|E|display=inline}}
+| latd  = 33|latm  = 56|lats  = 03|latNS  = S
+| longd = 18|longm = 32|longs = 37|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Bothasig
 | native_name             = 
-| other_name              = {{coord|33|51|34|S|18|32|23|E|display=title}}
+| other_name              = 
+| latd  = 33|latm  = 51|lats  = 34|latNS  = S
+| longd = 18|longm = 32|longs = 23|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Thornton
-| native_name             = Thorntonite
+| native_name             = 
 | image_map               = Thornton OSM map.svg
 | map_caption             = Street map of Thornton
-| other_name              = {{coord|33|55|25|S|18|32|07|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 25|latNS  = S
+| longd = 18|longm = 32|longs = 07|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

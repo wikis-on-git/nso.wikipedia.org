@@ -1,9 +1,10 @@
 {{Infobox South African town
 | name                    = Bantry Bay
-| image_skyline           = Bantry Bay (1781098161).jpg
 | native_name             = 
-| other_name              = {{coord|33|55|39|S|18|22|49|E|display=inline}}
-| image_skyline           = 
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 39|latNS  = S
+| longd = 18|longm = 22|longs = 49|longEW = E
+| image_skyline           = Bantry Bay (1781098161).jpg
 | image_caption           = 
 | province                = Kapa Bodikela
 | district                = 

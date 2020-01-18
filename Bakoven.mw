@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Bakoven
 | native_name             = 
-| other_name              = {{coord|33|57|47|S|18|22|55|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 57|lats  = 47|latNS  = S
+| longd = 18|longm = 22|longs = 55|longEW = E
 | image_caption           = 
 | province                = Kapa Bodikela
 | district                = 

@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Parow
 | native_name             = 
-| other_name              = {{coord|33|54|00|S|18|36|00|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 54|lats  = 0|latNS  = S
+| longd = 18|longm = 36|longs = 0|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

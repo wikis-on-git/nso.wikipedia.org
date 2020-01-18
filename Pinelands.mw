@@ -2,7 +2,9 @@
 | name                    = Pinelands
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|33|55|54|S|18|30|46|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 55|lats  = 54|latNS  = S
+| longd = 18|longm = 30|longs = 46|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

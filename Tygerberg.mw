@@ -1,6 +1,8 @@
 {{Infobox South African town 2011
 | name                    = Tygerberg 
-| other_names             = {{coord|33|51|16|S|18|35|3|E|region:ZA|display=inline}}
+| other_names             = 
+| latd  = 33|latm  = 51|lats  = 16|latNS  = S
+| longd = 18|longm = 35|longs = 03|longEW = E
 | image_skyline           = TATygerberg.jpg
 | image_caption           = An aerial view of the Tygerberg hills and the suburbs of [[Panorama, Cape Town|Panorama]] and Welgemoed surrounding the hill.
 | province                = Kapa Bodikela

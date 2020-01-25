@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Simon's Town
 | native_name             = Simonstad
-| other_name              = {{Coord|34|11|36|S|18|26|00|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 11|lats  = 36|latNS  = S
+| longd = 18|longm = 26|longs = 00|longEW = E
 | image_skyline           = Simons-town.jpg
 | image_caption           = View of Simon's Town
 | province                = Kapa Bodikela

@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Eerste River
 | native_name             = 
-| other_name              = {{coord|34|0|S|18|43|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 0|lats  = |latNS  = S
+| longd = 18|longm = 43|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

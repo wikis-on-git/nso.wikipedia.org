@@ -2,7 +2,9 @@
 | name                    = Mowbray
 | image_skyline           = MostertsMill.jpg
 | image_caption           = Mostert's Mill, February 2008
-| other_name              = {{coord|33|56|46|S|18|28|34|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 56|lats  = 46|latNS  = S
+| longd = 18|longm = 28|longs = 34|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

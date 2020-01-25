@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Grassy Park
 | native_name             = 
-| other_name              = {{coord|34|03|S|18|29|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 03|lats  = |latNS  = S
+| longd = 18|longm = 29|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

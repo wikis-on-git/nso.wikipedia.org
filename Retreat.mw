@@ -2,7 +2,9 @@
 | name                    = Retreat
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|03|18|S|18|28|32|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 03|lats  = 18|latNS  = S
+| longd = 18|longm = 28|longs = 32|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

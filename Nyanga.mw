@@ -2,7 +2,9 @@
 | name                    = Nyanga
 | image_skyline           = Nyanga profile 2012.png
 | image_caption           = Top: Zolani Recreational Centre. Middle: Nyanga taxi rank. Bottom left: Nyanga Community Health Centre. Bottom right: government built RDP houses.
-| other_name              = {{coord|33|59|S|18|35|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 59|lats  = |latNS  = S
+| longd = 18|longm = 35|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

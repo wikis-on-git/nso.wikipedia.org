@@ -2,7 +2,9 @@
 | name                    = Langa
 | image_skyline           = 2009-November-30-Langa Township.jpg
 | image_caption           = Langa Township
-| other_name              = {{coord|33|56|43|S|18|31|48|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 56|lats  = 43|latNS  = S
+| longd = 18|longm = 31|longs = 48|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

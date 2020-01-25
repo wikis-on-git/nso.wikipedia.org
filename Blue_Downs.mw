@@ -2,7 +2,9 @@
 | name                    = Blue Downs
 | image_skyline           = Blue Downs and Mfuleni.JPG
 | image_caption           = An aerial photograph of Blue Downs in the foreground and [[Mfuleni]] laying just beyond.
-| other_name              = {{coord|34|0|0|S|18|41|51|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 0|lats  = 0|latNS  = S
+| longd = 18|longm = 41|longs = 51|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

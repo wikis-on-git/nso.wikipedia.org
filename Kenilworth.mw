@@ -2,7 +2,9 @@
 | name                    = Kenilworth
 | image_skyline           = Kenilworth Cape Town.png
 | image_caption           = Top left: A view down the section of Main Road that runs through Kenilworth. Top right: Saint James Church. Centre left & right: Images from the J&B Met.  Bottom:  Kenilworth Station
-| other_name              = {{coord|33|59|45|S|18|28|30|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 59|lats  = 45|latNS  = S
+| longd = 18|longm = 28|longs = 40|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

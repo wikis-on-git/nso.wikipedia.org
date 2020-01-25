@@ -2,7 +2,9 @@
 | name                    = Crossroads
 | image_skyline           = 2011-02-08 16-53-17 South Africa - Crossroads.jpg
 | image_caption           = Aerial view of Crossroads
-| other_name              = {{coord|33|59|S|18|35|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 59|lats  = |latNS  = S
+| longd = 18|longm = 35|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

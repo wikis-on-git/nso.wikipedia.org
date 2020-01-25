@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Heathfield
 | coordinates             = 
-| other_name              = {{coord|34|02|55|S|18|28|07|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 02|lats  = 55|latNS  = S
+| longd = 18|longm = 28|longs = 07|longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

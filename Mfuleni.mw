@@ -2,7 +2,9 @@
 | name                    = Mfuleni
 | image_skyline           = Mfuleni aerial.jpg
 | image_caption           = Mfuleni in the foreground stretching to the west towards Table Mountain. [[Delft, Cape Town|Delft]] (to the right) are situated beyond.
-| other_name              = {{coord|33|59|41|S|18|40|33|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 59|lats  = 41|latNS  = S
+| longd = 18|longm = 40|longs = 33|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

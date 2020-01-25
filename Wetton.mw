@@ -2,7 +2,9 @@
 | name                    = Wetton
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|1|S|18|33|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 1|lats  = |latNS  = S
+| longd = 18|longm = 33|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

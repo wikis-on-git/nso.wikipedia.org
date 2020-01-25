@@ -2,7 +2,9 @@
 | name                    = Manenberg
 | image_skyline           = Manenberg_Cape_Town_2017.jpg
 | image_caption           = A view of Manenberg looking towards Table Mountain in the background. The red roofed government housing blocks in which a large proportion of the community's population lives can be seen in the foreground.
-| other_name              = {{coord|33|59|S|18|33|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 59|lats  = |latNS  = S
+| longd = 18|longm = 33|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

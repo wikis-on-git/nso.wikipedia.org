@@ -2,7 +2,9 @@
 | name                    = Observatory
 | image_skyline           = Observetory CT.png
 | image_caption           = Top: Royal Observatory. Middle left: Groote Schuur Hospital.  Centre Middle: A World War I monument.  Middle right: Cafes on lower main road in Observatory.  Bottom: Observatory's soccer and [[hockey]] stadium.
-| other_name              = {{coord|33|56|16|S|18|28|15|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 56|lats  = 16|latNS  = S
+| longd = 18|longm = 28|longs = 15|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

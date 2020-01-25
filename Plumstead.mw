@@ -2,7 +2,9 @@
 | name                    = Plumstead
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|1|20|S|18|28|20|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 1|lats  = 20|latNS  = S
+| longd = 18|longm = 28|longs = 20|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

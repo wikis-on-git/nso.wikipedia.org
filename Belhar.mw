@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Belhar
 | native_name             = 
-| other_name              = {{coord|33|57|S|18|38|E|display=inline}}
+| other_name              =
+| latd  = 33|latm  = 57|lats  = |latNS  = S
+| longd = 18|longm = 38|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Bodikela

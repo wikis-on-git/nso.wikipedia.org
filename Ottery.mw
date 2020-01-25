@@ -2,7 +2,9 @@
 | name                    = Ottery
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|00|53|S|18|30|16|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 00|lats  = 53|latNS  = S
+| longd = 18|longm = 30|longs = 16|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

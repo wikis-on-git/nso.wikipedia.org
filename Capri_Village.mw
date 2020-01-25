@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Capri Village
-| other_name              = {{coord|34|8|7|S|18|23|12|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 8|lats  = 7|latNS  = S
+| longd = 18|longm = 23|longs =12 |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

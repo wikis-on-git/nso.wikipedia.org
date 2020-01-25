@@ -2,7 +2,9 @@
 | name                    = Rondebosch
 | image_skyline           = Rondebosch CT.png
 | image_caption           = Top left: Victorian era cast iron Fountain at the historic centre of Rondebosch. Top right: University of Cape Town upper campus. Centre right: Rhodes Memorial. Bottom: Rondebosch Common
-| other_name              = {{coord|33|57|48|S|18|28|35|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 57|lats  = 48|latNS  = S
+| longd = 18|longm = 28|longs = 35|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

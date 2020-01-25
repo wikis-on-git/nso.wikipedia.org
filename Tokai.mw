@@ -2,7 +2,9 @@
 | name                    = Tokai
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|3|45|S|18|26|30|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 3|lats  = 45|latNS  = S
+| longd = 18|longm = 26|longs = 30|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

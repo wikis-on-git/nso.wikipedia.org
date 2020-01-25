@@ -2,7 +2,9 @@
 | name                    = Diep River
 | image_skyline           = 
 | image_caption           = 
-| other_name              = {{coord|34|2|3|S|18|27|52|E|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 2|lats  = 3|latNS  = S
+| longd = 18|longm = 27|longs = 52|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

@@ -2,7 +2,9 @@
 | name                    = Mitchells Plain
 | image_skyline           = 2011-02-08 16-54-16 South Africa - Mitchells Plain.jpg
 | image_caption           = Aerial view of Mitchells Plain
-| other_name              = {{coord|34|3|2|S|18|37|5|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 3|lats  = 2|latNS  = S
+| longd = 18|longm = 37|longs = 5|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

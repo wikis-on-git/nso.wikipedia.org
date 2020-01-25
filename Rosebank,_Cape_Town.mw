@@ -2,7 +2,9 @@
 | name                    = Rosebank
 | image_skyline           = Rosebank bridge.jpg
 | image_caption           = Pedestrian bridge in Rosebank
-| other_name              = {{coord|33|57|20|S|18|28|27|E|display=inline}}
+| other_name              = 
+| latd  = 33|latm  = 57|lats  = 20|latNS  = S
+| longd = 18|longm = 28|longs = 27|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

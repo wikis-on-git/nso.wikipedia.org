@@ -2,7 +2,9 @@
 | name                    = Scarborough
 | image_skyline           = Scarborough Western Cape Coastline and City View.jpg
 | image_caption           = An aerial view of Scarborough from the ocean.
-| other_name              = {{coord|34|11|54|S|18|22|32|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 11|lats  = 54|latNS  = S
+| longd = 18|longm = 22|longs = 32|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

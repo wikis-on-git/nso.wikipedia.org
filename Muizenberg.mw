@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Muizenberg
 | native_name             = 
-| other_name              = {{Coord|34|6.3|S|18|28.3|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 34|latm  = 6.3|lats  = |latNS  = S
+| longd = 18|longm = 28.3|longs = |longEW = E
 | image_skyline           = Greater Cape Town 12.02.2007 16-08-09.2007 16-08-11.JPG
 | image_caption           = An aerial view of Muizenberg taken from the East.
 | province                = Kapa Bodikela

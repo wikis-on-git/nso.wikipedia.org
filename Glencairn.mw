@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Glencairn
-| other_name              = {{coord|34|9|48|S|18|25|47|E|region:ZA|display=inline}}
+| other_name              = 
+| latd  = 34|latm  = 09|lats  = 48|latNS  = S
+| longd = 18|longm = 25|longs = 47|longEW = E
 | image_skyline           = View of Glencairn and Simon's Town from Elsie's Peak.jpg
 | image_caption           = View over Glencairn
 | province                = Kapa Bodikela

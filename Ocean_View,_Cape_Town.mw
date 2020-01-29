@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Ocean View
-| other_name              = {{coord|34|9|12|S|18|21|19|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 9|lats  = 12|latNS  = S
+| longd = 18|longm = 21|longs = 19|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

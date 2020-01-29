@@ -2,7 +2,9 @@
 | name                    = Kommetjie
 | image_skyline           = Kommetjie from Hout Bay.jpg
 | image_caption           = Kommetjie viewed from [[Hout Bay]]
-| other_name              = {{coord|34|08|25|S|18|19|45|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 08|lats  = 25|latNS  = S
+| longd = 18|longm = 19|longs = 45|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

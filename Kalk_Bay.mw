@@ -3,7 +3,9 @@
 | native_name             = Kalkbaai
 | image_skyline           = Kalk Bay.JPG
 | image_caption           = Kalk Bay. Simon's Town in the distance.
-| other_name              = {{coord|34|07|40|S|18|26|54|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 07|lats  = 40|latNS  = S
+| longd = 18|longm = 26|longs = 54|longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

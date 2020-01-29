@@ -2,7 +2,9 @@
 | name                    = Masiphumelele
 | image_skyline           = Cape-town-masiphumelele-township-road-sign-ef-24-70mm-f28l-5d-cr-4611.jpg
 | image_caption           = Road sign in Masiphumelele township
-| other_name              = {{coord|34|7|S|18|22|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 7|lats  = |latNS  = S
+| longd = 18|longm = 22|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

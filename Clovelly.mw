@@ -1,6 +1,8 @@
 {{Infobox South African town
 | name                    = Clovelly
-| other_name              = {{coord|34|7|S|18|26|E|region:ZA|display=inline,}}
+| other_name              = 
+| latd  = 34|latm  = 7|lats  = |latNS  = S
+| longd = 18|longm = 26|longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

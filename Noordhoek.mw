@@ -2,7 +2,9 @@
 | name                    = Noordhoek
 | image_skyline           = Playa Noordhoek, Sudáfrica, 2018-07-23, DD 126.jpg
 | image_caption           = Noordhoek Beach from Chapman's Peak Drive.
-| other_name              = {{coord|34.104|S|18.360|E|region:ZA|display=inline,}}
+| other_name              =  
+| latd  = 34.104|latm  = |lats  = |latNS  = S
+| longd = 18.360|longm = |longs = |longEW = E
 | province                = Kapa Bodikela
 | district                = 
 | municipality            = City of Cape Town

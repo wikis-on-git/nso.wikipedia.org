@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Hout Bay
 | native_name             = 
-| other_name              = {{coord|34|2|S|18|21|E|display=title}}
+| other_name              = 
+| latd  = 34|latm  = 02|lats  = |latNS  = S
+| longd = 18|longm = 21|longs = |longEW = E
 | image_skyline           = Hout Bay Jan 07.jpg
 | image_caption           = Hout Bay
 | province                = Kapa Bodikela

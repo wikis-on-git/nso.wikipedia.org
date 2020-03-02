@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Oberholzer
 | native_name             = 
-| other_name              = {{Coord|26.347|S|27.382|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26.347 |latm  = |lats  = |latNS  = S
+| longd = 27.382 |longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

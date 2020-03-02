@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Kagiso
 | native_name             = 
-| other_name              = {{coord|26|8|S|27|47|E}}
+| other_name              =
+| latd  = 26|latm  = 8|lats  = |latNS  = S
+| longd = 27|longm = 47|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

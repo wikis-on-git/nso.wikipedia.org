@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Bekkersdal
 | native_name             = 
-| other_name              = {{coord|26|16|S|27|42|E}}
+| other_name              = 
+| latd  = 26|latm  = 16|lats  = |latNS  = S
+| longd = 27|longm = 42|longs = |longEW = E
 | image_skyline           = Mounted police in Bekkersdal, South Africa.jpg
 | image_caption           = Mounted police in Bekkersdal, ahead of the 2014 election
 | province                = Gauteng

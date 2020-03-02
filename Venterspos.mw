@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Venterspos
 | native_name             = 
-| other_name              = {{Coord|26.266|S|27.633|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26.266 |latm  = |lats  = |latNS  = S
+| longd = 27.633 |longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

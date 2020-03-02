@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = West Driefontein
 | native_name             = 
-| other_name              = {{Coord|26|23|S|27|26|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26|latm  = 23|lats  = |latNS  = S
+| longd = 27|longm = 26|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Muldersdrift
 | native_name             = 
-| other_name              = {{coord|26.033|S|27.85|E}}
+| other_name              = 
+| latd  = 26.033|latm  = |lats  = |latNS  = S
+| longd = 27.85|longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

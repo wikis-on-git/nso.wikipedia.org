@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Zuurbekom
 | native_name             = 
-| other_name              = {{coord|26.300|S|27.783|E}}
+| other_name              =
+| latd  = 26.300 |latm  = |lats  = |latNS  = S
+| longd = 27.783 |longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

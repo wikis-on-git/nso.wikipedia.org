@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Elandsrand
 | native_name             =
-| other_name              = {{Coord|26|26|S|27|22|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26|latm  = 26|lats  = |latNS  = S
+| longd = 27|longm = 22|longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

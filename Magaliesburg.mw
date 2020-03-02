@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Magaliesburg
 | native_name             = 
-| other_name              = {{Coord|26|00|00|S|27|32|45|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 26|latm  = 00|lats  = 00 |latNS  = S
+| longd = 27|longm = 32|longs = 45 |longEW = E
 | image_skyline           = South Africa-Magaliesburg-R24-001.jpg
 | image_caption           = The R24 forms the main road through Magaliesburg
 | province                = Gauteng

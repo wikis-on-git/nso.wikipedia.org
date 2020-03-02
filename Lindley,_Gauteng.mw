@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Lindley
 | native_name             = 
-| other_name              = {{coord|25.931|S|27.905|E}}
+| other_name              = 
+| latd  = 25.931 |latm  = |lats  = |latNS  = S
+| longd = 27.905 |longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

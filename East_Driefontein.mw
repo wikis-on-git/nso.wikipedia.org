@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = East Driefontein
 | native_name             = 
-| other_name              = {{Coord|26.389|S|27.499|E|display=title|type:landmark_region:ZA}}
+| other_name              =
+| latd  = 26.389|latm  = |lats  = |latNS  = S
+| longd = 27.499|longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

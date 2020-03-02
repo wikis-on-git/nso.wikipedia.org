@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Rietvallei
 | native_name             = 
-| other_name              = {{coord|26.188|S|27.759|E}}
+| other_name              = 
+| latd  = 26.188|latm  = |lats  = |latNS  = S
+| longd = 27.759|longm = |longs = |longEW = E
 | image_skyline           = 
 | image_caption           = 
 | province                = Gauteng

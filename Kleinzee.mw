@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Kleinzee
 | native_name             = Kleinsee
-| other_name              = {{coord|29|40|40|S|17|04|12|E}}
+| other_name              = 
+| latd  = 29 |latm = 40 |lats = 40
+| longd = 17 |longm = 04 |longs = 12
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Leboa

@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Sanddrif
 | native_name             = 
-| other_name              = {{coord|28|25|38|S|16|46|38|E}}
+| other_name              =
+| latd  = 28 | latm= 25 |lats = 38
+| longd = 16 | longm = 46 |longs = 38
 | image_skyline           = 
 | image_caption           = 
 | province                = Kapa Leboa

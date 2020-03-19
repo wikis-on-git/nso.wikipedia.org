@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Okiep
 | native_name             = O'okiep
-| other_name              = {{coord|29|35|45|S|17|52|51|E}}
+| other_name              = 
+| latd  = 29 |latm = 35 |lats = 45 
+| longd = 17 |longm = 52 |longs = 51
 | image_skyline           = Chimney, Okiep.JPG
 | image_caption           = Ventilation shaft built by the Cape Copper Company in 1880
 | province                = Kapa Leboa

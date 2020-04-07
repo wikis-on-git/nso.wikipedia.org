@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Kosmos
 | native_name             = 
-| other_name              = {{Coord|25|44|14|S|27|51|13|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
+| latd  = 25 |latm = 44 |lats = 14 
+| longd = 27 |longm = 51 |longs = 13
 | image_skyline           = South Africa-Hartbeespoot dam06.jpg
 | image_caption           = Kosmos seen from [[Hartbeespoort]]
 | province                = Leboa Bodikela

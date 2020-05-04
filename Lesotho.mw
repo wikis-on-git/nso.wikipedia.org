@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Mmušo wa Lesotho
 |common_name              = Lesotho
 |image_flag               = Flag of Lesotho.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Maseru]] 
 |government_type          = Mmušo wa Bogoši
 |leader_name1             = [[Letsie III of Lesotho|Letsie III]]
-|area_km2                 = 30,355
+|area_km2                 = 30355
 |area_rank                = 140th
 |population_estimate      = 2,203,821 <small>(2016)</small>
 |demonym                  = Mosotho/Basotho

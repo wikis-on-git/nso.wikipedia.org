@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Canada  
 |common_name            = Canada
 |image_flag             = Flag of Canada.svg
@@ -8,9 +8,9 @@
 |government_type        = Federal
 |leader_name1           = Stephen Harper
 |sovereignty_type       = [[Independence]]
-|area_km2               = 9 984 670
+|area_km2               = 9984670
 |area_rank              = 2nd
-|population_estimate    = 35 702 707 (2015)
+|population_estimate    = 35702707 (2015)
 |currency               = Canadian dollar ($CAD)
 |currency_code          = CAD
 |demonym                = Canadian

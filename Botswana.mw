@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Repabliki ya Botswana
 |common_name            = Botswana
 |image_flag             = Folaga ya Botswana.svg
@@ -7,8 +7,8 @@
 |capital                = [[Gaborone]]
 |government_type        = Parliamentary republic
 |leader_name1           = [[Ian Khama|Seretse Khama Ian Khama]]
-|area_km2               = 581,730
-|area_sq_mi             = 224,610
+|area_km2               = 581730
+|area_sq_mi             = 224610
 |area_rank              = 48th
 |population_estimate    = 2,250,260 <small>(2016)</small>
 |demonym                = Motswana/Batswana

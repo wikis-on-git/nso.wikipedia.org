@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Namibia
 |common_name              = Namibia
 |image_flag               = Flag of Namibia.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Windhoek]]
 |government_type          = Republic
 |leader_name1             = Hifikepunye Pohamba
-|area_km2                 = 825,615
+|area_km2                 = 825615
 |area_rank                = 34th
 |population_estimate      = 2,113,077 <small>(2011)</small>
 |demonym                  = Namibian

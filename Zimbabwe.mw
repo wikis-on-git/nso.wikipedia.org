@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |native_name              =Zimbabwe
 |conventional_long_name   =Repabliki ya Zimbabwe 
 |common_name              =Zimbabwe
@@ -8,7 +8,7 @@
 |capital                  =[[Harare]]
 |government_type          =Repabliki
 |leader_name1             =Robert Mugabe
-|area_km2                 =390,757
+|area_km2                 =390757
 |area_rank                =60th
 |population_estimate      =13,010,000<sup>1</sup> <!--UN WPP-->
 |demonym                  =Zimbabwean

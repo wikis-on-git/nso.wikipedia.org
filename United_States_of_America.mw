@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = United States of America  
 |common_name              = United States ya America
 |image_flag               = Flag of the United States.svg
@@ -9,9 +9,9 @@
 |leader_name1             = [[Donald Trump]] 
 |sovereignty_type         = [[Independence]]
 |official_languages       = [[Seisimane]] 
-|area_km2                 = 9 826 630
+|area_km2                 = 9826630
 |area_rank                = 3rd
-|population_estimate      = <br />325 145 963 (2017 est.)<br />309 349 689 (2010 census)<ref>{{cite web|url=http://www.census.gov/programs-surveys/popest.html|format=pdf|title=U.S. census department data|publisher=[[United States Census Bureau]]|accessdate=January 24, 2010}}</ref>
+|population_estimate      = <br />325 145 963 (2017 est.)<br />309 349 689 (2010 census)<ref>{{cite web|url=http://www.census.gov/programs-surveys/popest.html|format=pdf|title=U.S. census department data|publisher=United States Census Bureau|accessdate=24 January 2010}}</ref>
 |demonym                  = American
 |currency                 = United States dollar ($)
 |currency_code            = USD

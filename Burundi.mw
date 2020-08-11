@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |native_name                 = ''Republika y'u Burundi''<br />''République du Burundi''
 |conventional_long_name      = Repabliki ya Burundi
 |common_name                 = Burundi
@@ -8,7 +8,7 @@
 |capital                     = [[Bujumbura]]
 |government_type             = Repabliki
 |leader_name1                = Évariste Ndayishimiye
-|area_km2                    = 27,834
+|area_km2                    = 27834
 |population_estimate         = 10,524,117 <small>(2020)</small>
 |currency                    = Burundi franc (FBu)
 |official_languages          = [[Sefora]]<br />[[Kirundi]]

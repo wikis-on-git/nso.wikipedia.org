@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Repabliki ya Ghana
 |common_name          = Ghana
 |image_flag           = Flag of Ghana.svg
@@ -7,8 +7,8 @@
 |capital              = [[Accra]]
 |government_type      = Constitutional repabliki
 |leader_name1         = John Atta Mills
-|area_km2             = 238,534
-|area_ran             = 82nd
+|area_km2             = 238534
+|area_rank            = 82nd
 |population_estimate  = 27,043,093 <small>(2014)</small>
 |demonym              = Ghanaian
 |official_languages   = [[Seisimane]]

@@ -1,5 +1,5 @@
 : ''Must not be confused with [[Republic ya Congo]], with capital as [[Brazzaville]].''
-{{Country
+{{Infobox Country
 |conventional_long_name   = Democratic Republic of the Congo
 |common_name              = Democratic Repabliki ya Congo
 |image_flag               = Flag of the Democratic Republic of the Congo.svg
@@ -8,7 +8,7 @@
 |capital                  = [[Kinshasa]]
 |government_type          = Semi-Presidential Repabliki
 |leader_name1             = Joseph Kabila
-|area_km2                 = 2,345,409
+|area_km2                 = 2345409
 |area_rank                = 11th
 |population_estimate      = 78,736,153 <small>(2016)</small>
 |demonym                  = Congolese

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Federal Democratic Republic of Ethiopia
 |common_name              = Ethiopia 
 |image_flag               = Flag of Ethiopia.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Addis Ababa]]
 |government_type          = Federal repabliki
 |leader_name1             = Mulatu Teshome Wirtu
-|area_km2                 = 1 104 300
+|area_km2                 = 1104300
 |area_rank                = 27th
 |population_estimate      = 99 465 819 <small>(2015)</small>
 |demonym                  = Ethiopian

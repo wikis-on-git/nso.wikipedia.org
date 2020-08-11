@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Great Socialist People's Libyan Arab Jamahiriya
 |common_name = Libya
 |image_flag = Flag of Libya.svg
@@ -7,7 +7,7 @@
 |capital = [[Tripoli]]
 |government_type = [[Jamahiriya]]
 |leader_name1 = [[Muammar al-Gaddafi]]
-|area_km2 = 1,759,540
+|area_km2 = 1759540
 |population_estimate = 6,411,776 <small>(2015)</small>
 |currency = [[Libyan dinar|Dinar]]
 |official_languages       =[[Arabic]]

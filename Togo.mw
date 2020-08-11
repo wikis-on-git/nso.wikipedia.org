@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Togolese Repabliki
 |common_name              = Togo
 |image_flag               = Flag_of_Togo.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Lomé]]
 |government_type          = Repabliki
 |leader_name1             = Faure Gnassingbe 
-|area_km2                 = 56,785
+|area_km2                 = 56785
 |population_estimate = 7,552,318 <small>(2015)</small>
 |currency                 = CFA franc
 |official_languages       = [[Sefora]]

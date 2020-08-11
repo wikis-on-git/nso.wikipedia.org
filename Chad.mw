@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Chad
 |common_name              = Chad 
 |image_flag               = Flag of Chad.svg
@@ -8,7 +8,7 @@
 |capital                  = [[N'Djamena]]
 |government_type          = Republic|Repabliki
 |leader_name1             = Idriss Déby
-|area_km2                 = 1,284,000
+|area_km2                 = 1284000
 |population_estimate      = 12,075,985 <small>(2017)</small>
 |currency                 = Central African CFA franc
 |currency_code            = XAF

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Repabliki ya Sierra Leone
 |common_name            = Sierra Leone
 |image_flag             = Flag of Sierra Leone.svg
@@ -7,7 +7,7 @@
 |capital                = [[Freetown]]
 |government_type        = Repabliki
 |leader_name1           = Ernest Bai Koroma
-|area_km2               = 71,840
+|area_km2               = 71840
 |population_estimate    = 7,075,641 <small>(2015)</small>
 |currency               = Leone
 |official_languages     = [[Seisimane]]

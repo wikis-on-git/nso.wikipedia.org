@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Côte d'Ivoire
 |common_name              = Côte d'Ivoire
 |image_flag               = Flag of Cote d'Ivoire.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Yamoussoukro]] (''de jure'')<br />[[Abidjan]] (''de facto'')
 |government_type          = Repabliki
 |leader_name1             = Alassane Ouattara 
-|area_km2                 = 322,463
+|area_km2                 = 322463
 |area_rank                = 69th
 |population_estimate      = 24,184,810 <small>(2017)</small>
 |demonym 	          = Ivorian

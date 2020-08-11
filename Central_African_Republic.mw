@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Central African Repabliki
 |common_name              = 
 |image_flag               = Flag of the Central African Republic.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Bangui]]
 |government_type          = Repabliki
 |leader_name1             = François Bozizé
-|area_km2                 = 622,984
+|area_km2                 = 622984
 |population_estimate 	  = 4,594,621 <small>(2016)</small>
 |currency                 = Central African franc
 |official_languages       = [[Sefora]] <br />Sango

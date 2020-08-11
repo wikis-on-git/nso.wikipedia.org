@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Jamhuri ya Muungano wa Tanzania
 |common_name              = Tanzania
 |image_flag               = Flag_of_Tanzania.svg
@@ -8,7 +8,7 @@
 |government_type          =
 |leader_name1             = John Magufuli
 |leader_name2             = Kassim Majaliwa
-|area_km2                 = 945,090 
+|area_km2                 = 945090 
 |area_rank                = 31st
 |population_estimate      = 55,572,201 <small>(2016)</small> 
 |demonym                  = Tanzanian

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Madagascar
 |common_name              = Madagascar
 |image_flag               = Flag of Madagascar.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Antananarivo]]
 |government_type          = [[Republic|Republiki]]
 |leader_name1             = Marc Ravalomanana
-|area_km2                 = 587,041
+|area_km2                 = 587041
 |population_estimate      = 24,430,325 <small>(2016)</small> 
 |currency                 = Malagasy ariary
 |official_languages       = Malagasy, [[Sefora]], [[Seisimane]]

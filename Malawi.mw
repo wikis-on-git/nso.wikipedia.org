@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |native_name         = {{lang|ny|''Dziko la Malaŵi''}}
 |conventional_long_name   = Republiki ya Malawi
 |common_name         = Malawi
@@ -9,7 +9,7 @@
 |capital             = [[Lilongwe]]
 |government_type     = [[Multi-party|Pušano ya Makoko]] [[democracy]]
 |leader_name1        = [[Lazarus Chakwera]]
-|area_km2            = 118,484
+|area_km2            = 118484
 |area_rank           = 99th
 |population_estimate = 16,407,000 <small>(2013)</small>
 |demonym             = Malawian

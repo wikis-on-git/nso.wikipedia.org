@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |native_name            = ''Jamhuri ya Kenya''
 |conventional_long_name = Repabliki ya Kenya
 |common_name            = Kenya
@@ -8,7 +8,7 @@
 |capital                = [[Nairobi]]
 |government_type        = [[Repabliki]]
 |leader_name1           = Mwai Kibaki
-|area_km2               = 580,367
+|area_km2               = 580367
 |area_rank              = 49th
 |population_estimate    = 46,661,552 <small>(2016)</small>
 |demonym                = Kenyan

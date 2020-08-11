@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name = Repabliki ya Zambia
 |common_name        = Zambia
 |image_flag         = Flag of Zambia.svg
@@ -8,7 +8,7 @@
 |government_type    = Repabliki
 |leader_name1       = Edgar Lungu
 |largest_city       = Lusaka
-|area_km2           = 752,618
+|area_km2           = 752618
 |area_rank          = 39th
 |population_estimate= 16,212,000 <small>(2015)</small>
 |demonym            = Zambian

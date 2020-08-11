@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Mali
 |common_name              = Mali
 |image_flag               = Flag of Mali.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Bamako]]
 |government_type          = Semi-presidential repabliki
 |leader_name1             = Amadou Toumani Touré
-|area_km2                 = 1,240,192 <!--UN DYB-->
+|area_km2                 = 1240192
 |population_estimate      = 17,994,837 <small>(2016)</small>
 |currency                 = CFA franc
 |official_languages       = [[Sefora]]

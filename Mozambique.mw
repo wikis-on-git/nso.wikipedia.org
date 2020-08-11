@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki of Mozambique
 |common_name              = Mozambique
 |image_flag               = Flag of Mozambique.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Maputo]]
 |government_type          = [[Repabliki]]
 |leader_name1             = Armando Guebuza
-|area_km2                 = 801,590
+|area_km2                 = 801590
 |area_rank                = 35th
 |population_estimate      = 24,692,144 <small>(2014)</small>
 |demonym                  = Mozambican

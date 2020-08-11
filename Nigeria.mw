@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Federale ya Nigeria
 |common_name              = Nigeria
 |image_flag               = Flag of Nigeria.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Abuja]]
 |government_type          = Repabliki ya Federale ya go ba le Presidente
 |leader_name1             = {{Nowrap|[[Umaru Yar'Adua]]&nbsp;([[People's Democratic Party (Nigeria)|PDP]])}}
-|area_km2                 = 923,768
+|area_km2                 = 923768
 |area_rank                = 32nd
 |population_estimate      = 182,202,000 <small>(2015)</small>
 |population_estimate_year = 2015

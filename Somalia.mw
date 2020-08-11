@@ -1,5 +1,5 @@
-{{Country
-|native_name            = Jamhuuriyadda Federaalka Soomaaliya 
+{{Infobox Country
+|native_name = Jamhuuriyadda Federaalka Soomaaliya 
 |conventional_long_name = Federal Republic of Somalia
 |common_name = omalia
 |image_flag = Flag_of_Somalia.svg
@@ -11,7 +11,7 @@
 |government_type = 
 |leader_name1 = 
 |largest_city = Mogadishu
-|area_km2 = 637,657
+|area_km2 = 637657
 |area_rank = 42
 |population_estimate = 12,316,895 <small>(2014)</small>
 |currency = Somali shilling 

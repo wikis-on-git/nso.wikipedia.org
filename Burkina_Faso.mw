@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Burkina Faso
 |common_name              = Burkina Faso
 |image_flag               = Flag of Burkina Faso.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Ouagadougou]]
 |government_type          = Semi-presidential repabliki
 |leader_name1             = Blaise Compaoré
-|area_km2                 = 274,000
+|area_km2                 = 274000
 |population_estimate      = 20,107,509 <small>(2017)</small> 
 |currency                 = West African CFA franc
 |official_languages       = [[Sefora]]

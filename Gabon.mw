@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Gabonese Repabliki
 |common_name              = Gabon
 |image_flag               = Flag of Gabon.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Libreville]]
 |government_type          = Repabliki
 |leader_name1             = Rose Christiane Ossouka Raponda
-|area_km2                 = 267,668
+|area_km2                 = 267668
 |area_rank                = 76th
 |population_estimate      = 1 725 290 <small>(2015)</small>
 |demonym 	          = Gabonese

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Guinea-Bissau
 |common_name              = Guinea-Bissau
 |image_flag               = Flag of Guinea-Bissau.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Bissau]]
 |government_type          = Repabliki
 |leader_name1             = João Bernardo Vieira
-|area_km2                 = 36,125
+|area_km2                 = 36125
 |population_estimate      = 1,693,398  (2014)
 |currency                 = CFA franc
 |official_languages       = [[Sepotokisi]]

@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Arab Republic of Egypt
 |common_name              = Egypt
 |image_flag               = Flag of Egypt.svg
@@ -9,7 +9,7 @@
 |leader_name1             = Mohammed Mursi
 |official_languages       = Arabic
 |demonym                  = Egyptian
-|area_km2                 = 1,001,449
+|area_km2                 = 1001449
 |area_rank                = 30th
 |population_estimate      = 94,798,827 <small>(2017)</small>
 |currency                 = Egyptian pound

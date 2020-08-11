@@ -1,5 +1,5 @@
 : ''Must not be confused with [[Democratic Republic of the Congo]], with capital as [[Kinshasa]].''
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Congo
 |common_name              = Repabliki ya Congo
 |image_flag               = Flag of the Republic of the Congo.svg
@@ -7,7 +7,7 @@
 |image_map                = LocationRCongo.PNG
 |capital                  = [[Brazzaville]]
 |leader_name1             = Denis Sassou Nguesso
-|area_km2                 = 342,000
+|area_km2                 = 342000
 |area_rank                = 64th
 |population_estimate      = 4,662,446 <small>(2014)</small>
 |demonym                  = Congolese

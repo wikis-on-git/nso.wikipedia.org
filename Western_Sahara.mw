@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Western Sahara  
 |common_name              = Sahara Bodikela
 |image_flag               = Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg
@@ -8,7 +8,7 @@
 |government_type          =  
 |leader_name1             =  
 |sovereignty_type         =  
-|area_km2                 = 266,000
+|area_km2                 = 266000
 |population_estimate      = 538,755 <small>(2016)</small>
 |currency                 = Moroccan Dirham
 |official_languages       = [[Searabic]]

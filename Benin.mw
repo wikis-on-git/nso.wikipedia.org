@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Benin
 |common_name              = Benin
 |image_flag               = Flag of Benin.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Porto Novo]]
 |government_type          = Multiparty democracy
 |leader_name1             = Yayi Boni
-|area_km2                 = 112,622
+|area_km2                 = 112622
 |population_estimate      = 10,872,298 <small>(2016)</small>
 |currency                 = CFA franc
 |official_languages       = [[Sefora]]

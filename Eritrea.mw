@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = State of Eritrea 
 |common_name              = Eritrea 
 |image_flag               = Flag of Eritrea.svg
@@ -12,7 +12,7 @@
 |largest_city             = capital
 |government_type          = 
 |leader_name1             = Isaias Afewerki
-|area_km2                 = 117,600
+|area_km2                 = 117600
 |population_estimate      = 5,869,869 <small>(2016)</small>
 |currency                 = [[Eritrean nakfa|Nakfa]]
 |drives_on                = la go ja

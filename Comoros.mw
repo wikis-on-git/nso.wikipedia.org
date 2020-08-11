@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Union of the Comoros
 |common_name              = Comoros
 |image_flag               = Flag of the Comoros.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Moroni, Comoros|Moroni]]
 |government_type          = Federal republic
 |leader_name1             = Ahmed Abdallah M. Sambi
-|area_km2                 = 2,235
+|area_km2                 = 2235
 |population_estimate      = 795 601 <small>(2016)</small>
 |currency                 = Comorian franc
 |official_languages       = [[Sefora]]

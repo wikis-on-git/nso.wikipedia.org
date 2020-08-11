@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Uganda
 |common_name              = Uganda
 |image_flag               = Flag of Uganda.svg
@@ -14,8 +14,7 @@
 |leader_name1             = Yoweri Museveni
 |leader_name2             = Apolo Nsibambi
 |area_rank                = 81st
-|area_magnitude           = 1 E11
-|area_km2                 = 236,040
+|area_km2                 = 236040
 |area_sq_mi               = 91,136 
 |percent_water            = 15.39
 |population_estimate_year =2017

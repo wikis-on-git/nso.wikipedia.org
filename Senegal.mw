@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Republic of Senegal
 |common_name              = Senegal
 |image_flag               = Flag of Senegal.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Dakar]]
 |government_type          = Semi-presidential repabliki
 |leader_name1             = Abdoulaye Wade
-|area_km2                 = 196,722
+|area_km2                 = 196722
 |population_estimate      = 14,354,690 <small>(2015)</small>
 |currency                 = CFA franc
 |official_languages       = [[Sefora]]

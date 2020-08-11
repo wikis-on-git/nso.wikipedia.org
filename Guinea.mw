@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Guinea
 |common_name              = Guinea
 |image_flag               = Flag of Guinea.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Conakry]]
 |government_type          = Repabliki
 |leader_name1             = Lansana Conté
-|area_km2                 = 245,857
+|area_km2                 = 245857
 |population_estimate      = 11,628,972 <small>(2014)</small>
 |currency                 = Guinean franc
 |official_languages       = [[Sefora]]

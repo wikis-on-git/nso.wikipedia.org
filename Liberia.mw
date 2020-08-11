@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 | conventional_long_name = Repabliki ya Liberia
 | common_name            = Liberia
 | image_flag             = Flag of Liberia.svg
@@ -7,7 +7,7 @@
 | capital                = [[Monrovia]]
 | government_type        = Republic
 | leader_name1           = Ellen Johnson-Sirleaf
-| area_km2               = 111,369
+| area_km2               = 111369
 | area_rank              = 103th
 | population_estimate    = 4,503,000 <small>(2015)</small>
 | demonym                = Liberian

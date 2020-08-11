@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Islamic Repabliki ya Mauritania
 |common_name              = Mauritania
 |image_flag               = Flag of Mauritania.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Nouakchott]]
 |government_type          = Parliamentary repabliki
 |leader_name1             = Sidi Ould Cheikh Abdallahi
-|area_km2                 = 1,030,700
+|area_km2                 = 1030700
 |population_estimate      = 4,067,564 <small>(2015)</small>
 |currency                 = Mauritanian ouguiya
 |official_languages       =[[Arabic]]<br />[[Sefora]]

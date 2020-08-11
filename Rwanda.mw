@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Rwanda
 |common_name              = Rwanda
 |image_flag               = Flag_of_Rwanda.svg
@@ -9,7 +9,7 @@
 |government_type          = Repabliki
 |leader_name1             = Paul Kagame
 |largest_city             = Kigali
-|area_km2                 = 26,338
+|area_km2                 = 26338
 |area_rank                = 145th
 |population_estimate      = 11,262,564 <small>(2015)</small>
 |currency                 = Rwandan franc

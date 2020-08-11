@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Cameroon
 |common_name              = Cameroon
 |image_flag               = Flag of Cameroon.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Yaoundé]]
 |government_type          = Repabliki
 |leader_name1             = Paul Biya
-|area_km2                 = 475,442 
+|area_km2                 = 475442 
 |area_rank                = 54th
 |population_estimate      = 26,545,864 <small>(2020 est.)</small> <!--UN World Population Prospects-->
 |demonym 	          = Cameroonian

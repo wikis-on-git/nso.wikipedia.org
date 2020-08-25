@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Repabliki ya Niger
 |common_name              = Niger
 |image_flag               = Flag of Niger.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Niamey]]
 |government_type          = Parliamentary democracy
 |leader_name1             = Tandja Mamadou
-|area_km2                 = 1,267,000
+|area_km2                 = 1267000
 |population_estimate      = 18,638,600 <small>(2016)</small>
 |currency                 = CFA franc
 }}

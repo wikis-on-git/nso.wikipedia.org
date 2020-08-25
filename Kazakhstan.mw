@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |native_name            = Kazakhstan
 |conventional_long_name = Қазақстан
 |common_name = Қазақстан
@@ -12,7 +12,7 @@
 |leader_name1 = [[Nursultan Nazarbayev]]
 |leader_name2 = [[Kassym-Jomart Tokayev]]
 |largest_city = Almaty
-|area_km2 = 2,724,900
+|area_km2 = 2724900
 |area_rank = 9
 |population_estimate = 18 711 200 <small>(2020)</small>
 |currency = Tenge

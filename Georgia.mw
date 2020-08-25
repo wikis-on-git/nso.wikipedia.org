@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |native_name            = Georgia
 |conventional_long_name = საქართველო
 |common_name = საქართველო
@@ -13,7 +13,7 @@
 |leader_name2 = [[Archil Talakvadze]]
 |leader_name3 = [[Giorgi Gakharia]]
 |largest_city = Tbilisi
-|area_km2 = 69,700
+|area_km2 = 69700
 |area_rank = 119
 |population_estimate = 3 716 858 <small>(2020)</small>
 |currency = Lari

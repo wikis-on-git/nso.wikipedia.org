@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Republic of Turkey
 |common_name              = Turkey
 |image_flag               = Flag of Turkey.svg
@@ -7,7 +7,7 @@
 |capital                  = [[Ankara]]
 |government_type          = [[republic|repabliki]]   
 |leader_name1             = [[Recep Tayyip Erdoğan]]
-|area_km2                 = 783.562
+|area_km2                 = 783562
 |area_rank                = 97th
 |population_estimate      = 82,835,090 <small>(2017)</small>
 |official_languages       = [[Turkish]]

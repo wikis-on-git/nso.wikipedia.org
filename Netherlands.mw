@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = The Netherlands
 |common_name              = Nederland
 |image_flag               = Flag of the Netherlands.svg
@@ -8,7 +8,7 @@
 |government_type          = Unitary parliamentary<br />constitutional monarchy
 |leader_name1             = 
 |leader_name2             = 
-|area_km2                 = 41,543
+|area_km2                 = 41543
 |area_rank                = 134
 |population_estimate      = 17,100,475 <small>(2017)</small>
 |currency                 = [[Euro]]

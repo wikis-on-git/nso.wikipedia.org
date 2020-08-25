@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Republik Österreich
 |common_name              = Austria
 |image_flag               = Flag of Austria.svg
@@ -8,7 +8,7 @@
 |government_type          = Repabliki  
 |leader_name1             = 
 |leader_name2             = 
-|area_km2                 = 83 879
+|area_km2                 = 83879
 |area_rank                = 115
 |population_estimate      = 8 772 865
 |currency                 = [[Euro]]

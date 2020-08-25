@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Republic of Greece
 |common_name              = Greece
 |image_flag               = Flag of Greece.svg
@@ -8,7 +8,7 @@
 |government_type          = Repabliki  
 |leader_name1             = Prokopis Pavlopoulos
 |leader_name2             = Alexis Tsipras
-|area_km2                 = 131&nbsp;957
+|area_km2                 = 131957
 |area_rank                = 97th
 |population_estimate      = 10,995,000 <small>(2015)</small>
 |currency                 = [[Euro]]

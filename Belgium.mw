@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Koninkrijk België
 |common_name              = Belgium
 |image_flag               = Flag of Belgium.svg
@@ -8,7 +8,7 @@
 |government_type          = Federal parliamentary<br/>constitutional monarchy
 |leader_name1             = 
 |leader_name2             = 
-|area_km2                 = 30,528 
+|area_km2                 = 30528
 |area_rank                = 140
 |population_estimate      = 11,250,585 <small>(2016)</small>
 |currency                 = [[Euro]]

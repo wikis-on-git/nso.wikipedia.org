@@ -1,4 +1,4 @@
-{{Country
+{{Infobox country
 |conventional_long_name   = Islamic Republic of Iran
 |common_name              = Iran
 |image_flag               = Flag of Iran.svg
@@ -9,7 +9,7 @@
 |government_type          = Unitary state,<br />Islamic republic
 |leader_1                 = Ali Khamenei<br />(Supreme Leader)
 |leader_2                 = Hassan Rouhani (President)
-|area_km2                 = 1,648,195
+|area_km2                 = 1648195
 |area_rank                = 18th
 |demonym                  = Iranian
 |population_estimate      = 75,330,000

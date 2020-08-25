@@ -1,6 +1,6 @@
-{{Country
-|native_name            = Estonia
-|conventional_long_name = Eesti
+{{Infobox country
+|native_name            = Estonia, ''Eesti'' 
+|conventional_long_name = 
 |common_name = Eesti
 |image_flag = Flag_of_Estonia.svg
 |image_coat = Coat_of_arms_of_Estonia.svg
@@ -12,7 +12,7 @@
 |leader_name1 = [[Kersti Kaljulaid]]
 |leader_name2 = [[Jüri Ratas]]
 |largest_city = Tallinn
-|area_km2 = 45,227
+|area_km2 = 45227
 |area_rank = 64
 |population_estimate = 1 328 976 <small>(2020)</small>
 |currency = Euro

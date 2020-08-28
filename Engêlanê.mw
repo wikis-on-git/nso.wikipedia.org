@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Engêlanê
 |common_name              = Seisimane: England
 |image_flag               = Flag of England.svg
@@ -9,9 +9,9 @@
 |leader_name1             = [[Queen Elizabeth II]] 
 |sovereignty_type         = 
 |official_languages       = [[Seisimane]] 
-|area_km2                 = 130 395 km2 
+|area_km2                 = 130395 
 |area_rank                = 
-|population_estimate      = <br />51.446.000 (2008)
+|population_estimate      = 51.446.000 (2008)
 |demonym                  = Englishman
 |currency                 = [[Pound sterling]] (£)
 |currency_code            = 
@@ -23,7 +23,7 @@
 |drives_on                = la go ja
 }}
 '''Engêlanê''' e bogare borwa ga [[United Kingdom]].
-<br/>
+
 <gallery mode=packed heights=160>
 Seswantšho:Westminster_Abbey_by_Canaletto,_1749.jpg|Westminster Abbey wa London
 Seswantšho:London Thames Sunset panorama - Feb 2008.jpg|London Thames Sunset panorama

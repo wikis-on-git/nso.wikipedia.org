@@ -13,9 +13,9 @@
 | image_seal              = Pretoria_coa.jpg
 | province                = Gauteng 
 | district                = 
-| municipality            = City of Tshwane
+| municipality            = City of Tshwane {{!}}
 | established_date        = [[1855]]
-| government_type         = <!-- Ward 00 -->
+| government_type         = Metro
 | leader_party            = 
 | leader_title            = Councillor
 | leader_name             = 
@@ -37,12 +37,34 @@
 | postal_code             = 
 | area_code               = 012
 | censuscode              = <!--799035-->
-| website                 = http://www.tshwane.gov.za/Pages/default.aspx
+| website                 = http://www.tshwane.gov.za
 | footnotes               = 
 }}
 
 [[Image:Jacaranda-trees-pretoria.jpg|thumb|right|280px|Jacaranda trees in Pretoria]]
 '''Pretoria''' ke [[toropokgolo]]kgolo go feta porofense [[Gauteng]] kamoka [[Afrika Borwa]].
+
+{|
+|-
+|{{climate chart
+|  Pretoria
+| 18| 32| 117
+| 18| 31| 95
+| 18| 30| 130
+| 14| 26| 48
+| 10| 22| 2
+| 7| 18| 3
+| 7| 19| 1
+| 10| 24| 8
+| 13| 30| 42
+| 16| 35| 77
+| 17| 34| 132
+| 16| 33| 162
+|float=left
+|clear=left
+|source = <ref name = "nasa">{{Cite web |url= http://neo.sci.gsfc.nasa.gov/dataset_index.php|title= NASA Earth Observations Data Set Index|access-date = 30 May 2016 |publisher= NASA}}</ref>
+}}
+|}
 
 ==Ditšhupetšo==
 {{reflist}}

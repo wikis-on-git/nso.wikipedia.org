@@ -1,4 +1,4 @@
-{{Country
+{{Infobox Country
 |conventional_long_name   = Bogoši ba Eswatini
 |common_name              = eSwatini
 |image_flag               = Flag of Eswatini.svg
@@ -8,11 +8,11 @@
 |government_type          = Bogoši
 |leader_name1             = [[Mswati III of Eswatini|Mswati III]] 
 |official_languages       = [[Seisimane]], [[Seswati]]
-|area_km2                 = 17,363 (6,704 sq mi) 
+|area_km2                 = 17363
 |area_rank                = 153th
 |population_estimate      = 1,093,238 <small>(2017)</small>
 |population_census_year   = 2017
-|population_density_km2   = 68,2
+|population_density_km2   = 68.2
 |population_density_sq_mi = 176.6
 |population_density_rank  = 135th
 |demonym                  = Swazi

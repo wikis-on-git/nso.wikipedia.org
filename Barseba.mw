@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Barseba
 | native_name             =
-| other_name              = {{Coord|25.551|S|27.532|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25.551 |latm  = |lats  = 
+| longd = 27.532 |longm = |longs = 
 | province                = Leboa Bodikela
 | district                = [[Mmasepala Setereke tša Bojanala Platinum|Bojanala Platinum]]
 | municipality            = [[Mmušoselegae wa Rustenburg|Rustenburg]]
@@ -27,5 +29,5 @@
 
 ==Ditšhupetšo==
 {{reflist}}
-<br />
+
 {{Bojanala Platinum District Municipality}}

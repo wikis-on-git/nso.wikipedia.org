@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Pella
 | native_name             = 
-| other_name              = {{Coord|25.470|S|26.481|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           =  
 | image_caption           = 
+| latd  = 25.470 |latm  = |lats  = 
+| longd = 26.481 |longm = |longs =
 | province                = Leboa Bodikela
 | district                = [[Mmasepala Setereke tša Bojanala Platinum|Bojanala Platinum]]
 | municipality            = [[Mmušoselegae wa Moses Kotane|Moses Kotane]]
@@ -48,5 +50,5 @@
 
 ==Ditšhupetšo==
 {{reflist}}
-<br />
+
 {{Bojanala Platinum District Municipality}}

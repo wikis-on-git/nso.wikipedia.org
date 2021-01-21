@@ -1,9 +1,11 @@
 {{Infobox South African town
 | name                    = Phokeng
 | native_name             = 
-| other_name              = {{Coord|25|35|S|27|08|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 25 |latm  = 35|lats  = 
+| longd = 27 |longm = 28 |longs = 
 | province                = Leboa Bodikela
 | district                = [[Mmasepala Setereke tša Bojanala Platinum|Bojanala Platinum]]
 | municipality            = [[Mmušoselegae wa Rustenburg|Rustenburg]]
@@ -25,5 +27,5 @@ Phokeng e leboa bodikela la [[Johannesburg]].
 
 ==Ditšhupetšo==
 {{reflist}}
-<br />
+
 {{Bojanala Platinum District Municipality}}

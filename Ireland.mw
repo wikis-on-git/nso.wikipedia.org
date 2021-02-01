@@ -15,10 +15,10 @@
 |currency                 = [[Euro]]
 |official_languages       = [[Seisimane]]
 |currency_code            = EUR
-|time_zone                = GMT-1
+|time_zone                = GMT
 |utc_offset               = 
-|time_zone_DST            = ''not observed''
-|utc_offset_DST           = 
+|time_zone_DST            = IST
+|utc_offset_DST           = +1
 |cctld                    = .ie
 |calling_code             = +353
 |drives_on                = Go la go ja

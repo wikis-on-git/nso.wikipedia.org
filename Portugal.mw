@@ -62,9 +62,10 @@
 |HDI_rank = 43rd
 |currency = [[Euro]] (€)
 |currency_code = EUR
-|time_zone = Western European Time (UTC)
-|utc_offset = −1
-|time_zone_DST = UTC+1
+|time_zone = [[Western European Time|WET]]
+|utc_offset = 
+|time_zone_DST = [[Western European Summer Time|WEST]]
+|utc_offset_DST = +1
 |antipodes = [[New Zealand]] and<br />[[Pacific Ocean]]
 |date_format = dd/mm/yyyy
 |drives_on = right

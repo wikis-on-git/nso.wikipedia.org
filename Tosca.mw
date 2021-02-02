@@ -1,4 +1,4 @@
-{{Infobox South African town 2011
+{{Infobox South African town
 | name                    = Tosca
 | native_name             =
 | other_name              = 
@@ -15,6 +15,37 @@
 | leader_title            = Councillor
 | leader_name             = 
 | elevation_m             = 
+| area_footnotes          = 
+| area_total_km2          = 
+| population_total        = 
+| population_as_of        = 2011
+| population_density_km2  = auto
+<!-- demographics (section 1) -->
+| demographics_type1      = Racial makeup (2011)
+| demographics1_title1    = Black African
+| demographics1_info1     = 97.9%
+| demographics1_title2    = Coloured
+| demographics1_info2     = 0.8%
+| demographics1_title3    = Indian
+| demographics1_info3     = 0.3%
+| demographics1_title4    = Whites
+| demographics1_info4     = 0.5%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.5%
+<!-- demographics (section 2) -->
+| demographics_type2      = 
+| demographics2_footnotes = 
+| demographics2_title1    = [[Setswana]]
+| demographics2_info1     = 96.4%
+| demographics2_title2    = [[Afrikaans]]
+| demographics2_info2     = 1.5%
+| demographics2_title3    = [[English language|English]]
+| demographics2_info3     = 0.6%
+| demographics2_title4    = 
+| demographics2_info4     = 
+| demographics2_title5    = Sěle
+| demographics2_info5     = 1.5%
+<!-- blank fields (section 2) -->
 | postal_code             = 
 | area_code               = 
 | censuscode              =

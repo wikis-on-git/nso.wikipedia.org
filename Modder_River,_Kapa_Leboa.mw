@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Modder River
 | native_name             = 
-| other_name              = {{Coord|29|01|48|S|24|37|35|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 29 |latm  = 01|lats  = 48
+| longd = 24 |longm = 37|longs = 35
 | province                = Kapa Leboa
 | district                = Frances Baard
 | municipality            = Sol Plaatjie

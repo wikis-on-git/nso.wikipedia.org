@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Jan Kempdorp
 | native_name             = 
-| other_name              = {{Coord|27|55|10|S|24|50|10|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
 | image_caption           = 
+| latd  = 27 |latm  = 55 |lats  = 10 
+| longd = 24 |longm = 50 |longs = 10
 | province                = Kapa Leboa
 | district                = Frances Baard
 | municipality            = Phokwane

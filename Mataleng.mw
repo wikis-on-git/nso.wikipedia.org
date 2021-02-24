@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Mataleng
 | native_name             = 
-| other_name              = {{Coord|28|31|58|S|24|30|11|E|display=title|type:landmark_region:ZA}}
+| other_name              =
 | image_skyline           = 
 | image_caption           = 
+| latd  = 28 |latm  = 31 |lats  = 58
+| longd = 24 |longm = 30 |longs = 11 
 | province                = Kapa Leboa
 | district                = Frances Baard
 | municipality            = Dikgatlong

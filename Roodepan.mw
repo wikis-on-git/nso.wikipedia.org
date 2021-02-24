@@ -1,9 +1,11 @@
 {{Infobox South African town 2011
 | name                    = Roodepan
 | native_name             = 
-| other_name              = {{Coord|28|39|52|S|24|43|07|E|display=title|type:landmark_region:ZA}}
+| other_name              = 
 | image_skyline           = 
-| image_caption           = 
+| image_caption           =
+| latd  = 28 |latm  = 39|lats  = 52
+| longd = 24 |longm = 43|longs = 07 
 | province                = Kapa Leboa
 | district                = [[Mmasepala Setereke tša Frances Baard|Frances Baard]]
 | municipality            = Sol Plaatje

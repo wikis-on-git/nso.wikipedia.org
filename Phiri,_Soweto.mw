@@ -2,8 +2,8 @@
 | name                    = Phiri
 | native_name             = 
 | other_name              = 
-| latd  =  |latm  =  |lats  = 
-| longd =  |longm =  |longs = 
+| latd  = 26 |latm  = 16 |lats  = 12
+| longd = 27 |longm = 51 |longs = 18
 | province                = Gauteng
 | district                = 
 | municipality            = Johannesburg
@@ -15,7 +15,7 @@
 | elevation_m             = 
 | postal_code             = 
 | area_code               = 011
-| censuscode              = 
+| censuscode              = 98026083
 | website                 = 
 | footnotes               = 
 }}

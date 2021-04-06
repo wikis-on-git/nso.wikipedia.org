@@ -3,7 +3,7 @@
 | native_name             = 
 | other_name              = 
 | image_skyline           = 
-| image_caption           = 23°53′0″S 28°40′44″O
+| image_caption           =
 | latd  = 23 |latm  = 53 |lats  = 0
 | longd = 28 |longm = 40 |longs = 44
 | province                = Limpopo
@@ -14,10 +14,38 @@
 | leader_party            = ANC
 | leader_title            = Councillor
 | leader_name             = 
+| area_footnotes          = 
+| area_total_km2          = 1.31
+| area_metro_km2          = 
 | elevation_m             = 
+| population_footnotes    = 
+| population_total        = 1452
+| population_as_of        = 2001
+| population_density_km2  = 1108
+| population_note         = 
+<!-- demographics (section 1) -->
+| demographics_type1      = Setšhaba 
+| demographics1_title1    = [[Bathobaso]]
+| demographics1_info1     = 100.0%
+<!-- demographics (section 2) -->
+| demographics_type2      = Dipolelo tša ntlha
+| demographics2_footnotes = <!-- leave blank if a census code is included lower down -->
+| demographics2_title1    = [[Sepedi]]
+| demographics2_info1     = 51.0%
+| demographics2_title2    = [[Setsonga]]
+| demographics2_info2     = 42.5%
+| demographics2_title3    = [[Sendebele]]
+| demographics2_info3     = 2.3%
+| demographics2_title4    = [[Sevenda]]
+| demographics2_info4     = 1.9%
+| demographics2_title5    = Šele
+| demographics2_info5     = 2.3%
+<!-- Other information -->
+| timezone1               = 
+| utc_offset1             = 
 | postal_code             = 
 | area_code               = 
-| censuscode              = 
+| censuscode              = <!-- 91902007 Census 2001 -->
 | website                 = 
 | footnotes               = 
 }}

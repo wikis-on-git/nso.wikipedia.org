@@ -1,7 +1,9 @@
 {{Infobox South African town 2011
 | name                    = Isipingo
 | native_name             = 
-| other_name              = {{coord|29|59|59|S|30|56|42|E}}
+| other_name              = 
+| latd  = 29 |latm  = 59 |lats  = 59 
+| longd = 30 |longm = 56 |longs = 42
 | image_skyline           = 
 | image_caption           = 
 | province                = KwaZulu-Natal
@@ -43,7 +45,7 @@
 | website                 = 
 | footnotes               = 
 }}
-'''Isipingo''' ke industrial area wa [[eThekwini|eThekwini Metropolitan Municipality]] ka moka [[Afrika Borwa]].
+'''Isipingo''' ke toropo le industrial area wa [[eThekwini|eThekwini Metropolitan Municipality]] ka moka [[Afrika Borwa]].
 
 == Ditšhupetšo ==
 {{reflist}}

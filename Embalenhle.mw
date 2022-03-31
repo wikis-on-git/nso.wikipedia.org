@@ -1,7 +1,9 @@
 {{Infobox South African town
 | name                    = Embalenhle
 | native_name             = 
-| other_name              = {{Coord|26.546|S|29.081|E|display=title|type:landmark_region:ZA}}
+| other_name              =
+| latd  = 26.546 
+| longd = 29.081
 | image_skyline           = 
 | image_caption           = 
 | province                = Mpumalanga

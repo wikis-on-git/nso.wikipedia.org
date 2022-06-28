@@ -961,7 +961,7 @@
 ============================================================
  -->{{#if:{{{drives_on|}}}
      | <tr>
-         <th colspan="2">O otlela ka lehlakoreng la</th>
+         <th colspan="2">O otlela ka lehlakoreng</th>
          <td>{{lcfirst:{{{drives_on}}}}}</td>
        </tr><!--
  -->}}<!--

@@ -1,0 +1,57 @@
+{{Documentation subpage}}
+{{High-use}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{Uses Wikidata|P2190}}
+
+This template allows linking to the C-SPAN link appropriate for many biographies. This will aid in the maintenance and standardization of these external links.
+
+==Usage==
+This template should {{strong|not}} be [[Wikipedia:Template substitution|substituted]].
+
+{{tlx|C-SPAN}}
+
+===Fields===
+The only field is the C-SPAN identifier. If it is not provided, then the first value from Wikidata will be used. If the Wikidata item does not have any {{Q|P2190}} data, or there is no Wikidata item for the article, then a link will not display.
+
+{| class="wikitable"
+! Field !! Data !! Result !! [[URL]] source
+|-
+| 1 || C-SPAN id || Appearances on || https://<nowiki/>www.c-span.org/person/?'''{{{1}}}'''
+|-
+|}
+
+==Example==
+===URLs===
+* <code>'''https://<nowiki/>www.c-span.org/person/?{{hilite|48924}}'''</code> '''(suggested URL format)''' does not require "/JonStewart" when used
+* <code>https://<nowiki/>www.c-span.org/person/?{{hilite|jonstewart}}</code> (deprecated URL format)
+* <code>https://<nowiki/>www.c-spanvideo.org/{{hilite|jonstewart}}</code> (deprecated URL format)
+
+===Usages===
+* {{tlx|{{BASEPAGENAME}}|48924}} – suggested use.
+: {{tlx|{{BASEPAGENAME}}}} – alternative use, only if P2190 exists on Wikidata for the page. If no Wikidata value is present, the page is added to [[:Category:C-SPAN template failing to display]].
+* {{tlx|{{BASEPAGENAME}}|jonstewart}} – deprecated use.
+
+===Results===
+* {{ {{BASEPAGENAME}}|48924}} – Example using Numeric ID for "jonstewart" from https://www.c-span.org/person/?48924/JonStewart
+* {{ {{BASEPAGENAME}}|jonstewart}} – A warning is issued on preview, and the link may break if the string changes on C-SPAN; the article is added to the maintenance category [[:Category:Pages using non-numeric C-SPAN identifiers]]
+
+==Notes==
+* The C-SPAN template now supports a numeric ID for persons and is backward compatible with existing string use. It is suggested to use the numeric ID rather than the text based naming convention due to variations for the name and breaking of links when the string changes. 
+* The text ID traditionally has been in the format of concatenation of first name with last name appears to be most common, a middle name, middle initial, or alternate name may be a component of the id used for C-SPAN appearances. This approach is not recommended as the string may change and break the link.
+* Also, not all political figures have appeared on C-SPAN.
+
+== Categories ==
+* {{clc|Category:People appearing on C-SPAN}} – uses of the C-SPAN template
+
+=== Maintenance tracking category ===
+* {{clc|Pages using non-numeric C-SPAN identifiers}} – Value entered is a non numeric format. 
+* {{clc|C-SPAN template failing to display}} – Template is present on the page, but no value was provided and no Wikidata fallback exists.
+
+==See also==
+* {{tl|WorldCat id}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Television external link templates|C-SPAN]]
+[[Category:People and person external link templates|C-SPAN]]
+}}</includeonly>

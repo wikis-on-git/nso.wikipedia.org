@@ -585,7 +585,7 @@
        </tr><!--
  -->}}<!--
 ============================================================
-  Area
+  Sekgoba
   (area_label, area_km2, area_label2, area_data2, ...)
 ============================================================
  -->{{#if:{{{area_km2|{{{area_ha|}}}}}}
@@ -603,7 +603,7 @@
        <tr class="mergedrow">
          <td style="width:1.0em;padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
          <td style="padding-left:0;"><!--
-           -->{{{area_label|Total}}}<!--
+           -->{{{area_label|Palomoka}}}<!--
               ---France-related footnote:-->{{#if:{{{FR_foot4|}}} |{{{FR_foot4}}}}}</td>
          <td>{{formatnum:{{{area_km2|{{{area_ha|}}}}}}}}&nbsp;{{#if:{{{area_km2|}}}
                |km{{smallsup|2}}

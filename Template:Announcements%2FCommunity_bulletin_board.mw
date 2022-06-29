@@ -1,0 +1,156 @@
+<!-- BULLETIN BOARD ---- DETAILED INSTRUCTIONS ---- This page is for announcements, not discussion. Key points:
+1. Keep new items BRIEF, and PROVIDE A LINK to the relevant Wikipedia item and/or its discussion.
+2. DO NOT use "click here" wording, or fancy formatting (bold, italic, etc).
+3. Put new items AT THE TOP of their section.
+4. ADD a 1 WEEK hence PULLDATE for all but the most important items.
+Please feel free to add news you wouldn't find in a strict news source such as the Signpost. Just be sure to provide information that is comprehensive. Multiple links (associated WikiProjects, perhaps?) are appreciated. Above all, this is meant to be less formal.
+Thank you.
+-->{{#if:{{{notices-only|}}}||<noinclude>{{shortcut|WP:CBB}}<br><h2>Community bulletin board
+</h2><!-- 2 line H2 to remove edit-link, please don't fix -->'''''<span class="plainlinks">[{{fullurl:Template:Announcements/Community_bulletin_board|action=edit}} Post]</span> your Wikipedia-related news and announcements here!'''''
+__NOTOC__ </noinclude>{{#if:{{{notoc|}}}|__NOTOC__}}
+<table style="margin-left:1em; width:23em; background-color:transparent; float:right"><tr>
+<td>
+<!--{{Signpost-subscription|right|300px}}
+{{centralized discussion|float=right|width=23em|compact=very}}
+-->
+<!-- commented-out until new episodes appear - {{WikipediaWeekly-subscription|right}} -->
+<!-- new ep added Dec 17 - maybe expire 1month, or when next up online (jimbo's coming along :-) -->
+<!-- Last Wikivoices was christmas eve 09 :( {{Wikivoices-subscription|border=solid #aaa 1px}} -->
+</td></tr></table>
+
+=== Notices ===
+}}
+
+==Adminitrator Request==	
+Please show support or objections to my Adminship Request 
+* [[Wikipedia:Requests_for_adminship/Mohau|Mohau's Admin Request]]
+<!-- pulldate: March 3, 2017 --> 
+
+==Bot Policy==
+* Have a look at the [[Dipolelo_tša_Wikipedia:Portal_ya_Badudi|talk page]] for a Bot Policy suggestion.
+
+==Language support group for Northern Sotho==
+The Wikimedia Foundation has brought together a new team of developers who are dedicated to language support. This team is to support all the languages and consequently it is not realistic to expect that the team members can provide proper support for your language. It is for this reason that we are looking for volunteers who will make up a [[:translatewiki:language support team|language support team]]. 
+
+This language support team will be asked to provide us with information about their language. Such information may need to be provided either to us or on a website that we will indicate to you. Another activity will be to test software that will likely have an effect on the running of the MediaWiki software. We are looking for people who clearly identify their ability. Formal knowledge is definitely appreciated.
+
+As much of the activity will be concentrated on [[:translatewiki:Main Page|translatewiki.net]], it will be a plus when team members know how to localise at translatewiki.net. <br>
+Thanks, [[Mošomi:Gmeijssen|Gmeijssen]] 10:29, 1 Dibokwane 2012 (SAST)
+
+* {{doing}}. [[User:Mohau|Mohau]] <sup>[[User talk:Mohau|Talk]]</sup> 10:39, 27 Diphalane 2016 (SAST)
+{{#if:{{{notices-only|}}}||
+<!--Please put the most recent entry at the top of the list. Put WikiProjects in the section below, not here. For WikiProjects, pulldate is 14 days from posting -->
+
+== Sotho is missing ==
+Sotho is missing from this page:<br />
+https://meta.wikimedia.org/wiki/There_is_also_a_Wikipedia_in_your_language<br />
+More than 100 languages are now listed.<br />
+Thank you, [[Mošomi:Varlaam|Varlaam]] ([[Boledišana le Mošomi:Varlaam|talk]]) 08:19, 14 Dibokwane 2016 (SAST)
+
+* {{done}}. [[User:Mohau|Mohau]] <sup>[[User talk:Mohau|Talk]]</sup> 07:41, 26 Diphalane 2016 (SAST)
+
+== Compact Links coming soon to this wiki ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+
+Hello, I wanted to give a heads up about an upcoming feature for this wiki, which you may already seen in the latest issue of [[:m:Tech/News/2016/25|Tech News]]. [[:mw:Universal_Language_Selector/Compact_Language_Links|Compact Language Links]] has been available as a beta-feature on all Wikimedia wikis since 2014. With compact language links enabled, users are shown a much shorter list of languages on the interlanguage link section of an article (see image). This will be enabled as a feature in the coming week for all users, which can be turned on or off using a preference setting. We look forward to  your feedback and please do let us know if you have any questions. Details about Compact Language Links can be read in the [[:mw:Universal_Language_Selector/Compact_Language_Links|project documentation]].
+
+Due to the large scale enablement of this feature, we have had to use [[:m:Global_message_delivery|MassMessage]] for this announcement and as a result it is only written in English. We will really appreciate if this message can be translated for other users of this wiki. Thank you. On behalf of the Wikimedia Language team: [[:mw:User:Runab_WMF|Runa Bhattacharjee (WMF)]] ([[mw:User talk:Runab_WMF|talk]]) 16:01, 24 Phupu 2016 (SAST)
+
+</div>
+<!-- Message sent by User:Runab WMF@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/ULS_Compact_Links/28_June&oldid=15721303 -->
+
+== Compact Language Links enabled in this wiki 28 June 2016 ==
+
+<div lang="en" dir="ltr" class="mw-content-ltr">
+
+[[File:Compact-language-links-list.png|thumb|Screenshot of Compact Language Links interlanguage list]]
+
+[[:mw:Universal_Language_Selector/Compact_Language_Links|Compact Language Links]] has been available as a beta-feature on all Wikimedia wikis since 2014. With compact language links enabled, users are shown a much shorter list of languages on the interlanguage link section of an article (see image). Based on several factors, this shorter list of languages is expected to be more relevant for them and valuable for finding similar content in a language known to them. More information about compact language links can be found in [[:mw:Universal_Language_Selector/Compact_Language_Links|the documentation]].
+
+From today onwards, compact language links has been enabled as the default listing of interlanguage links on this wiki. However, using the button at the bottom, you will be able to see a longer list of all the languages the article has been written in. The setting for this compact list can be changed by using the checkbox under ''User Preferences -> Appearance -> Languages''
+
+The compact language links feature has been tested extensively by the Wikimedia Language team, which developed it. However, in case there are any problems or other feedback please let us know on the [[:mw:Talk:Universal_Language_Selector/Compact_Language_Links|project talk page]]. It is to be noted that on some wikis the presence of an existing older gadget that was used for a similar purpose may cause an interference for compact language list. We would like to bring this to the attention of the admins of this wiki. Full details are on [[phab:T131455|this phabricator ticket]] (in English).
+
+Due to the large scale enablement of this feature, we have had to use [[:m:Global_message_delivery|MassMessage]] for this announcement and as a result it is only written in English. We will really appreciate if this message can be translated for other users of this wiki. Thank you. On behalf of the Wikimedia Language team: [[:mw:User:Runab_WMF|Runa Bhattacharjee (WMF)]] ([[mw:User talk:Runab_WMF|talk]])-06:21, 28 Phupu 2016 (SAST)
+
+</div>
+<!-- Message sent by User:Runab WMF@metawiki using the list at https://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/ULS_Compact_Links/28_June&oldid=15728024 -->
+* {{thank you}} [[User:Mohau|Mohau]] <sup>[[User talk:Mohau|Talk]]</sup> 11:17, 27 Diphalane 2016 (SAST)
+
+</tr></table>
+
+}}
+== Deployment of FLORES Machine Translation to Northern Sotho Wikipedia ==
+
+Hello Friends!
+
+Apologies as this message is not in your native language {{Int:Please-translate}}. 
+
+The WMF Language team plans to introduce a machine translation (MT) support for the Content Translation in Northern Sotho Wikipedia called FLORES. This means that you can choose to use [https://ai.facebook.com/blog/the-flores-101-data-set-helping-build-better-translation-systems-around-the-world/ FLORES machine translation] when translating Wikipedia articles to Northern Sotho using [https://nso.wikipedia.org/wiki/Special:ContentTranslation the Content Translation tool].
+ 
+The FLORES Machine Translation is provided by an [https://ai.facebook.com/ AI research team at Meta] through a free for use API key that allows the Content Translation to access the service on the FLORES server for an evaluation trial period. This MT will be set as default in your Wikipedia, but you can choose not to use it by selecting  "Start with empty paragraph" from the "Initial Translation" dropdown menu.
+ 
+The Wikimedia Foundation has worked out an agreement that allows the use of FLORES without compromising Wikipedia’s policies about attribution of rights, your privacy as a user, and brand representation. You can find more information about the FLORES Machine translation on [https://www.mediawiki.org/wiki/Content_translation/Machine_Translation/Flores#Summary_of_our_agreement_with_Meta this page].
+ 
+Please note that the use of the FLORES MT is not compulsory. However, we would want your community to:
+*use it once it is deployed to improve the quality of the Machine Translation service
+*[https://www.mediawiki.org/wiki/Talk:Content_translation provide feedback] about our plans, its quality once deployed and ask any questions you might have about this addition.
+ 
+We trust that introducing this MT is a good support to the Content Translations tool towards having better quality articles in Northern Sotho Wikipedia.
+ 
+Thank you!
+
+[[Mošomi:UOzurumba (WMF)|UOzurumba (WMF)]] ([[Boledišana le Mošomi:UOzurumba (WMF)|talk]]) 01:30, 1 Phupu 2022 (SAST)
+
+===FLORES Machine Translation deployed to Northern Sotho Wikipedia===
+Hello Friends!
+
+The WMF Language team is pleased to inform you that we have deployed the FLORES machine translation (MT) support for the Content Translation in Northern Sotho Wikipedia.  
+Please remember that the FLORES machine translation is set as default in your Wikipedia. Still, you can choose not to use it by selecting "Start with empty paragraph" from the "Initial Translation" dropdown menu. However, we would want your community to:
+
+*use it to improve the quality of the Machine Translation service
+*provide feedback about its quality and ask any questions you might have about this addition.
+
+We look forward to your community using the Machine Translation support in Content Translation to create better quality articles in Northern Sotho Wikipedia.
+
+Thank you!
+
+[[Mošomi:UOzurumba (WMF)|UOzurumba (WMF)]] ([[Boledišana le Mošomi:UOzurumba (WMF)|talk]]) 17:49, 21 Phupu 2022 (SAST) On behalf of the WMF Language team.
+
+== Enabling Content and Section translation tool in Northern Sotho Wikipedia ==
+
+{{Int:Hello}} Friends!
+
+Apologies as this message is not in your native language, {{Int:Please-translate}}.
+
+The WMF Language team is pleased to let you know that we will like to enable the Section and Content translation tool in Northern Sotho Wikipedia. For this, our team will love you to read about the tool and test the new   [https://design.wikimedia.org/strategy/section-translation.html Section Translation tool] so you can:
+*Give us your feedback
+*Ask us questions
+*Tell us how to improve it
+Below is background information about the tools, why we have chosen to enable them in your Wikipedia and how you can test the Section translation tool.
+
+'''Background information'''
+
+[[mw:Content_translation|Content Translation]] has been a successful tool for editors to create content in their language. More than one million articles have been created across all languages since the tool was released in 2015. However, the tool is not out of beta in Northern Sotho Wikipedia, limiting the discoverability of the tool and its use and blocking the enablement of the Section translation in your Wikipedia
+
+[[mw:Content_translation/Section_translation|Section Translation]] extends the capabilities of Content Translation to support mobile devices. On mobile, the tool will:
+*Guide you to translate one section at a time in order to expand existing articles or create new ones
+*Make it easy to transfer knowledge across languages anytime from your mobile device
+We plan to enable the tools on Northern Sotho Wikipedia in the coming week if there are no objections from your community. After it is enabled, we’ll monitor the content created with the tools and process all the feedback. In any case, feel free to raise any concerns or questions you may already have as a reply to this message or on [[mw:Talk:Content_translation/Section_translation|the project talk page]]
+
+'''Try the Section translation tool'''
+
+Before the enablement, you can try the current implementation of the tool in [https://test.m.wikipedia.org/w/index.php?title=Special:ContentTranslation&from=en&to=fa&sx=true#/ our testing instance]. Once it is enabled on Northern Sotho Wikipedia, you’ll have access to [[:tr:Special:ContentTranslation|https://nso.wikipedia.org/wiki/Special:ContentTranslation]] with your mobile device. You can select an article to translate, and machine translation will be provided as a starting point for editors to improve.
+
+'''Provide feedback'''
+
+Please provide feedback about Section translation on [[mw:Talk:Content_translation/Section_translation|the project talk page]]. We want to  hear about your impressions on
+*The section translation tool
+*What do you think about our plans to enable it
+*Your ideas for improving the tool
+
+Thanks and we look forward to your feedback and questions.
+
+
+[[Mošomi:UOzurumba (WMF)|UOzurumba (WMF)]] ([[Boledišana le Mošomi:UOzurumba (WMF)|talk]]) 15:09, 29 Phupu 2022 (SAST) On behalf of the WMF Language team.
